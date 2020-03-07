@@ -1,141 +1,151 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/1.m3u8
-#EXTINF:-1 ,CCTV-2
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
-#EXTINF:-1 ,CCTV-3
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1 ,CCTV-4
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
-#EXTINF:-1 ,CCTV-5
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-5/1.m3u8
-#EXTINF:-1 ,CCTV-6
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 ,CCTV-7
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
-#EXTINF:-1 ,CCTV-8
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 ,CCTV-9
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-news/1.m3u8
-#EXTINF:-1 ,CCTV-10
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-10/1.m3u8
-#EXTINF:-1 ,CCTV-11
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
-#EXTINF:-1 ,CCTV-12
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
-#EXTINF:-1 ,CCTV-13
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
-#EXTINF:-1 ,CCTV-14
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
-#EXTINF:-1 ,CCTV-15
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 ,CCTV-17
-http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
-#EXTINF:-1 ,安徽卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/anhuistv/yst.m3u8
-#EXTINF:-1 ,北京卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdbeijingstv/yst.m3u8
-#EXTINF:-1 ,东方卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hddongfangstv/yst.m3u8
-#EXTINF:-1 ,东南卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
-#EXTINF:-1 ,凤凰卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 ,凤凰咨询
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/gansustv/yst.m3u8
-#EXTINF:-1 ,广东卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdguangdongstv/yst.m3u8
-#EXTINF:-1 ,广西卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/guangxistv/yst.m3u8
-#EXTINF:-1 ,贵州卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/guizhoustv/yst.m3u8
-#EXTINF:-1 ,河北卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hebeistv/yst.m3u8
-#EXTINF:-1 ,河南卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/henanstv/yst.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdheilongjiangstv/yst.m3u8
-#EXTINF:-1 ,湖北卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdhubeistv/yst.m3u8
-#EXTINF:-1 ,湖南卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdhunanstv/1.m3u8
-#EXTINF:-1 ,吉林卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/jilinstv/yst.m3u8
-#EXTINF:-1 ,江苏卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdjiangsustv/yst.m3u8
-#EXTINF:-1 ,江西卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/jiangxistv/yst.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/neimenggustv/yst.m3u8
-#EXTINF:-1 ,青海卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/qinghaistv/yst.m3u8
-#EXTINF:-1 ,山东卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdshandongstv/yst.m3u8
-#EXTINF:-1 ,山西卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/shanxistv/yst.m3u8
-#EXTINF:-1 ,陕西卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/shanxi1stv/yst.m3u8
-#EXTINF:-1 ,深圳卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/shenzhenstv/yst.m3u8
-#EXTINF:-1 ,四川卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/sichuanstv/yst.m3u8
-#EXTINF:-1 ,天津卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdtianjinstv/yst.m3u8
-#EXTINF:-1 ,西藏卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/xizangstv/yst.m3u8
-#EXTINF:-1 ,新疆卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/xinjiangstv/yst.m3u8
-#EXTINF:-1 ,云南卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/yunnanstv/yst.m3u8
-#EXTINF:-1 ,浙江卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/hdzhejiangstv/yst.m3u8
-#EXTINF:-1 ,重庆卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/chongqingstv/yst.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://117.169.124.37:6610/ysten-businessmobile/live/aiqingxj/yst.m3u8
-#EXTINF:-1 ,动作电影
-http://117.169.124.37:6610/ysten-businessmobile/live/dongzuody/yst.m3u8
-#EXTINF:-1 ,古装剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8
-#EXTINF:-1 ,海外剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/xiqumd/yst.m3u8
-#EXTINF:-1 ,黑莓电竞
-http://117.169.124.37:6610/ysten-businessmobile/live/wmyx/yst.m3u8
-#EXTINF:-1 ,黑莓动画
-http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
-#EXTINF:-1 ,家庭剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
-#EXTINF:-1 ,健康有约
-http://117.169.124.37:6610/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
-#EXTINF:-1 ,金牌综艺
-http://117.169.124.37:6610/ysten-businessmobile/live/saishijx/yst.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://117.169.124.37:6610/ysten-businessmobile/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 ,惊悚悬疑
-http://117.169.124.37:6610/ysten-businessmobile/live/jingsongxy/yst.m3u8
-#EXTINF:-1 ,精品大剧
-http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8
-#EXTINF:-1 ,精品电影
-http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
-#EXTINF:-1 ,精品记录
-http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
-#EXTINF:-1 ,精品体育
-http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
-#EXTINF:-1 ,军旅剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/junlvjc/yst.m3u8
-#EXTINF:-1 ,军事评论
-http://117.169.124.37:6610/ysten-businessmobile/live/junshipl/yst.m3u8
-#EXTINF:-1 ,卡酷少儿
-http://117.169.124.37:6610/ysten-businessmobile/live/kakukaton/yst.m3u8
-#EXTINF:-1 ,明星大片
-http://117.169.124.37:6610/ysten-businessmobile/live/mingxingdp/yst.m3u8
-#EXTINF:-1 ,农业致富
-http://117.169.124.37:6610/ysten-businessmobile/live/nongyezf/yst.m3u8
-#EXTINF:-1 ,炫动卡通
-http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
-#EXTINF:-1 ,优漫卡通
-http://117.169.124.37:6610/ysten-businessmobile/live/youmankaton/yst.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-1高清
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-3高清
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-5+高清
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-6高清
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-8高清
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="高清频道",安徽卫视高清
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="高清频道",北京纪实高清
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="高清频道",北京卫视高清
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="高清频道",北京文艺高清
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="高清频道",东方卫视高清
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="高清频道",广东卫视高清
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 group-title="高清频道",黑龙江卫视高清
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="高清频道",湖北卫视高清
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title="高清频道",湖南卫视高清
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="高清频道",江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="高清频道",辽宁卫视高清
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="高清频道",深圳卫视高清
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="高清频道",天津卫视高清
+http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 group-title="高清频道",浙江卫视高清
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="高清频道",重庆卫视高清
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="高清频道",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-1综合
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-2财经
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-3综艺
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-4中文国际
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-6电影
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-7军事农业
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-8电视剧
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-9纪录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-10科教
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-11戏曲
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-13新闻
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-14少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 group-title="标清频道",CCTV-15音乐
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 group-title="标清频道",CGTN
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+#EXTINF:-1 group-title="标清频道",安徽卫视
+http://ivi.bupt.edu.cn/hls/ahtv.m3u8
+#EXTINF:-1 group-title="标清频道",北京财经
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 group-title="标清频道",北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 group-title="标清频道",北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 group-title="标清频道",北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+#EXTINF:-1 group-title="标清频道",北京文艺
+http://ivi.bupt.edu.cn/hls/btv2.m3u8
+#EXTINF:-1 group-title="标清频道",北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 group-title="标清频道",北京影视
+http://ivi.bupt.edu.cn/hls/btv4.m3u8
+#EXTINF:-1 group-title="标清频道",兵团卫视
+http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 group-title="标清频道",东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 group-title="标清频道",甘肃卫视
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
+#EXTINF:-1 group-title="标清频道",广东卫视
+http://ivi.bupt.edu.cn/hls/gdtv.m3u8
+#EXTINF:-1 group-title="标清频道",广西卫视
+http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1 group-title="标清频道",贵州卫视
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 group-title="标清频道",河北卫视
+http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1 group-title="标清频道",河南卫视
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 group-title="标清频道",黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1 group-title="标清频道",湖北卫视
+http://ivi.bupt.edu.cn/hls/hbtv.m3u8
+#EXTINF:-1 group-title="标清频道",湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 group-title="标清频道",吉林卫视
+http://ivi.bupt.edu.cn/hls/jltv.m3u8
+#EXTINF:-1 group-title="标清频道",江苏卫视
+http://ivi.bupt.edu.cn/hls/jstv.m3u8
+#EXTINF:-1 group-title="标清频道",江西卫视
+http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1 group-title="标清频道",辽宁卫视
+http://ivi.bupt.edu.cn/hls/lntv.m3u8
+#EXTINF:-1 group-title="标清频道",内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 group-title="标清频道",宁夏卫视
+http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 group-title="标清频道",青海卫视
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 group-title="标清频道",厦门卫视
+http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 group-title="标清频道",山东卫视
+http://ivi.bupt.edu.cn/hls/sdtv.m3u8
+#EXTINF:-1 group-title="标清频道",山西卫视
+http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 group-title="标清频道",陕西卫视
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 group-title="标清频道",深圳卫视
+http://ivi.bupt.edu.cn/hls/sztv.m3u8
+#EXTINF:-1 group-title="标清频道",四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+#EXTINF:-1 group-title="标清频道",天津卫视
+http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 group-title="标清频道",西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 group-title="标清频道",新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 group-title="标清频道",云南卫视
+http://ivi.bupt.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 group-title="标清频道",浙江卫视
+http://ivi.bupt.edu.cn/hls/zjtv.m3u8
+#EXTINF:-1 group-title="标清频道",重庆卫视
+http://ivi.bupt.edu.cn/hls/cqtv.m3u8
+#EXTINF:-1 group-title="标清频道",旅游卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
