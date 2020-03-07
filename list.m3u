@@ -1,129 +1,141 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
-http://121.31.30.91:8081/ysten-business/live/hdcctv01/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/1.m3u8
 #EXTINF:-1 ,CCTV-2
-http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
 #EXTINF:-1 ,CCTV-3
-http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 ,CCTV-4
-http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
 #EXTINF:-1 ,CCTV-5
-http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-5/1.m3u8
 #EXTINF:-1 ,CCTV-6
-http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1 ,CCTV-7
-http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
 #EXTINF:-1 ,CCTV-8
-http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 ,CCTV-9
-http://121.31.30.91:8081/ysten-business/live/cctv-news/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-news/1.m3u8
 #EXTINF:-1 ,CCTV-10
-http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-10/1.m3u8
 #EXTINF:-1 ,CCTV-11
-http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
 #EXTINF:-1 ,CCTV-12
-http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
 #EXTINF:-1 ,CCTV-13
-http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
 #EXTINF:-1 ,CCTV-14
-http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
 #EXTINF:-1 ,CCTV-15
-http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8
 #EXTINF:-1 ,CCTV-5+
-http://121.31.30.91:8081/ysten-business/live/hdcctv05plus/1.m3u8
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 ,CCTV-17
+http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
 #EXTINF:-1 ,安徽卫视
-http://121.31.30.91:8081/ysten-business/live/anhuistv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/anhuistv/yst.m3u8
 #EXTINF:-1 ,北京卫视
-http://121.31.30.91:8081/ysten-business/live/hdbeijingstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdbeijingstv/yst.m3u8
 #EXTINF:-1 ,东方卫视
-http://121.31.30.91:8081/ysten-business/live/hddongfangstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hddongfangstv/yst.m3u8
+#EXTINF:-1 ,东南卫视
+http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 ,凤凰咨询
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 ,甘肃卫视
-http://121.31.30.91:8081/ysten-business/live/gansustv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/gansustv/yst.m3u8
 #EXTINF:-1 ,广东卫视
-http://121.31.30.91:8081/ysten-business/live/hdguangdongstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdguangdongstv/yst.m3u8
 #EXTINF:-1 ,广西卫视
-http://121.31.30.91:8081/ysten-business/live/guangxistv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/guangxistv/yst.m3u8
 #EXTINF:-1 ,贵州卫视
-http://121.31.30.91:8081/ysten-business/live/guizhoustv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/guizhoustv/yst.m3u8
 #EXTINF:-1 ,河北卫视
-http://121.31.30.91:8081/ysten-business/live/hebeistv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hebeistv/yst.m3u8
 #EXTINF:-1 ,河南卫视
-http://121.31.30.91:8081/ysten-business/live/henanstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/henanstv/yst.m3u8
 #EXTINF:-1 ,黑龙江卫视
-http://121.31.30.91:8081/ysten-business/live/hdheilongjiangstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdheilongjiangstv/yst.m3u8
 #EXTINF:-1 ,湖北卫视
-http://121.31.30.91:8081/ysten-business/live/hubeistv/1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdhubeistv/yst.m3u8
+#EXTINF:-1 ,湖南卫视
+http://117.169.124.37:6610/ysten-businessmobile/live/hdhunanstv/1.m3u8
 #EXTINF:-1 ,吉林卫视
-http://121.31.30.91:8081/ysten-business/live/jilinstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jilinstv/yst.m3u8
 #EXTINF:-1 ,江苏卫视
-http://121.31.30.91:8081/ysten-business/live/hdjiangsustv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdjiangsustv/yst.m3u8
 #EXTINF:-1 ,江西卫视
-http://121.31.30.91:8081/ysten-business/live/jiangxistv/1.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://121.31.30.91:8081/ysten-business/live/liaoningstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jiangxistv/yst.m3u8
 #EXTINF:-1 ,内蒙古卫视
-http://121.31.30.91:8081/ysten-business/live/neimenggustv/1.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://121.31.30.91:8081/ysten-business/live/ningxiastv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/neimenggustv/yst.m3u8
 #EXTINF:-1 ,青海卫视
-http://121.31.30.91:8081/ysten-business/live/qinghaistv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/qinghaistv/yst.m3u8
 #EXTINF:-1 ,山东卫视
-http://121.31.30.91:8081/ysten-business/live/hdshandongstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdshandongstv/yst.m3u8
 #EXTINF:-1 ,山西卫视
-http://121.31.30.91:8081/ysten-business/live/shanxistv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/shanxistv/yst.m3u8
 #EXTINF:-1 ,陕西卫视
-http://121.31.30.91:8081/ysten-business/live/shanxi1stv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/shanxi1stv/yst.m3u8
+#EXTINF:-1 ,深圳卫视
+http://117.169.124.37:6610/ysten-businessmobile/live/shenzhenstv/yst.m3u8
 #EXTINF:-1 ,四川卫视
-http://121.31.30.91:8081/ysten-business/live/sichuanstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/sichuanstv/yst.m3u8
 #EXTINF:-1 ,天津卫视
-http://121.31.30.91:8081/ysten-business/live/hdtianjinstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdtianjinstv/yst.m3u8
 #EXTINF:-1 ,西藏卫视
-http://121.31.30.91:8081/ysten-business/live/xizangstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/xizangstv/yst.m3u8
 #EXTINF:-1 ,新疆卫视
-http://121.31.30.91:8081/ysten-business/live/xinjiangstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/xinjiangstv/yst.m3u8
 #EXTINF:-1 ,云南卫视
-http://121.31.30.91:8081/ysten-business/live/yunnanstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/yunnanstv/yst.m3u8
 #EXTINF:-1 ,浙江卫视
-http://121.31.30.91:8081/ysten-business/live/hdzhejiangstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdzhejiangstv/yst.m3u8
 #EXTINF:-1 ,重庆卫视
-http://121.31.30.91:8081/ysten-business/live/chongqingstv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/chongqingstv/yst.m3u8
 #EXTINF:-1 ,爱情喜剧
-http://121.31.30.91:8081/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1 ,搏击
-http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/aiqingxj/yst.m3u8
 #EXTINF:-1 ,动作电影
-http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/dongzuody/yst.m3u8
 #EXTINF:-1 ,古装剧场
-http://121.31.30.91:8081/ysten-business/live/guzhuangjc/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8
 #EXTINF:-1 ,海外剧场
-http://121.31.30.91:8081/ysten-business/live/xiqumd/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/xiqumd/yst.m3u8
 #EXTINF:-1 ,黑莓电竞
-http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/wmyx/yst.m3u8
+#EXTINF:-1 ,黑莓动画
+http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
 #EXTINF:-1 ,家庭剧场
-http://121.31.30.91:8081/ysten-business/live/jiatingjc/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
 #EXTINF:-1 ,健康有约
-http://121.31.30.91:8081/ysten-business/live/ljiankangyouyue/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1 ,金牌综艺
-http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/saishijx/yst.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://117.169.124.37:6610/ysten-businessmobile/live/jinyingkaton/yst.m3u8
 #EXTINF:-1 ,惊悚悬疑
-http://121.31.30.91:8081/ysten-business/live/jingsongxy/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jingsongxy/yst.m3u8
 #EXTINF:-1 ,精品大剧
-http://121.31.30.91:8081/ysten-business/live/jdaju/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8
 #EXTINF:-1 ,精品电影
-http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
 #EXTINF:-1 ,精品记录
-http://121.31.30.91:8081/ysten-business/live/jingpinjl/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
 #EXTINF:-1 ,精品体育
-http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
 #EXTINF:-1 ,军旅剧场
-http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/junlvjc/yst.m3u8
 #EXTINF:-1 ,军事评论
-http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 ,旅游卫视
-http://121.31.30.91:8081/ysten-business/live/lvyoustv/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/junshipl/yst.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://117.169.124.37:6610/ysten-businessmobile/live/kakukaton/yst.m3u8
 #EXTINF:-1 ,明星大片
-http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/mingxingdp/yst.m3u8
 #EXTINF:-1 ,农业致富
-http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/nongyezf/yst.m3u8
+#EXTINF:-1 ,炫动卡通
+http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 ,优漫卡通
+http://117.169.124.37:6610/ysten-businessmobile/live/youmankaton/yst.m3u8
