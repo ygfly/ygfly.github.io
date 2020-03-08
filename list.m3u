@@ -41,10 +41,6 @@ http://ivi.bupt.edu.cn/hls/hljhd.m3u8
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 group-title="ivi高清",广东卫视
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 group-title="ivi高清",山东卫视
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 group-title="ivi高清",河南卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hnhd
 #EXTINF:-1 group-title="ivi高清",河北卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
 #EXTINF:-1 group-title="ivi高清",北京纪实高清
