@@ -1,151 +1,195 @@
 #EXTM3U
-#EXTINF:-1 group-title="高清频道",CCTV-1高清
+#EXTINF:-1 group-title="ivi高清",CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="高清频道",CCTV-3高清
+#EXTINF:-1 group-title="ivi高清",CCTV-2
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 group-title="ivi高清",CCTV-3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="高清频道",CCTV-5+高清
+#EXTINF:-1 group-title="ivi高清",CCTV-4
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
+#EXTINF:-1 group-title="ivi高清",CCTV-5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="高清频道",CCTV-6高清
+#EXTINF:-1 group-title="ivi高清",CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="高清频道",CCTV-8高清
+#EXTINF:-1 group-title="ivi高清",CCTV-7
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
+#EXTINF:-1 group-title="ivi高清",CCTV-8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="高清频道",安徽卫视高清
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 group-title="高清频道",北京纪实高清
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 group-title="高清频道",北京卫视高清
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 group-title="高清频道",北京文艺高清
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="高清频道",东方卫视高清
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 group-title="高清频道",广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 group-title="高清频道",黑龙江卫视高清
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 group-title="高清频道",湖北卫视高清
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="高清频道",湖南卫视高清
+#EXTINF:-1 group-title="ivi高清",CCTV-9
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+#EXTINF:-1 group-title="ivi高清",CCTV-10
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
+#EXTINF:-1 group-title="ivi高清",CCTV-12
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
+#EXTINF:-1 group-title="ivi高清",CCTV-14
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+#EXTINF:-1 group-title="ivi高清",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="高清频道",江苏卫视高清
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 group-title="高清频道",辽宁卫视高清
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 group-title="高清频道",深圳卫视高清
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 group-title="高清频道",天津卫视高清
-http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1 group-title="高清频道",浙江卫视高清
+#EXTINF:-1 group-title="ivi高清",北京卫视
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="ivi高清",浙江卫视
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 group-title="高清频道",重庆卫视高清
+#EXTINF:-1 group-title="ivi高清",江苏卫视
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="ivi高清",东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="ivi高清",安徽卫视
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="ivi高清",黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="ivi高清",深圳卫视
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="ivi高清",广东卫视
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 group-title="ivi高清",山东卫视
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title="ivi高清",河南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hnhd
+#EXTINF:-1 group-title="ivi高清",河北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
+#EXTINF:-1 group-title="ivi高清",北京纪实高清
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="ivi高清",北京文艺高清
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="ivi高清",湖北卫视高清
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title="ivi高清",辽宁卫视高清
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="ivi高清",重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 group-title="高清频道",CHC高清电影
+#EXTINF:-1 group-title="ivi高清",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-1综合
+#EXTINF:-1 group-title="ivi标清",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-2财经
+#EXTINF:-1 group-title="ivi标清",CCTV-2财经
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-3综艺
+#EXTINF:-1 group-title="ivi标清",CCTV-3综艺
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-4中文国际
+#EXTINF:-1 group-title="ivi标清",CCTV-4中文国际
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-6电影
+#EXTINF:-1 group-title="ivi标清",CCTV-6电影
 http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-7军事农业
+#EXTINF:-1 group-title="ivi标清",CCTV-7军事农业
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-8电视剧
+#EXTINF:-1 group-title="ivi标清",CCTV-8电视剧
 http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-9纪录
+#EXTINF:-1 group-title="ivi标清",CCTV-9纪录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-10科教
+#EXTINF:-1 group-title="ivi标清",CCTV-10科教
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-11戏曲
+#EXTINF:-1 group-title="ivi标清",CCTV-11戏曲
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-12社会与法
+#EXTINF:-1 group-title="ivi标清",CCTV-12社会与法
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-13新闻
+#EXTINF:-1 group-title="ivi标清",CCTV-13新闻
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-14少儿
+#EXTINF:-1 group-title="ivi标清",CCTV-14少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 group-title="标清频道",CCTV-15音乐
+#EXTINF:-1 group-title="ivi标清",CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 group-title="标清频道",CGTN
+#EXTINF:-1 group-title="ivi标清",CGTN
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
-#EXTINF:-1 group-title="标清频道",安徽卫视
+#EXTINF:-1 group-title="ivi标清",CETV-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
+#EXTINF:-1 group-title="ivi标清",CETV-3
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
+#EXTINF:-1 group-title="ivi标清",CETV-4
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
+#EXTINF:-1 group-title="ivi标清",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1 group-title="标清频道",北京财经
+#EXTINF:-1 group-title="ivi标清",北京财经
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 group-title="标清频道",北京科教
+#EXTINF:-1 group-title="ivi标清",北京科教
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 group-title="标清频道",北京青年
+#EXTINF:-1 group-title="ivi标清",北京青年
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 group-title="标清频道",北京生活
+#EXTINF:-1 group-title="ivi标清",北京生活
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 group-title="标清频道",北京文艺
+#EXTINF:-1 group-title="ivi标清",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 group-title="标清频道",北京新闻
+#EXTINF:-1 group-title="ivi标清",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 group-title="标清频道",北京影视
+#EXTINF:-1 group-title="ivi标清",北京影视
 http://ivi.bupt.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 group-title="标清频道",兵团卫视
-http://ivi.bupt.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 group-title="标清频道",东南卫视
-http://ivi.bupt.edu.cn/hls/dntv.m3u8
-#EXTINF:-1 group-title="标清频道",甘肃卫视
-http://ivi.bupt.edu.cn/hls/gstv.m3u8
-#EXTINF:-1 group-title="标清频道",广东卫视
+#EXTINF:-1 group-title="ivi标清",广东卫视
 http://ivi.bupt.edu.cn/hls/gdtv.m3u8
-#EXTINF:-1 group-title="标清频道",广西卫视
+#EXTINF:-1 group-title="ivi标清",广西卫视
 http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1 group-title="标清频道",贵州卫视
-http://ivi.bupt.edu.cn/hls/gztv.m3u8
-#EXTINF:-1 group-title="标清频道",河北卫视
+#EXTINF:-1 group-title="ivi标清",河北卫视
 http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1 group-title="标清频道",河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 group-title="标清频道",黑龙江卫视
+#EXTINF:-1 group-title="ivi标清",黑龙江卫视
 http://ivi.bupt.edu.cn/hls/hljtv.m3u8
-#EXTINF:-1 group-title="标清频道",湖北卫视
+#EXTINF:-1 group-title="ivi标清",湖北卫视
 http://ivi.bupt.edu.cn/hls/hbtv.m3u8
-#EXTINF:-1 group-title="标清频道",湖南卫视
+#EXTINF:-1 group-title="ivi标清",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1 group-title="标清频道",吉林卫视
+#EXTINF:-1 group-title="ivi标清",吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
-#EXTINF:-1 group-title="标清频道",江苏卫视
+#EXTINF:-1 group-title="ivi标清",江苏卫视
 http://ivi.bupt.edu.cn/hls/jstv.m3u8
-#EXTINF:-1 group-title="标清频道",江西卫视
-http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1 group-title="标清频道",辽宁卫视
+#EXTINF:-1 group-title="ivi标清",辽宁卫视
 http://ivi.bupt.edu.cn/hls/lntv.m3u8
-#EXTINF:-1 group-title="标清频道",内蒙古卫视
-http://ivi.bupt.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 group-title="标清频道",宁夏卫视
-http://ivi.bupt.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1 group-title="标清频道",青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 group-title="标清频道",厦门卫视
+#EXTINF:-1 group-title="ivi标清",厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 group-title="标清频道",山东卫视
+#EXTINF:-1 group-title="ivi标清",山东卫视
 http://ivi.bupt.edu.cn/hls/sdtv.m3u8
-#EXTINF:-1 group-title="标清频道",山西卫视
-http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 group-title="标清频道",陕西卫视
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 group-title="标清频道",深圳卫视
+#EXTINF:-1 group-title="ivi标清",深圳卫视
 http://ivi.bupt.edu.cn/hls/sztv.m3u8
-#EXTINF:-1 group-title="标清频道",四川卫视
-http://ivi.bupt.edu.cn/hls/sctv.m3u8
-#EXTINF:-1 group-title="标清频道",天津卫视
-http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1 group-title="标清频道",西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 group-title="标清频道",新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 group-title="标清频道",云南卫视
-http://ivi.bupt.edu.cn/hls/yntv.m3u8
-#EXTINF:-1 group-title="标清频道",浙江卫视
+#EXTINF:-1 group-title="ivi标清",浙江卫视
 http://ivi.bupt.edu.cn/hls/zjtv.m3u8
-#EXTINF:-1 group-title="标清频道",重庆卫视
+#EXTINF:-1 group-title="ivi标清",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1 group-title="标清频道",旅游卫视
+#EXTINF:-1 group-title="ivi标清",天津卫视
+http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 group-title="ivi标清",河南卫视
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 group-title="ivi标清",陕西卫视
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 group-title="ivi标清",西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 group-title="ivi标清",内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 group-title="ivi标清",青海卫视
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 group-title="ivi标清",四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+#EXTINF:-1 group-title="ivi标清",山西卫视
+http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 group-title="ivi标清",新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 group-title="ivi标清",云南卫视
+http://ivi.bupt.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 group-title="ivi标清",江西卫视
+http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1 group-title="ivi标清",东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 group-title="ivi标清",贵州卫视
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 group-title="ivi标清",甘肃卫视
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
+#EXTINF:-1 group-title="ivi标清",兵团卫视
+http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 group-title="ivi标清",宁夏卫视
+http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 group-title="ivi标清",旅游卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 group-title="ivi标清",第一剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+#EXTINF:-1 group-title="ivi标清",风云剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+#EXTINF:-1 group-title="ivi标清",风云音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+#EXTINF:-1 group-title="ivi标清",风云足球
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+#EXTINF:-1 group-title="ivi标清",怀旧剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+#EXTINF:-1 group-title="ivi标清",世界地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+#EXTINF:-1 group-title="ivi标清",国防军事
+rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+#EXTINF:-1 group-title="ivi标清",CHC家庭影院
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 group-title="ivi标清",CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+#EXTINF:-1 group-title="ivi标清",金鹰卡通
+rtmp://ivi.bupt.edu.cn:1935/livetv/jykttv
