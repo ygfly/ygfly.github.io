@@ -46,7 +46,7 @@ proxies:
 
   - name: "home_ssr"
     type: ss
-    server: www.ygfly.ga
+    server: ygfly.f3322.org
     port: 29997
     cipher: chacha20-ietf
     password: ygf700723
@@ -54,7 +54,7 @@ proxies:
 
   - name: "job_ssr"
     type: ss
-    server: ygfly.ga
+    server: 219.149.53.71
     port: 29997
     cipher: chacha20-ietf
     password: ygf700723
