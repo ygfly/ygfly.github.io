@@ -25,12 +25,7 @@ secret: ''
 
 
 proxies:
-  - {"name":"公益台湾6[x0|无SLA|NF|V2RAY]@80Mbps","type":"vmess","server":"br-cucm-free1.fnf-gfw-node.top","port":50212,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"公益新加坡AGA1[x0|无SLA|NF*|V2RAY]@1Gbps","type":"vmess","server":"fq-hk-aga1.fnf-gfw-node.top","port":25204,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"公益新加坡[x0|无SLA|NF*|V2RAY]@80Mbps","type":"vmess","server":"br-cucm-free1.fnf-gfw-node.top","port":50114,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"公益美国1[x0|无SLA|NF*|V2RAY]@80Mbps","type":"vmess","server":"br-cucm-free1.fnf-gfw-node.top","port":50224,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"公益香港1[x0|无SLA|NF*|V2RAY]@80Mbps","type":"vmess","server":"br-cucm-free1.fnf-gfw-node.top","port":50104,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"公益香港AGA1[x0|无SLA|NF*|V2RAY]@1Gbps","type":"vmess","server":"fq-hk-aga1.fnf-gfw-node.top","port":25112,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
+# - {"name":"公益台湾6[x0|无SLA|NF|V2RAY]@80Mbps","type":"vmess","server":"br-cucm-free1.fnf-gfw-node.top","port":50212,"uuid":"16c766ac-aea0-3b84-acc5-adc0cac00b31","alterId":0,"cipher":"auto","udp":true}
 
   - name: "ws_tls_via"
     type: vmess
@@ -75,12 +70,6 @@ proxy-groups:
   name: "自动节点选择"
   type: url-test
   proxies:
-    - '公益台湾6[x0|无SLA|NF|V2RAY]@80Mbps'
-    - '公益新加坡AGA1[x0|无SLA|NF*|V2RAY]@1Gbps'
-    - '公益新加坡[x0|无SLA|NF*|V2RAY]@80Mbps'
-    - '公益美国1[x0|无SLA|NF*|V2RAY]@80Mbps'
-    - '公益香港1[x0|无SLA|NF*|V2RAY]@80Mbps'
-    - '公益香港AGA1[x0|无SLA|NF*|V2RAY]@1Gbps'
     - "ws_tls_via"
     - "home_ssr"
     - "job_ssr"
@@ -94,12 +83,6 @@ proxy-groups:
   type: select
   proxies:
     - "自动节点选择"
-    - '公益台湾6[x0|无SLA|NF|V2RAY]@80Mbps'
-    - '公益新加坡AGA1[x0|无SLA|NF*|V2RAY]@1Gbps'
-    - '公益新加坡[x0|无SLA|NF*|V2RAY]@80Mbps'
-    - '公益美国1[x0|无SLA|NF*|V2RAY]@80Mbps'
-    - '公益香港1[x0|无SLA|NF*|V2RAY]@80Mbps'
-    - '公益香港AGA1[x0|无SLA|NF*|V2RAY]@1Gbps'
     - "ws_tls_via"
     - "home_ssr"
     - "job_ssr"
