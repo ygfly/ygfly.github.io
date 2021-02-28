@@ -107,7 +107,6 @@ http://192.168.1.1:8000/rtp/239.33.3.74:23300
 http://192.168.1.1:8000/rtp/239.33.3.45:23010
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.1:8000/rtp/239.33.2.68:20680
-
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://192.168.1.1:8000/rtp/239.33.3.1:22570
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="辽宁",辽宁都市
@@ -328,13 +327,13 @@ http://192.168.1.1:8000/rtp/239.33.2.54:20540
 http://192.168.1.1:8000/rtp/239.33.2.55:20550
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="标清",贵州卫视
 http://192.168.1.1:8000/rtp/239.33.2.58:20580
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="标清",农林卫视
-http://192.168.1.1:8000/rtp/239.33.2.69:20690
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="标清",中国教育1
-http://192.168.1.1:8000/rtp/239.33.2.67:20670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="标清",家庭影院
-http://192.168.1.1:8000/rtp/239.33.2.84:20840
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="标清",海南卫视
 http://192.168.1.1:8000/rtp/239.33.2.66:20660
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="标清",农林卫视
+http://192.168.1.1:8000/rtp/239.33.2.69:20690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="标清",家庭影院
+http://192.168.1.1:8000/rtp/239.33.2.84:20840
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="标清",中国教育1
+http://192.168.1.1:8000/rtp/239.33.2.67:20670
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="标清",中国教育4
 http://192.168.1.1:8000/rtp/239.33.2.129:21290
