@@ -37,7 +37,7 @@ http://192.168.1.1:8000/rtp/239.33.3.6:22620
 http://192.168.1.1:8000/rtp/239.33.3.102:23580
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTNNEWS
 http://192.168.1.1:8000/rtp/239.33.3.43:22990
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN纪录
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" tvg-id="891" tvg-name="CGTNDocumentary" group-title="央视",CGTN纪录
 http://192.168.1.1:8000/rtp/239.33.3.44:23000
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://192.168.1.1:8000/rtp/239.33.3.21:22770
@@ -117,7 +117,7 @@ http://192.168.1.1:8000/rtp/239.33.2.18:20180
 http://192.168.1.1:8000/rtp/239.33.2.19:20190
 #EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.jpg" group-title="辽宁",辽宁生活
 http://192.168.1.1:8000/rtp/239.33.2.20:20200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="辽宁",辽宁教育青少
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" tvg-id="6003" tvg-name="辽宁青少" group-title="辽宁",辽宁教育青少
 http://192.168.1.1:8000/rtp/239.33.2.21:20210
 #EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.jpg" group-title="辽宁",辽宁北方
 http://192.168.1.1:8000/rtp/239.33.2.22:20220
