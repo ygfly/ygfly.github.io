@@ -63,7 +63,7 @@ http://192.168.1.1:8000/rtp/239.33.3.18:22740
 http://192.168.1.1:8000/rtp/239.33.2.46:20460
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://192.168.1.1:8000/rtp/239.33.3.19:22750
-#EXTINF:-1 tvg-id="99" tvg-name="暂无指南" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://192.168.1.1:8000/rtp/239.33.2.48:20480
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://192.168.1.1:8000/rtp/239.33.3.17:22730
@@ -105,7 +105,7 @@ http://192.168.1.1:8000/rtp/239.33.3.74:23300
 http://192.168.1.1:8000/rtp/239.33.3.45:23010
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.1:8000/rtp/239.33.2.68:20680
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视
 http://192.168.1.1:8000/rtp/239.33.3.1:22570
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="辽宁",辽宁都市
 http://192.168.1.1:8000/rtp/239.33.2.17:20170
@@ -259,79 +259,79 @@ http://192.168.1.1:8000/rtp/239.33.2.66:20660
 http://192.168.1.1:8000/rtp/239.33.2.67:20670
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="标清",中国教育4
 http://192.168.1.1:8000/rtp/239.33.2.129:21290
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",农林卫视
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",农林卫视
 http://192.168.1.1:8000/rtp/239.33.2.69:20690
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",家庭影院
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",家庭影院
 http://192.168.1.1:8000/rtp/239.33.2.84:20840
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",辽宁移动电视
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",辽宁移动电视
 http://192.168.1.1:8000/rtp/239.33.2.25:20250
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",炫动卡通
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",炫动卡通
 http://192.168.1.1:8000/rtp/239.33.2.71:20710
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",电视指南
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电视指南
 http://192.168.1.1:8000/rtp/239.33.2.88:20880
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",央视文化精品
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",央视文化精品
 http://192.168.1.1:8000/rtp/239.33.2.95:20950
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",都市剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",都市剧场
 http://192.168.1.1:8000/rtp/239.33.3.95:23510
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",法治天地
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",法治天地
 http://192.168.1.1:8000/rtp/239.33.3.89:23450
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",金色频道
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",金色频道
 http://192.168.1.1:8000/rtp/239.33.3.90:23460
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",动漫秀场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",动漫秀场
 http://192.168.1.1:8000/rtp/239.33.3.93:23490
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",游戏竞技
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",游戏竞技
 http://192.168.1.1:8000/rtp/239.33.2.31:20310
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",中学生频道
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",中学生频道
 http://192.168.1.1:8000/rtp/239.33.2.148:21480
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",电子体育
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电子体育
 http://192.168.1.1:8000/rtp/239.33.2.32:20320
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",喜剧电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",喜剧电影
 http://192.168.1.1:8000/rtp/239.33.2.27:20270
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",家庭影院
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",家庭影院
 http://192.168.1.1:8000/rtp/239.33.3.29:22850
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",热播电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",热播电影
 http://192.168.1.1:8000/rtp/239.33.2.77:20770
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",名家电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",名家电影
 http://192.168.1.1:8000/rtp/239.33.2.26:20260
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",时光剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",时光剧场
 http://192.168.1.1:8000/rtp/239.33.3.48:23040
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",大众影视
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",大众影视
 http://192.168.1.1:8000/rtp/239.33.3.27:22830
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",译制片频道
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",译制片频道
 http://192.168.1.1:8000/rtp/239.33.2.75:20750
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",家庭剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",家庭剧场
 http://192.168.1.1:8000/rtp/239.33.3.28:22840
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",卡通剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",卡通剧场
 http://192.168.1.1:8000/rtp/239.33.3.30:22860
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",古装剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",古装剧场
 http://192.168.1.1:8000/rtp/239.33.2.80:20800
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",党员教育
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",党员教育
 http://192.168.1.1:8000/rtp/239.33.2.136:21360
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",劲爆电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",劲爆电影
 http://192.168.1.1:8000/rtp/239.33.2.29:20290
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",原声电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",原声电影
 http://192.168.1.1:8000/rtp/239.33.2.74:20740
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",亚洲电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",亚洲电影
 http://192.168.1.1:8000/rtp/239.33.2.76:20760
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",怀旧电影
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",怀旧电影
 http://192.168.1.1:8000/rtp/239.33.2.78:20780
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",生活剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",生活剧场
 http://192.168.1.1:8000/rtp/239.33.2.79:20790
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",经典剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",经典剧场
 http://192.168.1.1:8000/rtp/239.33.2.81:20810
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",探案剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",探案剧场
 http://192.168.1.1:8000/rtp/239.33.2.82:20820
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",环球剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",环球剧场
 http://192.168.1.1:8000/rtp/239.33.2.83:20830
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",纪录片频道
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",纪录片频道
 http://192.168.1.1:8000/rtp/239.33.2.85:20850
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",探索集锦
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",探索集锦
 http://192.168.1.1:8000/rtp/239.33.2.86:20860
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",地理杂志
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",地理杂志
 http://192.168.1.1:8000/rtp/239.33.2.87:20870
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",晴天动画馆
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",晴天动画馆
 http://192.168.1.1:8000/rtp/239.33.3.47:23030
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",爱映画频道
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",爱映画频道
 http://192.168.1.1:8000/rtp/239.33.3.46:23020
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="99" tvg-name="暂无指南" group-title="其它",家政频道
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",家政频道
 http://192.168.1.1:8000/rtp/239.33.3.103:23590
