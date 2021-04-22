@@ -173,26 +173,6 @@ http://ivi.bupt.edu.cn/hls/bttv.m3u8
 http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 #EXTINF:-1 group-title="ivi标清",旅游卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 group-title="ivi标清",第一剧场
-rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
-#EXTINF:-1 group-title="ivi标清",风云剧场
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
-#EXTINF:-1 group-title="ivi标清",风云音乐
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
-#EXTINF:-1 group-title="ivi标清",风云足球
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
-#EXTINF:-1 group-title="ivi标清",怀旧剧场
-rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
-#EXTINF:-1 group-title="ivi标清",世界地理
-rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
-#EXTINF:-1 group-title="ivi标清",国防军事
-rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-#EXTINF:-1 group-title="ivi标清",CHC家庭影院
-rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-#EXTINF:-1 group-title="ivi标清",CHC动作电影
-rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-#EXTINF:-1 group-title="ivi标清",金鹰卡通
-rtmp://ivi.bupt.edu.cn:1935/livetv/jykttv
 #EXTINF:-1 group-title="cctv源",CCTV-1
 http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-2
