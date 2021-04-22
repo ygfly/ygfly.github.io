@@ -11,18 +11,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="ivi高清",CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="ivi高清",CCTV-7
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
 #EXTINF:-1 group-title="ivi高清",CCTV-8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="ivi高清",CCTV-9
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
-#EXTINF:-1 group-title="ivi高清",CCTV-10
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
-#EXTINF:-1 group-title="ivi高清",CCTV-12
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
-#EXTINF:-1 group-title="ivi高清",CCTV-14
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
 #EXTINF:-1 group-title="ivi高清",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 group-title="ivi高清",北京卫视
@@ -47,10 +37,6 @@ http://ivi.bupt.edu.cn/hls/szhd.m3u8
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 group-title="ivi高清",山东卫视
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 group-title="ivi高清",河南卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hnhd
-#EXTINF:-1 group-title="ivi高清",河北卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
 #EXTINF:-1 group-title="ivi高清",湖北卫视
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 group-title="ivi高清",辽宁卫视
@@ -89,12 +75,6 @@ http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 group-title="ivi标清",CGTN
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
-#EXTINF:-1 group-title="ivi标清",CETV-1
-rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
-#EXTINF:-1 group-title="ivi标清",CETV-3
-rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
-#EXTINF:-1 group-title="ivi标清",CETV-4
-rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 #EXTINF:-1 group-title="ivi标清",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 #EXTINF:-1 group-title="ivi标清",北京财经
@@ -203,51 +183,3 @@ http://cctvcnch5ca.v.wscdns.com/live/cctvchild_2/10793.m3u8
 http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-17
 https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",北京卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/btv1_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",东方卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongfang_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",安徽卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",黑龙江卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/heilongjiang_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",辽宁卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",深圳卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/shenzhen_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",广东卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/guangdong_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",天津卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/tianjin_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",湖北卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hubei_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",山东卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/shandong_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",重庆卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",河南卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",陕西卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/shan3xi_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",吉林卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/jilin_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",广西卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/guangxi_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",河北卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",西藏卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/xizang_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",青海卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/qinghai_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",四川卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/sichuan_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",山西卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/shan1xi_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",云南卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/yunnan_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",江西卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/jiangxi_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",东南卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2_hd.m3u8
-#EXTINF:-1 group-title="cctv源",贵州卫视
-http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/guizhou_2_hd.m3u8
