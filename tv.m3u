@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ivi高清",CCTV-1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="ivi高清",CCTV-3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="ivi高清",CCTV-5+
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="ivi高清",CCTV-6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="ivi高清",CCTV-8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="ivi高清",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="ivi高清",北京卫视
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 group-title="ivi高清",北京纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 group-title="ivi高清",北京文艺
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="ivi高清",浙江卫视
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 group-title="ivi高清",江苏卫视
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 group-title="ivi高清",东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 group-title="ivi高清",安徽卫视
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 group-title="ivi高清",黑龙江卫视
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 group-title="ivi高清",深圳卫视
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 group-title="ivi高清",广东卫视
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 group-title="ivi高清",山东卫视
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 group-title="ivi高清",湖北卫视
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="ivi高清",辽宁卫视
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 group-title="ivi高清",重庆卫视
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 group-title="ivi高清",CHC高清
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="ivi标清",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:-1 group-title="ivi标清",CCTV-2财经
