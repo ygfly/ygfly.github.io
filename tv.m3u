@@ -155,22 +155,10 @@ http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-1
 http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-2
-http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-3
-http://cctvcnch5ca.v.wscdns.com/live/cctv3_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-4
 http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-6
 http://cctvcnch5ca.v.wscdns.com/live/cctv6_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-7
-http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-8
-http://cctvcnch5ca.v.wscdns.com/live/cctv8_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-9
-http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-10
-http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-11
 http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-12
@@ -179,7 +167,5 @@ http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
 http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-14
 http://cctvcnch5ca.v.wscdns.com/live/cctvchild_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-15
-http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-17
 https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
