@@ -111,12 +111,6 @@ http://ivi.bupt.edu.cn/hls/lytv.m3u8
 http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-4
 http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-6
-http://cctvcnch5ca.v.wscdns.com/live/cctv6_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-11
-http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
-#EXTINF:-1 group-title="cctv源",CCTV-12
-http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-13
 http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
 #EXTINF:-1 group-title="cctv源",CCTV-14
