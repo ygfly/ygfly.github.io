@@ -225,7 +225,7 @@ http://192.168.1.1:8000/rtp/239.33.2.148:21480
 http://192.168.1.1:8000/rtp/239.33.2.32:20320
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",喜剧电影
 http://192.168.1.1:8000/rtp/239.33.2.27:20270
-#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",家庭影院
+#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",高清家庭影院
 http://192.168.1.1:8000/rtp/239.33.3.29:22850
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",热播电影
 http://192.168.1.1:8000/rtp/239.33.2.77:20770
