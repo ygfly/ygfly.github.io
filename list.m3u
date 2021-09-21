@@ -197,6 +197,8 @@ http://192.168.1.1:8000/rtp/239.33.2.117:21170
 http://192.168.1.1:8000/rtp/239.33.2.102:21020
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.1:8000/rtp/239.33.2.116:21160
+#EXTINF:-1 tvg-id="6602" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",先锋乒羽
+http://192.168.1.1:8000/rtp/239.33.2.208:22080
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",CGTN-俄语
 http://192.168.1.1:8000/rtp/239.33.2.228:22280
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",CGTN-西班牙语
@@ -225,8 +227,6 @@ http://192.168.1.1:8000/rtp/239.33.3.76:23320
 http://192.168.1.1:8000/rtp/239.33.3.77:23330
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电视指南
 http://192.168.1.1:8000/rtp/239.33.2.88:20880
-#EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",先锋乒羽
-http://192.168.1.1:8000/rtp/239.33.2.208:22080
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",央视文化精品
 http://192.168.1.1:8000/rtp/239.33.2.95:20950
 #EXTINF:-1 tvg-id="6562" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",都市剧场
