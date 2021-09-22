@@ -237,8 +237,6 @@ http://192.168.1.1:8000/rtp/239.33.3.89:23450
 http://192.168.1.1:8000/rtp/239.33.3.90:23460
 #EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",动漫秀场
 http://192.168.1.1:8000/rtp/239.33.3.93:23490
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",家政频道
-http://192.168.1.1:8000/rtp/239.33.3.103:23590
 #EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",中学生频道
 http://192.168.1.1:8000/rtp/239.33.2.148:21480
 #EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",中华特产
