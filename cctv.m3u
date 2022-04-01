@@ -1,25 +1,33 @@
 #EXTM3U
 #EXTINF:-1 group-title="CCTV",CCTV-1
-http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv1_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-2
-http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv2_1/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-3
+http://cctv.v.live.qingcdn.com/live/cctv3_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-4
-http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv4_1/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5
+http://cctv.v.live.qingcdn.com/live/cctv5_1/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-6
+http://cctv.v.live.qingcdn.com/live/cctv6_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-7
-http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv7_1/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-8
+http://cctv.v.live.qingcdn.com/live/cctv8_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-9
-http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctvjilu_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-10
-http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv10_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-11
-http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv11_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-12
-http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv12_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-13
-http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv13_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-14
-http://cctvcnch5ca.v.wscdns.com/live/cctvchild_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctvchild_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-15
-http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv15_1/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-17
-https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
+http://cctv.v.live.qingcdn.com/live/cctv17_1/index.m3u8
