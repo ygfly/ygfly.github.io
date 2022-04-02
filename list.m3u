@@ -33,6 +33,10 @@ http://192.168.1.1:8000/rtp/239.33.2.15:20150
 http://192.168.1.1:8000/rtp/239.33.3.8:22640
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://192.168.1.1:8000/rtp/239.33.3.6:22620
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png"  group-title="央视",CCTV-4欧洲
+http://192.168.1.1:8000/rtp/239.33.2.223:22230
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png"  group-title="央视",CCTV-4美洲
+http://192.168.1.1:8000/rtp/239.33.2.224:22240
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://192.168.1.1:8000/rtp/239.33.3.21:22770
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
@@ -181,53 +185,49 @@ http://192.168.1.1:8000/rtp/239.33.3.96:23520
 http://192.168.1.1:8000/rtp/239.33.3.91:23470
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",先锋乒羽
 http://192.168.1.1:8000/rtp/239.33.2.208:22080
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="数字",哈哈炫动
+http://192.168.1.1:8000/rtp/239.33.2.71:20710
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"  group-title="数字",央视文化精品
+http://192.168.1.1:8000/rtp/239.33.2.95:20950
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="其它",CGTNNEWS
 http://192.168.1.1:8000/rtp/239.33.3.43:22990
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="其它",CGTN纪录
 http://192.168.1.1:8000/rtp/239.33.3.44:23000
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",CGTN-俄语
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="其它",CGTN-俄语
 http://192.168.1.1:8000/rtp/239.33.2.228:22280
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",CGTN-西班牙语
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="其它",CGTN-西班牙语
 http://192.168.1.1:8000/rtp/239.33.2.225:22250
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",CGTN-阿拉伯语
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="其它",CGTN-阿拉伯语
 http://192.168.1.1:8000/rtp/239.33.2.227:22270
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",CGTN-法语
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="其它",CGTN-法语
 http://192.168.1.1:8000/rtp/239.33.2.226:22260
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",辽宁移动电视
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",辽宁移动电视
 http://192.168.1.1:8000/rtp/239.33.2.25:20250
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",山东教育
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="其它",山东教育
 http://192.168.1.1:8000/rtp/239.33.3.79:23350
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",农林卫视
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",农林卫视
 http://192.168.1.1:8000/rtp/239.33.2.69:20690
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",哈哈炫动
-http://192.168.1.1:8000/rtp/239.33.2.71:20710
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",CCTV-4欧洲
-http://192.168.1.1:8000/rtp/239.33.2.223:22230
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",CCTV-4美洲
-http://192.168.1.1:8000/rtp/239.33.2.224:22240
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",西藏卫视（藏语）
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="其它",西藏卫视（藏语）
 http://192.168.1.1:8000/rtp/239.33.3.78:23340
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",安多藏语综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="其它",安多藏语综合
 http://192.168.1.1:8000/rtp/239.33.3.76:23320
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",康巴藏语综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="其它",康巴藏语综合
 http://192.168.1.1:8000/rtp/239.33.3.77:23330
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电视指南
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电视指南
 http://192.168.1.1:8000/rtp/239.33.2.88:20880
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",央视文化精品
-http://192.168.1.1:8000/rtp/239.33.2.95:20950
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",都市剧场
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",都市剧场
 http://192.168.1.1:8000/rtp/239.33.3.95:23510
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",法治天地
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",法治天地
 http://192.168.1.1:8000/rtp/239.33.3.89:23450
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",金色学堂
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",金色学堂
 http://192.168.1.1:8000/rtp/239.33.3.90:23460
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",动漫秀场
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",动漫秀场
 http://192.168.1.1:8000/rtp/239.33.3.93:23490
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",中华特产
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",中华特产
 http://192.168.1.1:8000/rtp/239.33.2.145:21450
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",游戏竞技
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",游戏竞技
 http://192.168.1.1:8000/rtp/239.33.2.31:20310
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电子体育
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电子体育
 http://192.168.1.1:8000/rtp/239.33.2.32:20320
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",党员教育
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",党员教育
 http://192.168.1.1:8000/rtp/239.33.2.136:21360
