@@ -183,7 +183,7 @@ http://192.168.1.1:8000/rtp/239.33.3.94:23500
 http://192.168.1.1:8000/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",生活时尚
 http://192.168.1.1:8000/rtp/239.33.3.91:23470
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",先锋乒羽
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png"  group-title="数字",先锋乒羽
 http://192.168.1.1:8000/rtp/239.33.2.208:22080
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png"  group-title="数字",哈哈炫动
 http://192.168.1.1:8000/rtp/239.33.2.71:20710
