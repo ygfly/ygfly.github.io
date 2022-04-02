@@ -109,23 +109,23 @@ http://192.168.1.1:8000/rtp/239.33.2.68:20680
 http://192.168.1.1:8000/rtp/239.33.3.80:23360
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视
 http://192.168.1.1:8000/rtp/239.33.3.1:22570
-#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="辽宁",辽宁都市
+#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.png" group-title="辽宁",辽宁都市
 http://192.168.1.1:8000/rtp/239.33.2.17:20170
-#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.jpg" group-title="辽宁",辽宁影视剧
+#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.png" group-title="辽宁",辽宁影视剧
 http://192.168.1.1:8000/rtp/239.33.2.18:20180
-#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.jpg" group-title="辽宁",辽宁体育
+#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育
 http://192.168.1.1:8000/rtp/239.33.2.19:20190
-#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.jpg" group-title="辽宁",辽宁生活
+#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.png" group-title="辽宁",辽宁生活
 http://192.168.1.1:8000/rtp/239.33.2.20:20200
-#EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="辽宁",辽宁教育青少
+#EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.png" group-title="辽宁",辽宁教育青少
 http://192.168.1.1:8000/rtp/239.33.2.21:20210
-#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.jpg" group-title="辽宁",辽宁北方
+#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV8.png" group-title="辽宁",辽宁北方
 http://192.168.1.1:8000/rtp/239.33.2.22:20220
-#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="辽宁",辽宁公共
+#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.png" group-title="辽宁",辽宁公共
 http://192.168.1.1:8000/rtp/239.33.2.122:21220
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="辽宁",辽宁经济
+#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.png" group-title="辽宁",辽宁经济
 http://192.168.1.1:8000/rtp/239.33.2.121:21210
-#EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg" group-title="辽宁",沈阳新闻综合
+#EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.png" group-title="辽宁",沈阳新闻综合
 http://192.168.1.1:8000/rtp/239.33.2.123:21230
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="数字",金鹰卡通
 http://192.168.1.1:8000/rtp/239.33.2.70:20700
