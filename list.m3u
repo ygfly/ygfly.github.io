@@ -179,20 +179,6 @@ http://192.168.1.1:8000/rtp/239.33.3.94:23500
 http://192.168.1.1:8000/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",生活时尚
 http://192.168.1.1:8000/rtp/239.33.3.91:23470
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="数字",环球奇观
-http://192.168.1.1:8000/rtp/239.33.2.110:21100
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="数字",老故事频道
-http://192.168.1.1:8000/rtp/239.33.2.98:20980
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="数字",国学频道
-http://192.168.1.1:8000/rtp/239.33.2.118:21180
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="数字",梨园频道
-http://192.168.1.1:8000/rtp/239.33.2.105:21050
-#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="数字",武术世界
-http://192.168.1.1:8000/rtp/239.33.2.117:21170
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="数字",汽摩频道
-http://192.168.1.1:8000/rtp/239.33.2.102:21020
-#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
-http://192.168.1.1:8000/rtp/239.33.2.116:21160
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",先锋乒羽
 http://192.168.1.1:8000/rtp/239.33.2.208:22080
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="其它",CGTNNEWS
@@ -237,8 +223,6 @@ http://192.168.1.1:8000/rtp/239.33.3.89:23450
 http://192.168.1.1:8000/rtp/239.33.3.90:23460
 #EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",动漫秀场
 http://192.168.1.1:8000/rtp/239.33.3.93:23490
-#EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",中学生频道
-http://192.168.1.1:8000/rtp/239.33.2.148:21480
 #EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",中华特产
 http://192.168.1.1:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="7152" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",游戏竞技
