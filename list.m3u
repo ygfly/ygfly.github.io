@@ -107,6 +107,8 @@ http://192.168.1.1:8000/rtp/239.33.3.45:23010
 http://192.168.1.1:8000/rtp/239.33.2.68:20680
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://192.168.1.1:8000/rtp/239.33.3.80:23360
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png"  group-title="卫视",康巴藏语综合
+http://192.168.1.1:8000/rtp/239.33.3.77:23330
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视
 http://192.168.1.1:8000/rtp/239.33.3.1:22570
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.png" group-title="辽宁",辽宁都市
@@ -211,8 +213,6 @@ http://192.168.1.1:8000/rtp/239.33.2.69:20690
 http://192.168.1.1:8000/rtp/239.33.3.78:23340
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="其它",安多藏语综合
 http://192.168.1.1:8000/rtp/239.33.3.76:23320
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="其它",康巴藏语综合
-http://192.168.1.1:8000/rtp/239.33.3.77:23330
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电视指南
 http://192.168.1.1:8000/rtp/239.33.2.88:20880
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",都市剧场
