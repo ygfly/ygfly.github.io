@@ -225,7 +225,7 @@ http://192.168.1.1:8000/rtp/239.33.3.90:23460
 http://192.168.1.1:8000/rtp/239.33.3.93:23490
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",中华特产
 http://192.168.1.1:8000/rtp/239.33.2.145:21450
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="其它",游戏竞技
+#EXTINF:-1 tvg-id="1303" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png"  group-title="其它",游戏竞技
 http://192.168.1.1:8000/rtp/239.33.2.31:20310
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="其它",电子体育
 http://192.168.1.1:8000/rtp/239.33.2.32:20320
