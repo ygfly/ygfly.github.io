@@ -101,7 +101,7 @@ http://192.168.1.1:8000/rtp/239.33.3.14:22700
 http://192.168.1.1:8000/rtp/239.33.3.20:22760
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://192.168.1.1:8000/rtp/239.33.2.56:20560
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" group-title="卫视",中国教育1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视",中国教育1
 http://192.168.1.1:8000/rtp/239.33.3.45:23010
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.1:8000/rtp/239.33.2.68:20680
