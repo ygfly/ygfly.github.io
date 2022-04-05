@@ -213,7 +213,7 @@ http://192.168.1.1:8000/rtp/239.33.3.94:23500
 http://192.168.1.1:8000/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",生活时尚
 http://192.168.1.1:8000/rtp/239.33.3.91:23470
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K奥林匹克
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="数字",CCTV-16 4K奥林匹克
 http://192.168.1.1:8000/rtp/239.33.3.102:23580
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="数字",梨园频道
 http://192.168.1.1:8000/rtp/239.33.2.212:22120
