@@ -218,7 +218,7 @@ http://192.168.1.1:8000/rtp/239.33.3.102:23580
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="数字",梨园频道
 http://192.168.1.1:8000/rtp/239.33.2.212:22120
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="数字",武术世界
-http://192.168.1.1:8000/rtp/239.33.2.212:22130
+http://192.168.1.1:8000/rtp/239.33.2.213:22130
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",中华特产
 http://192.168.1.1:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
