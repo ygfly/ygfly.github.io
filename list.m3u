@@ -155,6 +155,8 @@ http://192.168.1.1:8000/rtp/239.33.3.78:23340
 http://192.168.1.1:8000/rtp/239.33.3.76:23320
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png"  group-title="卫视",康巴藏语综合
 http://192.168.1.1:8000/rtp/239.33.3.77:23330
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",电视指南
+http://192.168.1.1:8000/rtp/239.33.2.88:20880
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字",新动漫频道
 http://192.168.1.1:8000/rtp/239.33.2.34:20340
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字",高尔夫网球
@@ -225,7 +227,3 @@ http://192.168.1.1:8000/rtp/239.33.2.214:22140
 http://192.168.1.1:8000/rtp/239.33.2.31:20310
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",电子体育
 http://192.168.1.1:8000/rtp/239.33.2.32:20320
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="数字",党员教育
-http://192.168.1.1:8000/rtp/239.33.2.136:21360
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",电视指南
-http://192.168.1.1:8000/rtp/239.33.2.88:20880
