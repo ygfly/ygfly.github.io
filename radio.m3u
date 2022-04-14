@@ -237,10 +237,6 @@ https://lhttp.qingting.fm/live/4581/64k.mp3
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 #EXTINF:-1 ,ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
-#EXTINF:-1 ,CCTV-1 综合
-http://cctv.v.live.qingcdn.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 ,CCTV-10 科教
-http://cctv.v.live.qingcdn.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 ,CNR 藏语广播
 http://ls.qingting.fm/live/4988.m3u8
 #EXTINF:-1 ,CNR 藏语广播
