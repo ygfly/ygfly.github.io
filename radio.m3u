@@ -65,8 +65,6 @@ http://billboardradio.rastream.com/gfm-todaysmix
 http://billboardradio.rastream.com/gfm-awesome80s
 #EXTINF:-1 ,Billboard Radio China Rock
 http://billboardradio.rastream.com/gfm-classicsrewind
-#EXTINF:-1 ,Billboard Radio China 電子
-http://billboardradio.rastream.com/gfm-clubhkgfm
 #EXTINF:-1 ,美国中文电台
 http://radiokest.serverroom.us:6670/;stream.mp3
 #EXTINF:-1 ,美国加州帕萨迪纳KMRB 1430 AM华语
@@ -175,8 +173,6 @@ http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
 #EXTINF:-1 ,湖南摩登音乐台FM975
 http://lhttp.qingting.fm/live/4980/64k.mp3
-#EXTINF:-1 ,青岛经典音乐广播
-https://lhttp.qingting.fm/live/15318181/64k.mp3
 #EXTINF:-1 ,郑州电台怀旧好声音
 https://lhttp.qingting.fm/live/1223/64k.mp3
 #EXTINF:-1 ,河南音乐广播
@@ -394,8 +390,6 @@ http://ls.qingting.fm/live/3701149.m3u8
 #EXTINF:-1 ,北京城市广播 FM107.3
 http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
 #EXTINF:-1 ,北京城市广播 FM107.3
-http://live.xmcdn.com/live/97/64.m3u8
-#EXTINF:-1 ,北京城市广播 FM107.3
 http://ls.qingting.fm/live/345.m3u8
 #EXTINF:-1 ,北京房山经典音乐 FM96.9
 http://live.xmcdn.com/live/963/64.m3u8
@@ -419,8 +413,6 @@ http://ls.qingting.fm/live/347.m3u8
 http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
 #EXTINF:-1 ,北京体育广播 FM102.5
 http://ls.qingting.fm/live/335.m3u8
-#EXTINF:-1 ,北京外语广播 AM774
-http://live.xmcdn.com/live/96/64.m3u8
 #EXTINF:-1 ,北京外语广播 AM774
 http://ls.qingting.fm/live/334.m3u8
 #EXTINF:-1 ,北京文艺广播 FM87.6
@@ -477,8 +469,6 @@ http://live.xmcdn.com/live/58/64.m3u8
 http://ls.qingting.fm/live/270.m3u8
 #EXTINF:-1 ,上海戏剧曲艺 AM1197
 http://live.xmcdn.com/live/60/64.m3u8
-#EXTINF:-1 ,滨州交通广播 FM93.1
-http://live.xmcdn.com/live/840/64.m3u8
 #EXTINF:-1 ,滨州交通广播 FM93.1
 http://ls.qingting.fm/live/78141.m3u8
 #EXTINF:-1 ,滨州音乐广播 FM87.8
@@ -614,15 +604,9 @@ http://ls.qingting.fm/live/4875.m3u8
 #EXTINF:-1 ,广州花都广播 FM100.5
 http://ls.qingting.fm/live/1263.m3u8
 #EXTINF:-1 ,贵阳交通广播 FM102.7
-http://live.xmcdn.com/live/366/64.m3u8
-#EXTINF:-1 ,贵阳交通广播 FM102.7
 http://ls.qingting.fm/live/1774.m3u8
 #EXTINF:-1 ,贵阳新闻广播 FM88.9
-http://live.xmcdn.com/live/365/64.m3u8
-#EXTINF:-1 ,贵阳新闻广播 FM88.9
 http://ls.qingting.fm/live/1773.m3u8
-#EXTINF:-1 ,贵阳音乐之声 动感909 FM90.9
-http://live.xmcdn.com/live/368/64.m3u8
 #EXTINF:-1 ,贵阳音乐之声 动感909 FM90.9
 http://ls.qingting.fm/live/4874.m3u8
 #EXTINF:-1 ,贵州电台故事广播 FM90.0
@@ -697,8 +681,6 @@ http://ls.qingting.fm/live/4867.m3u8
 http://live.xmcdn.com/live/499/64.m3u8
 #EXTINF:-1 ,河北私家车广播 FM90.7
 http://ls.qingting.fm/live/4868.m3u8
-#EXTINF:-1 ,河北新闻广播 FM104.3
-http://live.xmcdn.com/live/496/64.m3u8
 #EXTINF:-1 ,河北新闻广播 FM104.3
 http://ls.qingting.fm/live/1644.m3u8
 #EXTINF:-1 ,河北音乐广播 FM102.4
@@ -1001,8 +983,6 @@ http://live.xmcdn.com/live/523/64.m3u8
 http://live.xmcdn.com/live/1122/64.m3u8
 #EXTINF:-1 ,秦皇岛体育音乐广播 FM97.3
 http://live.xmcdn.com/live/522/64.m3u8
-#EXTINF:-1 ,秦皇岛综合广播 FM89.1
-http://live.xmcdn.com/live/1114/64.m3u8
 #EXTINF:-1 ,青岛故事广播 FM95.2
 http://ls.qingting.fm/live/4956.m3u8
 #EXTINF:-1 ,青岛广播爱车 FM94.0
@@ -1011,10 +991,6 @@ http://ls.qingting.fm/live/4005188.m3u8
 http://live.xmcdn.com/live/807/64.m3u8
 #EXTINF:-1 ,青岛交通广播 FM89.7
 http://ls.qingting.fm/live/1676.m3u8
-#EXTINF:-1 ,青岛经典音乐调频 FM87.5
-http://live.xmcdn.com/live/1853/64.m3u8
-#EXTINF:-1 ,青岛经典音乐调频 FM87.5
-http://ls.qingting.fm/live/4613829.m3u8
 #EXTINF:-1 ,青岛经济广播 FM102.9
 http://live.xmcdn.com/live/816/64.m3u8
 #EXTINF:-1 ,青岛经济广播 FM102.9
@@ -1037,8 +1013,6 @@ http://ls.qingting.fm/live/5009.m3u8
 http://ls.qingting.fm/live/5008.m3u8
 #EXTINF:-1 ,青海生活广播 花儿调频 FM90.3
 http://ls.qingting.fm/live/2163891.m3u8
-#EXTINF:-1 ,三明新闻综合广播
-http://ls.qingting.fm/live/3128814.m3u8
 #EXTINF:-1 ,三亚天涯之声 FM104.6
 http://live.xmcdn.com/live/531/64.m3u8
 #EXTINF:-1 ,三亚天涯之声 FM104.6
@@ -1427,8 +1401,6 @@ http://live.xmcdn.com/live/1251/64.m3u8
 http://live.xmcdn.com/live/1252/64.m3u8
 #EXTINF:-1 ,沾化新闻综合广播 FM104.2
 http://ls.qingting.fm/live/2234967.m3u8
-#EXTINF:-1 ,张家口私家车广播 FM104.3
-http://live.xmcdn.com/live/1858/64.m3u8
 #EXTINF:-1 ,长春 FM88.0
 http://ls.qingting.fm/live/4850.m3u8
 #EXTINF:-1 ,长春 MYFM88.0
