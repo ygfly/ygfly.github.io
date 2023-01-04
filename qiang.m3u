@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-https://live-screen.xuexi.cn/merged/cctv2_merge_qhd.m3u8?auth_key=1672335357-0-151030041752-f1b46dd695054e4da93d2f155aa96d3b&yid=151030041752&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=2
+https://live-screen.xuexi.cn/merged/cctv2_merge_qhd.m3u8?auth_key=1672927384-0-151029836092-676156f431c4169d7c2486807837efa7&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=1
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4国际
-https://live-screen.xuexi.cn/merged/cctv4_merge_qhd.m3u8?auth_key=1672335357-0-151030041752-f1b46dd695054e4da93d2f155aa96d3b&yid=151030041752&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=3
+https://live-screen.xuexi.cn/merged/cctv4_merge_qhd.m3u8?auth_key=1672927429-0-151029836092-7778cc815a1260c62b938f409c065ab7&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=2
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-https://live-screen.xuexi.cn/merged/cctv6hd_merge_qhd.m3u8?auth_key=1672335357-0-151030041752-f1b46dd695054e4da93d2f155aa96d3b&yid=151030041752&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=4
+https://live-screen.xuexi.cn/merged/cctv6hd_merge_qhd.m3u8?auth_key=1672927472-0-151029836092-ee0c52aacea7009a6e52baf2dca79175&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=3
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-https://live-screen.xuexi.cn/merged/cctv7_merge_qhd.m3u8?auth_key=1672335357-0-151030041752-f1b46dd695054e4da93d2f155aa96d3b&yid=151030041752&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=5
+https://live-screen.xuexi.cn/merged/cctv7_merge_qhd.m3u8?auth_key=1672927511-0-151029836092-18ac0487fe0a4492f884a39e7a0e5c74&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=4
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-https://live-screen.xuexi.cn/merged/cctv10_merge_qhd.m3u8?auth_key=1672335357-0-151030041752-f1b46dd695054e4da93d2f155aa96d3b&yid=151030041752&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=6
+https://live-screen.xuexi.cn/merged/cctv10_merge_qhd.m3u8?auth_key=1672927567-0-151029836092-b13792b9f8524bdce3e9fa3808706687&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=6
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-https://live-screen.xuexi.cn/merged/cctv12_merge_qhd.m3u8?auth_key=1672335357-0-151030041752-f1b46dd695054e4da93d2f155aa96d3b&yid=151030041752&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=7
+https://live-screen.xuexi.cn/merged/cctv12_merge_qhd.m3u8?auth_key=1672927602-0-151029836092-aec90a5ac4dead4493d4d60fa036ebec&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=7
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-https://live-screen.xuexi.cn/merged/cctv13_merge_qhd.m3u8?auth_key=1672838484-0-151029836092-a34073b090aab86250dfd343740945f0&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=1
+https://live-screen.xuexi.cn/merged/cctv13_merge_qhd.m3u8?auth_key=1672927647-0-151029836092-252a7cdeb8d7e9a7786813a54e8c3996&yid=151029836092&aliyun_uuid=Yd6G%2FaSrm7kDAAqPg4S8WejU&dlnaopt=2&tpseq=8
