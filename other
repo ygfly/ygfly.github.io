@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,华语影院
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1,星光影院
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1,全球大片
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1,热门剧场
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1,谍战剧场
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1,青春动漫
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1,宝宝动画
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1,翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1,华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1,J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,VIUTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1,hbo hits
+https://tvos.ml/hbo.hits
