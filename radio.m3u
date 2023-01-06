@@ -1,4 +1,140 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="142" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fenghuangzixun.png" group-title="电视伴音",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fenghuangzhongwen.png" group-title="电视伴音",凤凰中文
+http://iptv.cooltv.top/tv/fhxaudio.php?id=fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视伴音",CCTV-1 综合
+https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视伴音",CCTV-2 财经
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv3.png" group-title="电视伴音",CCTV-3 综艺
+https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png" group-title="电视伴音",CCTV-4 中文国际 亚洲
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4EUO" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png" group-title="电视伴音",CCTV-4 中文国际 欧洲
+https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4AME" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png" group-title="电视伴音",CCTV-4 中文国际 美洲
+https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5.png" group-title="电视伴音",CCTV-5 体育
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5+.png" group-title="电视伴音",CCTV-5+ 体育赛事
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv6.png" group-title="电视伴音",CCTV-6 电影
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv7.png" group-title="电视伴音",CCTV-7 国防军事
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv8.png" group-title="电视伴音",CCTV-8 电视剧
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv9.png" group-title="电视伴音",CCTV-9 纪录
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv10.png" group-title="电视伴音",CCTV-10 科教
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv11.png" group-title="电视伴音",CCTV-11 戏曲
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv12.png" group-title="电视伴音",CCTV-12 社会与法
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv13.png" group-title="电视伴音",CCTV-13 新闻
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv14.png" group-title="电视伴音",CCTV-14 少儿
+https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv15.png" group-title="电视伴音",CCTV-15 音乐
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv16.png" group-title="电视伴音",CCTV-16 奥林匹克
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv17.png" group-title="电视伴音",CCTV-17 农业农村
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/cgtn.png" group-title="电视伴音",CGTN
+http://stream.zeno.fm/ambvmys65rquv
+#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hunanweishi.png" group-title="电视伴音",湖南卫视
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="电视伴音",东方卫视
+http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/zhejiangweishi.png" group-title="电视伴音",浙江卫视
+http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="电视伴音",江苏卫视
+http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btv.png" group-title="电视伴音",北京卫视
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shenzhenweishi.png" group-title="电视伴音",深圳卫视
+http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="电视伴音",安徽卫视
+http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shandongweishi.png" group-title="电视伴音",山东卫视
+http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/dongnanweishi.png" group-title="电视伴音",东南卫视
+http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="电视伴音",广东卫视
+http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="电视伴音",四川卫视
+http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/tianjinweishi.png" group-title="电视伴音",天津卫视
+http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="电视伴音",重庆卫视
+http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="电视伴音",湖北卫视
+http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/liaoningweishi.png" group-title="电视伴音",辽宁卫视
+http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="电视伴音",吉林卫视
+http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="电视伴音",黑龙江卫视
+http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hebeiweishi.png" group-title="电视伴音",河北卫视
+http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/henanweishi.png" group-title="电视伴音",河南卫视
+http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/guizhouweishi.png" group-title="电视伴音",贵州卫视
+http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/gansuweishi.png" group-title="电视伴音",甘肃卫视
+http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="电视伴音",陕西卫视
+http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/yanbianweishi.png" group-title="电视伴音",延边卫视
+http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="电视伴音",西藏卫视
+http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="电视伴音",海南卫视
+http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="电视伴音",江西卫视
+http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="电视伴音",宁夏卫视
+http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="电视伴音",山西卫视
+http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/hks.png" group-title="电视伴音",香港卫视
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/qinghaiweishi.png" group-title="电视伴音",青海卫视
+http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="电视伴音",内蒙古卫视
+http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="电视伴音",新疆卫视
+http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvxw.png" group-title="电视伴音",北京新闻
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1873" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvwy.png" group-title="电视伴音",北京文艺
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1874" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvjskj.png" group-title="电视伴音",北京纪实科教
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1875" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvys.png" group-title="电视伴音",北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1876" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvcj.png" group-title="电视伴音",北京财经
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1872" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvtyxx.png" group-title="电视伴音",北京体育休闲
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1878" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvsh.png" group-title="电视伴音",北京生活
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-id="1879" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/btvqn.png" group-title="电视伴音",北京青年
+https://piccpndks.v.kcdnvip.com/audio/btv8_2.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="电视伴音",中国教育1
+https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="电视伴音",中国教育2
+https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="电视伴音",中国教育3
+https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
+#EXTINF:-1 tvg-id="7245" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="电视伴音",中国教育4
+https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="电视伴音",第一财经
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s242677/images/logog.jpg?t=2" group-title="网络广播",Today’s Hits
 http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249976/images/logog.png?t=156961" group-title="网络广播",Pop Hits
@@ -850,4 +986,3 @@ http://iptv.cooltv.top/tv/cutv.php?id=tyyygb
 http://iptv.cooltv.top/tv/hz.php?id=23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/石家庄音乐广播.PNG" group-title="音乐广播",石家庄音乐广播
 http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
-
