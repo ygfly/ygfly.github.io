@@ -168,7 +168,7 @@ http://192.168.1.1:8000/rtp/239.33.3.88:23440
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",4K欢笑剧场
 http://192.168.1.1:8000/rtp/239.33.3.97:23530
 #EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="数字",百姓健康
-http://192.168.1.1:8000/rtp/239.33.2.33:20330
+http://192.168.1.1:8000/rtp/239.33.2.230:22300
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字",CHC动作电影
 http://192.168.1.1:8000/rtp/239.33.2.207:22070
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字",CHC高清电影
