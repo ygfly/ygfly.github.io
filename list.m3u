@@ -123,6 +123,8 @@ http://192.168.1.1:8000/rtp/239.33.3.20:22760
 http://192.168.1.1:8000/rtp/239.33.2.56:20560
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视",中国教育1
 http://192.168.1.1:8000/rtp/239.33.3.45:23010
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="卫视",中国教育4
+http://192.168.1.1:8000/rtp/239.33.2.220:22200
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视",山东教育
 http://192.168.1.1:8000/rtp/239.33.3.79:23350
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
@@ -159,13 +161,13 @@ http://192.168.1.1:8000/rtp/239.33.3.77:23330
 http://192.168.1.1:8000/rtp/239.33.2.88:20880
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字",新动漫频道
 http://192.168.1.1:8000/rtp/239.33.2.34:20340
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字",高尔夫网球
-http://192.168.1.1:8000/rtp/239.33.3.88:23440
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字",快乐垂钓
 http://192.168.1.1:8000/rtp/239.33.3.69:23250
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字",高尔夫网球
+http://192.168.1.1:8000/rtp/239.33.3.88:23440
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",4K欢笑剧场
 http://192.168.1.1:8000/rtp/239.33.3.97:23530
-#EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="数字",网络棋牌
+#EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="数字",百姓健康
 http://192.168.1.1:8000/rtp/239.33.2.33:20330
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字",CHC动作电影
 http://192.168.1.1:8000/rtp/239.33.2.207:22070
@@ -207,9 +209,7 @@ http://192.168.1.1:8000/rtp/239.33.3.90:23460
 http://192.168.1.1:8000/rtp/239.33.3.93:23490
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字",游戏风云
 http://192.168.1.1:8000/rtp/239.33.3.92:23480
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="数字",极速汽车
-http://192.168.1.1:8000/rtp/239.33.3.94:23500
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",全纪实频道
+#EXTINF:-1 tvg-id="9999" tvg-name="乐游频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="数字",乐游
 http://192.168.1.1:8000/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",生活时尚
 http://192.168.1.1:8000/rtp/239.33.3.91:23470
