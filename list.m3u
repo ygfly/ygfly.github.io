@@ -223,7 +223,3 @@ http://192.168.1.1:8000/rtp/239.33.2.213:22130
 http://192.168.1.1:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.1:8000/rtp/239.33.2.214:22140
-#EXTINF:-1 tvg-id="1303" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png"  group-title="数字",游戏竞技
-http://192.168.1.1:8000/rtp/239.33.2.31:20310
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",电子体育
-http://192.168.1.1:8000/rtp/239.33.2.32:20320
