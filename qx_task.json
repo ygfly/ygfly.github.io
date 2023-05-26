@@ -2,7 +2,7 @@
     "name": "ygfly",
     "description": "https://ygfly.github.io/",
     "task": [
-        "11 1 * * * https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js, tag=阿里云盘签到并领取, img-url=https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png, enabled=true",
-        "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png, enabled=false",
+        "15 0 * * * https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js, tag=阿里云盘签到并领取, img-url=https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png, enabled=true",
+        "20 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png, enabled=true",
     ]
 }
