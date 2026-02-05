@@ -175,8 +175,6 @@ http://192.168.1.200:8000/rtp/239.33.2.207:22070
 http://192.168.1.200:8000/rtp/239.33.2.209:22090
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字",CHC家庭电影
 http://192.168.1.200:8000/rtp/239.33.2.210:22100
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png"  group-title="数字",先锋乒羽
-http://192.168.1.200:8000/rtp/239.33.2.208:22080
 #EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字",第一剧场
 http://192.168.1.200:8000/rtp/239.33.2.90:20900
 #EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字",怀旧剧场
@@ -223,5 +221,6 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
