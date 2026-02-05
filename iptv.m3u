@@ -151,7 +151,7 @@ http://192.168.1.200:8000/rtp/239.33.3.25:22810
 http://192.168.1.200:8000/rtp/239.33.2.223:22230
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png"  group-title="卫视",CCTV-4美洲
 http://192.168.1.200:8000/rtp/239.33.2.224:22240
-#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="卫视",西藏卫视（藏语）
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="卫视",西藏卫视（藏语）
 http://192.168.1.200:8000/rtp/239.33.3.78:23340
 #EXTINF:-1 tvg-id="554" tvg-name="安多卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png"  group-title="卫视",安多藏语综合
 http://192.168.1.200:8000/rtp/239.33.3.76:23320
@@ -223,4 +223,5 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
