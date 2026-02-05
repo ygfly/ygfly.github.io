@@ -29,9 +29,9 @@ http://192.168.1.200:8000/rtp/239.33.2.13:20130
 http://192.168.1.200:8000/rtp/239.33.3.13:22690
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://192.168.1.200:8000/rtp/239.33.2.15:20150
-#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://192.168.1.200:8000/rtp/239.33.2.211:22110
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.1.200:8000/rtp/239.33.3.8:22640
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV 5+ 体育赛事
 http://192.168.1.200:8000/rtp/239.33.3.6:22620
@@ -221,6 +221,7 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
