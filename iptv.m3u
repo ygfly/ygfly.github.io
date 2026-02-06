@@ -95,7 +95,7 @@ http://192.168.1.200:8000/rtp/239.33.3.42:22980
 http://192.168.1.200:8000/rtp/239.33.3.41:22970
 #EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://192.168.1.200:8000/rtp/239.33.3.55:23110
-#EXTINF:-1 tvg-id="97" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://192.168.1.200:8000/rtp/239.33.3.74:23300
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://192.168.1.200:8000/rtp/239.33.2.62:20620
@@ -129,7 +129,7 @@ http://192.168.1.200:8000/rtp/239.33.2.220:22200
 http://192.168.1.200:8000/rtp/239.33.3.79:23350
 #EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.200:8000/rtp/239.33.2.68:20680
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视",农林卫视
+#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视",农林卫视
 http://192.168.1.200:8000/rtp/239.33.2.69:20690
 #EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://192.168.1.200:8000/rtp/239.33.3.80:23360
@@ -221,6 +221,7 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
