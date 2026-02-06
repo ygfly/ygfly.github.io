@@ -125,7 +125,7 @@ http://192.168.1.200:8000/rtp/239.33.2.56:20560
 http://192.168.1.200:8000/rtp/239.33.3.45:23010
 #EXTINF:-1 tvg-id="154" tvg-name="CETV4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="卫视",中国教育4
 http://192.168.1.200:8000/rtp/239.33.2.220:22200
-#EXTINF:-1 tvg-id="221" tvg-name="山东教育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"  group-title="卫视",山东教育
+#EXTINF:-1 tvg-id="221" tvg-name="山东教育" tvg-logo="https://pic.erw.cc/epglogo/shandong/Shandong9.png"  group-title="卫视",山东教育
 http://192.168.1.200:8000/rtp/239.33.3.79:23350
 #EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.200:8000/rtp/239.33.2.68:20680
@@ -199,7 +199,7 @@ http://192.168.1.200:8000/rtp/239.33.2.97:20970
 http://192.168.1.200:8000/rtp/239.33.3.70:23260
 #EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png"  group-title="数字",都市剧场
 http://192.168.1.200:8000/rtp/239.33.3.95:23510
-#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png.png"  group-title="数字",法治天地
+#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png"  group-title="数字",法治天地
 http://192.168.1.200:8000/rtp/239.33.3.89:23450
 #EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png"  group-title="数字",金色学堂
 http://192.168.1.200:8000/rtp/239.33.3.90:23460
@@ -221,6 +221,7 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
