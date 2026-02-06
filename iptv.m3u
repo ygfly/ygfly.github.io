@@ -41,7 +41,7 @@ http://192.168.1.200:8000/rtp/239.33.3.1:22570
 http://192.168.1.200:8000/rtp/239.33.2.17:20170
 #EXTINF:-1 tvg-id="277" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.png" group-title="辽宁",辽宁影视剧
 http://192.168.1.200:8000/rtp/239.33.2.18:20180
-#EXTINF:-1 tvg-id="528" tvg-name="辽宁体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育
+#EXTINF:-1 tvg-id="528" tvg-name="辽宁体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png" group-title="辽宁",辽宁体育休闲
 http://192.168.1.200:8000/rtp/239.33.2.19:20190
 #EXTINF:-1 tvg-id="279" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.png" group-title="辽宁",辽宁生活
 http://192.168.1.200:8000/rtp/239.33.2.20:20200
@@ -221,6 +221,7 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
