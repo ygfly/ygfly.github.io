@@ -159,13 +159,13 @@ http://192.168.1.200:8000/rtp/239.33.3.76:23320
 http://192.168.1.200:8000/rtp/239.33.3.77:23330
 #EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",电视指南
 http://192.168.1.200:8000/rtp/239.33.2.88:20880
-#EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字",新动漫频道
+#EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字",新动漫
 http://192.168.1.200:8000/rtp/239.33.2.34:20340
 #EXTINF:-1 tvg-id="173" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字",快乐垂钓
 http://192.168.1.200:8000/rtp/239.33.3.69:23250
 #EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字",高尔夫网球
 http://192.168.1.200:8000/rtp/239.33.3.88:23440
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",4K欢笑剧场
+#EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字",4K欢笑剧场
 http://192.168.1.200:8000/rtp/239.33.3.97:23530
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="数字",百姓健康
 http://192.168.1.200:8000/rtp/239.33.2.230:22300
@@ -221,6 +221,7 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
