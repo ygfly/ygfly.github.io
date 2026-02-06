@@ -129,7 +129,7 @@ http://192.168.1.200:8000/rtp/239.33.2.220:22200
 http://192.168.1.200:8000/rtp/239.33.3.79:23350
 #EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.1.200:8000/rtp/239.33.2.68:20680
-#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="卫视",农林卫视
+#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Nonglin.png"  group-title="卫视",农林卫视
 http://192.168.1.200:8000/rtp/239.33.2.69:20690
 #EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://192.168.1.200:8000/rtp/239.33.3.80:23360
@@ -157,7 +157,7 @@ http://192.168.1.200:8000/rtp/239.33.3.78:23340
 http://192.168.1.200:8000/rtp/239.33.3.76:23320
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png"  group-title="卫视",康巴藏语综合
 http://192.168.1.200:8000/rtp/239.33.3.77:23330
-#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",电视指南
+#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png"  group-title="数字",电视指南
 http://192.168.1.200:8000/rtp/239.33.2.88:20880
 #EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="数字",新动漫
 http://192.168.1.200:8000/rtp/239.33.2.34:20340
@@ -171,7 +171,7 @@ http://192.168.1.200:8000/rtp/239.33.3.97:23530
 http://192.168.1.200:8000/rtp/239.33.2.230:22300
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字",CHC动作电影
 http://192.168.1.200:8000/rtp/239.33.2.207:22070
-#EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="数字",CHC影迷电影
+#EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC1.png" group-title="数字",CHC影迷电影
 http://192.168.1.200:8000/rtp/239.33.2.209:22090
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字",CHC家庭电影
 http://192.168.1.200:8000/rtp/239.33.2.210:22100
@@ -197,17 +197,17 @@ http://192.168.1.200:8000/rtp/239.33.2.125:21250
 http://192.168.1.200:8000/rtp/239.33.2.97:20970
 #EXTINF:-1 tvg-id="177" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字",茶频道
 http://192.168.1.200:8000/rtp/239.33.3.70:23260
-#EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",都市剧场
+#EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png"  group-title="数字",都市剧场
 http://192.168.1.200:8000/rtp/239.33.3.95:23510
-#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="数字",法治天地
+#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png.png"  group-title="数字",法治天地
 http://192.168.1.200:8000/rtp/239.33.3.89:23450
-#EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",金色学堂
+#EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png"  group-title="数字",金色学堂
 http://192.168.1.200:8000/rtp/239.33.3.90:23460
-#EXTINF:-1 tvg-id="175" tvg-name="动漫秀场" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png"  group-title="数字",动漫秀场
+#EXTINF:-1 tvg-id="175" tvg-name="动漫秀场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dmxc.png"  group-title="数字",动漫秀场
 http://192.168.1.200:8000/rtp/239.33.3.93:23490
-#EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字",游戏风云
+#EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字",游戏风云
 http://192.168.1.200:8000/rtp/239.33.3.92:23480
-#EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="数字",乐游
+#EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="数字",乐游
 http://192.168.1.200:8000/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="188" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字",生活时尚
 http://192.168.1.200:8000/rtp/239.33.3.91:23470
@@ -217,10 +217,11 @@ http://192.168.1.200:8000/rtp/239.33.3.102:23580
 http://192.168.1.200:8000/rtp/239.33.2.212:22120
 #EXTINF:-1 tvg-id="229" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="数字",武术世界
 http://192.168.1.200:8000/rtp/239.33.2.213:22130
-#EXTINF:-1 tvg-id="264" tvg-name="中华特产" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"  group-title="数字",中华特产
+#EXTINF:-1 tvg-id="264" tvg-name="中华特产" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhtc.png"  group-title="数字",中华特产
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
