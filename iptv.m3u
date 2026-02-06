@@ -171,7 +171,7 @@ http://192.168.1.200:8000/rtp/239.33.3.97:23530
 http://192.168.1.200:8000/rtp/239.33.2.230:22300
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字",CHC动作电影
 http://192.168.1.200:8000/rtp/239.33.2.207:22070
-#EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字",CHC影迷电影
+#EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="数字",CHC影迷电影
 http://192.168.1.200:8000/rtp/239.33.2.209:22090
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字",CHC家庭电影
 http://192.168.1.200:8000/rtp/239.33.2.210:22100
@@ -221,6 +221,7 @@ http://192.168.1.200:8000/rtp/239.33.2.213:22130
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="数字",文物宝库
 http://192.168.1.200:8000/rtp/239.33.2.214:22140
+
 
 
 
