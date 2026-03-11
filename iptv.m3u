@@ -71,9 +71,9 @@ http://192.168.1.200:8000/rtp/239.33.2.245:22450
 http://192.168.1.200:8000/rtp/239.33.2.246:22460
 #EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xindm.png" group-title="本地",新动漫
 http://192.168.1.200:8000/rtp/239.33.2.34:20340
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Xian3.png" group-title="本地",阜新综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu1.png" group-title="本地",阜新综合
 http://192.168.1.200:8000/rtp/239.33.2.250:22500
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Xian4.png" group-title="本地",阜新教育
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu7.png" group-title="本地",阜新教育
 http://192.168.1.200:8000/rtp/239.33.2.249:22490
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="卫视",北京卫视
 http://192.168.1.200:8000/rtp/239.33.3.21:22770
@@ -155,8 +155,6 @@ http://192.168.1.200:8000/rtp/239.33.2.69:20690
 http://192.168.1.200:8000/rtp/239.33.3.80:23360
 #EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="卫视",金鹰卡通
 http://192.168.1.200:8000/rtp/239.33.2.70:20700
-#EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hhxd.png" group-title="卫视",哈哈炫动
-http://192.168.1.200:8000/rtp/239.33.2.71:20710
 #EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://pic.erw.cc/epglogo/shuzi/ymkt.png" group-title="卫视",优漫卡通
 http://192.168.1.200:8000/rtp/239.33.2.72:20720
 #EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangdong14.png" group-title="卫视",嘉佳卡通
@@ -275,4 +273,5 @@ http://192.168.1.200:8000/rtp/239.33.3.214:24700
 http://192.168.1.200:8000/rtp/239.33.3.211:24670
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" group-title="4K高清",四川卫视4K
 http://192.168.1.200:8000/rtp/239.33.3.212:24680
+
 
