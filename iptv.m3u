@@ -62,13 +62,13 @@ http://192.168.1.200:8000/rtp/239.33.2.25:20250
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.png" group-title="本地",沈阳新闻综合
 http://192.168.1.200:8000/rtp/239.33.2.123:21230
 #EXTINF:-1 tvg-id="390" tvg-name="睛彩竞技" tvg-logo="https://pic.erw.cc/epglogo/raw/shuzi/jingcai04.png" group-title="其它",睛彩竞技
-http://192.168.1.200:8000/rtp/239.33.0.243:22430
+http://192.168.1.200:8000/rtp/239.33.4.243:22430
 #EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" tvg-logo="https://pic.erw.cc/epglogo/raw/shuzi/jingcai03.png" group-title="其它",睛彩篮球
-http://192.168.1.200:8000/rtp/239.33.0.244:22440
+http://192.168.1.200:8000/rtp/239.33.2.244:22440
 #EXTINF:-1 tvg-id="389" tvg-name="睛彩青少" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai02.png" group-title="其它",睛彩青少
-http://192.168.1.200:8000/rtp/239.33.0.245:22450
+http://192.168.1.200:8000/udp/239.33.0.245:22450
 #EXTINF:-1 tvg-id="392" tvg-name="睛彩广场舞" tvg-logo="https://pic.erw.cc/epglogo/raw/shuzi/jingcai01.png" group-title="其它",睛彩广场舞
-http://192.168.1.200:8000/rtp/239.33.0.246:22460
+http://192.168.1.200:8000/rtp/239.33.5.246:22460
 #EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xindm.png" group-title="本地",新动漫
 http://192.168.1.200:8000/rtp/239.33.2.34:20340
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu1.png" group-title="本地",阜新综合
@@ -273,6 +273,7 @@ http://192.168.1.200:8000/rtp/239.33.3.214:24700
 http://192.168.1.200:8000/rtp/239.33.3.211:24670
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" group-title="4K高清",四川卫视4K
 http://192.168.1.200:8000/rtp/239.33.3.212:24680
+
 
 
 
