@@ -253,7 +253,7 @@ http://192.168.1.200:8000/rtp/239.33.3.96:23520
 http://192.168.1.200:8000/rtp/239.33.3.91:23470
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="探索",欢笑剧场
 http://192.168.1.200:8000/rtp/239.33.3.97:23530
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/chongqing/Chongqing2.png" group-title="探索",营口综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/chongqing/Chongqing2.png" group-title="探索",营口新闻综合
 http://192.168.1.200:8000/rtp/239.33.2.146:21460
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/chongqing/Chongqing3.png" group-title="探索",辽河文化生活
 http://192.168.1.200:8000/rtp/239.33.2.147:21470
@@ -275,6 +275,7 @@ http://192.168.1.200:8000/rtp/239.33.3.214:24700
 http://192.168.1.200:8000/rtp/239.33.3.211:24670
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" group-title="4K高清",四川卫视4K
 http://192.168.1.200:8000/rtp/239.33.3.212:24680
+
 
 
 
