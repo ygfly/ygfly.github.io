@@ -1,509 +1,509 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="TV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV1.png" group-title="tv",TV-1
-http://192.168.1.200:8000/rtp/239.33.4.1:20010
+http://192.168.1.200:8000/rtp/239.33.3.1:22570
 #EXTINF:-1 tvg-id="2" tvg-name="TV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV2.png" group-title="tv",TV-2
-http://192.168.1.200:8000/rtp/239.33.4.2:20020
+http://192.168.1.200:8000/rtp/239.33.3.2:22580
 #EXTINF:-1 tvg-id="3" tvg-name="TV3" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV3.png" group-title="tv",TV-3
-http://192.168.1.200:8000/rtp/239.33.4.3:20030
+http://192.168.1.200:8000/rtp/239.33.3.3:22590
 #EXTINF:-1 tvg-id="4" tvg-name="TV4" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV4.png" group-title="tv",TV-4
-http://192.168.1.200:8000/rtp/239.33.4.4:20040
+http://192.168.1.200:8000/rtp/239.33.3.4:22600
 #EXTINF:-1 tvg-id="5" tvg-name="TV5" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV5.png" group-title="tv",TV-5
-http://192.168.1.200:8000/rtp/239.33.4.5:20050
+http://192.168.1.200:8000/rtp/239.33.3.5:22610
 #EXTINF:-1 tvg-id="6" tvg-name="TV6" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV6.png" group-title="tv",TV-6
-http://192.168.1.200:8000/rtp/239.33.4.6:20060
+http://192.168.1.200:8000/rtp/239.33.3.6:22620
 #EXTINF:-1 tvg-id="7" tvg-name="TV7" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV7.png" group-title="tv",TV-7
-http://192.168.1.200:8000/rtp/239.33.4.7:20070
+http://192.168.1.200:8000/rtp/239.33.3.7:22630
 #EXTINF:-1 tvg-id="8" tvg-name="TV8" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV8.png" group-title="tv",TV-8
-http://192.168.1.200:8000/rtp/239.33.4.8:20080
+http://192.168.1.200:8000/rtp/239.33.3.8:22640
 #EXTINF:-1 tvg-id="9" tvg-name="TV9" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV9.png" group-title="tv",TV-9
-http://192.168.1.200:8000/rtp/239.33.4.9:20090
+http://192.168.1.200:8000/rtp/239.33.3.9:22650
 #EXTINF:-1 tvg-id="10" tvg-name="TV10" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV10.png" group-title="tv",TV-10
-http://192.168.1.200:8000/rtp/239.33.4.10:20100
+http://192.168.1.200:8000/rtp/239.33.3.10:22660
 #EXTINF:-1 tvg-id="11" tvg-name="TV11" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV11.png" group-title="tv",TV-11
-http://192.168.1.200:8000/rtp/239.33.4.11:20110
+http://192.168.1.200:8000/rtp/239.33.3.11:22670
 #EXTINF:-1 tvg-id="12" tvg-name="TV12" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV12.png" group-title="tv",TV-12
-http://192.168.1.200:8000/rtp/239.33.4.12:20120
+http://192.168.1.200:8000/rtp/239.33.3.12:22680
 #EXTINF:-1 tvg-id="13" tvg-name="TV13" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV13.png" group-title="tv",TV-13
-http://192.168.1.200:8000/rtp/239.33.4.13:20130
+http://192.168.1.200:8000/rtp/239.33.3.13:22690
 #EXTINF:-1 tvg-id="14" tvg-name="TV14" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV14.png" group-title="tv",TV-14
-http://192.168.1.200:8000/rtp/239.33.4.14:20140
+http://192.168.1.200:8000/rtp/239.33.3.14:22700
 #EXTINF:-1 tvg-id="15" tvg-name="TV15" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV15.png" group-title="tv",TV-15
-http://192.168.1.200:8000/rtp/239.33.4.15:20150
+http://192.168.1.200:8000/rtp/239.33.3.15:22710
 #EXTINF:-1 tvg-id="16" tvg-name="TV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV16.png" group-title="tv",TV-16
-http://192.168.1.200:8000/rtp/239.33.4.16:20160
+http://192.168.1.200:8000/rtp/239.33.3.16:22720
 #EXTINF:-1 tvg-id="17" tvg-name="TV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV17.png" group-title="tv",TV-17
-http://192.168.1.200:8000/rtp/239.33.4.17:20170
+http://192.168.1.200:8000/rtp/239.33.3.17:22730
 #EXTINF:-1 tvg-id="18" tvg-name="TV18" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV18.png" group-title="tv",TV-18
-http://192.168.1.200:8000/rtp/239.33.4.18:20180
+http://192.168.1.200:8000/rtp/239.33.3.18:22740
 #EXTINF:-1 tvg-id="19" tvg-name="TV19" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV19.png" group-title="tv",TV-19
-http://192.168.1.200:8000/rtp/239.33.4.19:20190
+http://192.168.1.200:8000/rtp/239.33.3.19:22750
 #EXTINF:-1 tvg-id="20" tvg-name="TV20" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV20.png" group-title="tv",TV-20
-http://192.168.1.200:8000/rtp/239.33.4.20:20200
+http://192.168.1.200:8000/rtp/239.33.3.20:22760
 #EXTINF:-1 tvg-id="21" tvg-name="TV21" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV21.png" group-title="tv",TV-21
-http://192.168.1.200:8000/rtp/239.33.4.21:20210
+http://192.168.1.200:8000/rtp/239.33.3.21:22770
 #EXTINF:-1 tvg-id="22" tvg-name="TV22" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV22.png" group-title="tv",TV-22
-http://192.168.1.200:8000/rtp/239.33.4.22:20220
+http://192.168.1.200:8000/rtp/239.33.3.22:22780
 #EXTINF:-1 tvg-id="23" tvg-name="TV23" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV23.png" group-title="tv",TV-23
-http://192.168.1.200:8000/rtp/239.33.4.23:20230
+http://192.168.1.200:8000/rtp/239.33.3.23:22790
 #EXTINF:-1 tvg-id="24" tvg-name="TV24" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV24.png" group-title="tv",TV-24
-http://192.168.1.200:8000/rtp/239.33.4.24:20240
+http://192.168.1.200:8000/rtp/239.33.3.24:22800
 #EXTINF:-1 tvg-id="25" tvg-name="TV25" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV25.png" group-title="tv",TV-25
-http://192.168.1.200:8000/rtp/239.33.4.25:20250
+http://192.168.1.200:8000/rtp/239.33.3.25:22810
 #EXTINF:-1 tvg-id="26" tvg-name="TV26" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV26.png" group-title="tv",TV-26
-http://192.168.1.200:8000/rtp/239.33.4.26:20260
+http://192.168.1.200:8000/rtp/239.33.3.26:22820
 #EXTINF:-1 tvg-id="27" tvg-name="TV27" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV27.png" group-title="tv",TV-27
-http://192.168.1.200:8000/rtp/239.33.4.27:20270
+http://192.168.1.200:8000/rtp/239.33.3.27:22830
 #EXTINF:-1 tvg-id="28" tvg-name="TV28" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV28.png" group-title="tv",TV-28
-http://192.168.1.200:8000/rtp/239.33.4.28:20280
+http://192.168.1.200:8000/rtp/239.33.3.28:22840
 #EXTINF:-1 tvg-id="29" tvg-name="TV29" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV29.png" group-title="tv",TV-29
-http://192.168.1.200:8000/rtp/239.33.4.29:20290
+http://192.168.1.200:8000/rtp/239.33.3.29:22850
 #EXTINF:-1 tvg-id="30" tvg-name="TV30" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV30.png" group-title="tv",TV-30
-http://192.168.1.200:8000/rtp/239.33.4.30:20300
+http://192.168.1.200:8000/rtp/239.33.3.30:22860
 #EXTINF:-1 tvg-id="31" tvg-name="TV31" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV31.png" group-title="tv",TV-31
-http://192.168.1.200:8000/rtp/239.33.4.31:20310
+http://192.168.1.200:8000/rtp/239.33.3.31:22870
 #EXTINF:-1 tvg-id="32" tvg-name="TV32" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV32.png" group-title="tv",TV-32
-http://192.168.1.200:8000/rtp/239.33.4.32:20320
+http://192.168.1.200:8000/rtp/239.33.3.32:22880
 #EXTINF:-1 tvg-id="33" tvg-name="TV33" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV33.png" group-title="tv",TV-33
-http://192.168.1.200:8000/rtp/239.33.4.33:20330
+http://192.168.1.200:8000/rtp/239.33.3.33:22890
 #EXTINF:-1 tvg-id="34" tvg-name="TV34" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV34.png" group-title="tv",TV-34
-http://192.168.1.200:8000/rtp/239.33.4.34:20340
+http://192.168.1.200:8000/rtp/239.33.3.34:22900
 #EXTINF:-1 tvg-id="35" tvg-name="TV35" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV35.png" group-title="tv",TV-35
-http://192.168.1.200:8000/rtp/239.33.4.35:20350
+http://192.168.1.200:8000/rtp/239.33.3.35:22910
 #EXTINF:-1 tvg-id="36" tvg-name="TV36" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV36.png" group-title="tv",TV-36
-http://192.168.1.200:8000/rtp/239.33.4.36:20360
+http://192.168.1.200:8000/rtp/239.33.3.36:22920
 #EXTINF:-1 tvg-id="37" tvg-name="TV37" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV37.png" group-title="tv",TV-37
-http://192.168.1.200:8000/rtp/239.33.4.37:20370
+http://192.168.1.200:8000/rtp/239.33.3.37:22930
 #EXTINF:-1 tvg-id="38" tvg-name="TV38" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV38.png" group-title="tv",TV-38
-http://192.168.1.200:8000/rtp/239.33.4.38:20380
+http://192.168.1.200:8000/rtp/239.33.3.38:22940
 #EXTINF:-1 tvg-id="39" tvg-name="TV39" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV39.png" group-title="tv",TV-39
-http://192.168.1.200:8000/rtp/239.33.4.39:20390
+http://192.168.1.200:8000/rtp/239.33.3.39:22950
 #EXTINF:-1 tvg-id="40" tvg-name="TV40" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV40.png" group-title="tv",TV-40
-http://192.168.1.200:8000/rtp/239.33.4.40:20400
+http://192.168.1.200:8000/rtp/239.33.3.40:22960
 #EXTINF:-1 tvg-id="41" tvg-name="TV41" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV41.png" group-title="tv",TV-41
-http://192.168.1.200:8000/rtp/239.33.4.41:20410
+http://192.168.1.200:8000/rtp/239.33.3.41:22970
 #EXTINF:-1 tvg-id="42" tvg-name="TV42" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV42.png" group-title="tv",TV-42
-http://192.168.1.200:8000/rtp/239.33.4.42:20420
+http://192.168.1.200:8000/rtp/239.33.3.42:22980
 #EXTINF:-1 tvg-id="43" tvg-name="TV43" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV43.png" group-title="tv",TV-43
-http://192.168.1.200:8000/rtp/239.33.4.43:20430
+http://192.168.1.200:8000/rtp/239.33.3.43:22990
 #EXTINF:-1 tvg-id="44" tvg-name="TV44" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV44.png" group-title="tv",TV-44
-http://192.168.1.200:8000/rtp/239.33.4.44:20440
+http://192.168.1.200:8000/rtp/239.33.3.44:23000
 #EXTINF:-1 tvg-id="45" tvg-name="TV45" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV45.png" group-title="tv",TV-45
-http://192.168.1.200:8000/rtp/239.33.4.45:20450
+http://192.168.1.200:8000/rtp/239.33.3.45:23010
 #EXTINF:-1 tvg-id="46" tvg-name="TV46" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV46.png" group-title="tv",TV-46
-http://192.168.1.200:8000/rtp/239.33.4.46:20460
+http://192.168.1.200:8000/rtp/239.33.3.46:23020
 #EXTINF:-1 tvg-id="47" tvg-name="TV47" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV47.png" group-title="tv",TV-47
-http://192.168.1.200:8000/rtp/239.33.4.47:20470
+http://192.168.1.200:8000/rtp/239.33.3.47:23030
 #EXTINF:-1 tvg-id="48" tvg-name="TV48" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV48.png" group-title="tv",TV-48
-http://192.168.1.200:8000/rtp/239.33.4.48:20480
+http://192.168.1.200:8000/rtp/239.33.3.48:23040
 #EXTINF:-1 tvg-id="49" tvg-name="TV49" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV49.png" group-title="tv",TV-49
-http://192.168.1.200:8000/rtp/239.33.4.49:20490
+http://192.168.1.200:8000/rtp/239.33.3.49:23050
 #EXTINF:-1 tvg-id="50" tvg-name="TV50" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV50.png" group-title="tv",TV-50
-http://192.168.1.200:8000/rtp/239.33.4.50:20500
+http://192.168.1.200:8000/rtp/239.33.3.50:23060
 #EXTINF:-1 tvg-id="51" tvg-name="TV51" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV51.png" group-title="tv",TV-51
-http://192.168.1.200:8000/rtp/239.33.4.51:20510
+http://192.168.1.200:8000/rtp/239.33.3.51:23070
 #EXTINF:-1 tvg-id="52" tvg-name="TV52" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV52.png" group-title="tv",TV-52
-http://192.168.1.200:8000/rtp/239.33.4.52:20520
+http://192.168.1.200:8000/rtp/239.33.3.52:23080
 #EXTINF:-1 tvg-id="53" tvg-name="TV53" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV53.png" group-title="tv",TV-53
-http://192.168.1.200:8000/rtp/239.33.4.53:20530
+http://192.168.1.200:8000/rtp/239.33.3.53:23090
 #EXTINF:-1 tvg-id="54" tvg-name="TV54" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV54.png" group-title="tv",TV-54
-http://192.168.1.200:8000/rtp/239.33.4.54:20540
+http://192.168.1.200:8000/rtp/239.33.3.54:23100
 #EXTINF:-1 tvg-id="55" tvg-name="TV55" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV55.png" group-title="tv",TV-55
-http://192.168.1.200:8000/rtp/239.33.4.55:20550
+http://192.168.1.200:8000/rtp/239.33.3.55:23110
 #EXTINF:-1 tvg-id="56" tvg-name="TV56" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV56.png" group-title="tv",TV-56
-http://192.168.1.200:8000/rtp/239.33.4.56:20560
+http://192.168.1.200:8000/rtp/239.33.3.56:23120
 #EXTINF:-1 tvg-id="57" tvg-name="TV57" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV57.png" group-title="tv",TV-57
-http://192.168.1.200:8000/rtp/239.33.4.57:20570
+http://192.168.1.200:8000/rtp/239.33.3.57:23130
 #EXTINF:-1 tvg-id="58" tvg-name="TV58" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV58.png" group-title="tv",TV-58
-http://192.168.1.200:8000/rtp/239.33.4.58:20580
+http://192.168.1.200:8000/rtp/239.33.3.58:23140
 #EXTINF:-1 tvg-id="59" tvg-name="TV59" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV59.png" group-title="tv",TV-59
-http://192.168.1.200:8000/rtp/239.33.4.59:20590
+http://192.168.1.200:8000/rtp/239.33.3.59:23150
 #EXTINF:-1 tvg-id="60" tvg-name="TV60" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV60.png" group-title="tv",TV-60
-http://192.168.1.200:8000/rtp/239.33.4.60:20600
+http://192.168.1.200:8000/rtp/239.33.3.60:23160
 #EXTINF:-1 tvg-id="61" tvg-name="TV61" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV61.png" group-title="tv",TV-61
-http://192.168.1.200:8000/rtp/239.33.4.61:20610
+http://192.168.1.200:8000/rtp/239.33.3.61:23170
 #EXTINF:-1 tvg-id="62" tvg-name="TV62" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV62.png" group-title="tv",TV-62
-http://192.168.1.200:8000/rtp/239.33.4.62:20620
+http://192.168.1.200:8000/rtp/239.33.3.62:23180
 #EXTINF:-1 tvg-id="63" tvg-name="TV63" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV63.png" group-title="tv",TV-63
-http://192.168.1.200:8000/rtp/239.33.4.63:20630
+http://192.168.1.200:8000/rtp/239.33.3.63:23190
 #EXTINF:-1 tvg-id="64" tvg-name="TV64" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV64.png" group-title="tv",TV-64
-http://192.168.1.200:8000/rtp/239.33.4.64:20640
+http://192.168.1.200:8000/rtp/239.33.3.64:23200
 #EXTINF:-1 tvg-id="65" tvg-name="TV65" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV65.png" group-title="tv",TV-65
-http://192.168.1.200:8000/rtp/239.33.4.65:20650
+http://192.168.1.200:8000/rtp/239.33.3.65:23210
 #EXTINF:-1 tvg-id="66" tvg-name="TV66" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV66.png" group-title="tv",TV-66
-http://192.168.1.200:8000/rtp/239.33.4.66:20660
+http://192.168.1.200:8000/rtp/239.33.3.66:23220
 #EXTINF:-1 tvg-id="67" tvg-name="TV67" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV67.png" group-title="tv",TV-67
-http://192.168.1.200:8000/rtp/239.33.4.67:20670
+http://192.168.1.200:8000/rtp/239.33.3.67:23230
 #EXTINF:-1 tvg-id="68" tvg-name="TV68" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV68.png" group-title="tv",TV-68
-http://192.168.1.200:8000/rtp/239.33.4.68:20680
+http://192.168.1.200:8000/rtp/239.33.3.68:23240
 #EXTINF:-1 tvg-id="69" tvg-name="TV69" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV69.png" group-title="tv",TV-69
-http://192.168.1.200:8000/rtp/239.33.4.69:20690
+http://192.168.1.200:8000/rtp/239.33.3.69:23250
 #EXTINF:-1 tvg-id="70" tvg-name="TV70" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV70.png" group-title="tv",TV-70
-http://192.168.1.200:8000/rtp/239.33.4.70:20700
+http://192.168.1.200:8000/rtp/239.33.3.70:23260
 #EXTINF:-1 tvg-id="71" tvg-name="TV71" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV71.png" group-title="tv",TV-71
-http://192.168.1.200:8000/rtp/239.33.4.71:20710
+http://192.168.1.200:8000/rtp/239.33.3.71:23270
 #EXTINF:-1 tvg-id="72" tvg-name="TV72" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV72.png" group-title="tv",TV-72
-http://192.168.1.200:8000/rtp/239.33.4.72:20720
+http://192.168.1.200:8000/rtp/239.33.3.72:23280
 #EXTINF:-1 tvg-id="73" tvg-name="TV73" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV73.png" group-title="tv",TV-73
-http://192.168.1.200:8000/rtp/239.33.4.73:20730
+http://192.168.1.200:8000/rtp/239.33.3.73:23290
 #EXTINF:-1 tvg-id="74" tvg-name="TV74" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV74.png" group-title="tv",TV-74
-http://192.168.1.200:8000/rtp/239.33.4.74:20740
+http://192.168.1.200:8000/rtp/239.33.3.74:23300
 #EXTINF:-1 tvg-id="75" tvg-name="TV75" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV75.png" group-title="tv",TV-75
-http://192.168.1.200:8000/rtp/239.33.4.75:20750
+http://192.168.1.200:8000/rtp/239.33.3.75:23310
 #EXTINF:-1 tvg-id="76" tvg-name="TV76" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV76.png" group-title="tv",TV-76
-http://192.168.1.200:8000/rtp/239.33.4.76:20760
+http://192.168.1.200:8000/rtp/239.33.3.76:23320
 #EXTINF:-1 tvg-id="77" tvg-name="TV77" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV77.png" group-title="tv",TV-77
-http://192.168.1.200:8000/rtp/239.33.4.77:20770
+http://192.168.1.200:8000/rtp/239.33.3.77:23330
 #EXTINF:-1 tvg-id="78" tvg-name="TV78" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV78.png" group-title="tv",TV-78
-http://192.168.1.200:8000/rtp/239.33.4.78:20780
+http://192.168.1.200:8000/rtp/239.33.3.78:23340
 #EXTINF:-1 tvg-id="79" tvg-name="TV79" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV79.png" group-title="tv",TV-79
-http://192.168.1.200:8000/rtp/239.33.4.79:20790
+http://192.168.1.200:8000/rtp/239.33.3.79:23350
 #EXTINF:-1 tvg-id="80" tvg-name="TV80" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV80.png" group-title="tv",TV-80
-http://192.168.1.200:8000/rtp/239.33.4.80:20800
+http://192.168.1.200:8000/rtp/239.33.3.80:23360
 #EXTINF:-1 tvg-id="81" tvg-name="TV81" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV81.png" group-title="tv",TV-81
-http://192.168.1.200:8000/rtp/239.33.4.81:20810
+http://192.168.1.200:8000/rtp/239.33.3.81:23370
 #EXTINF:-1 tvg-id="82" tvg-name="TV82" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV82.png" group-title="tv",TV-82
-http://192.168.1.200:8000/rtp/239.33.4.82:20820
+http://192.168.1.200:8000/rtp/239.33.3.82:23380
 #EXTINF:-1 tvg-id="83" tvg-name="TV83" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV83.png" group-title="tv",TV-83
-http://192.168.1.200:8000/rtp/239.33.4.83:20830
+http://192.168.1.200:8000/rtp/239.33.3.83:23390
 #EXTINF:-1 tvg-id="84" tvg-name="TV84" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV84.png" group-title="tv",TV-84
-http://192.168.1.200:8000/rtp/239.33.4.84:20840
+http://192.168.1.200:8000/rtp/239.33.3.84:23400
 #EXTINF:-1 tvg-id="85" tvg-name="TV85" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV85.png" group-title="tv",TV-85
-http://192.168.1.200:8000/rtp/239.33.4.85:20850
+http://192.168.1.200:8000/rtp/239.33.3.85:23410
 #EXTINF:-1 tvg-id="86" tvg-name="TV86" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV86.png" group-title="tv",TV-86
-http://192.168.1.200:8000/rtp/239.33.4.86:20860
+http://192.168.1.200:8000/rtp/239.33.3.86:23420
 #EXTINF:-1 tvg-id="87" tvg-name="TV87" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV87.png" group-title="tv",TV-87
-http://192.168.1.200:8000/rtp/239.33.4.87:20870
+http://192.168.1.200:8000/rtp/239.33.3.87:23430
 #EXTINF:-1 tvg-id="88" tvg-name="TV88" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV88.png" group-title="tv",TV-88
-http://192.168.1.200:8000/rtp/239.33.4.88:20880
+http://192.168.1.200:8000/rtp/239.33.3.88:23440
 #EXTINF:-1 tvg-id="89" tvg-name="TV89" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV89.png" group-title="tv",TV-89
-http://192.168.1.200:8000/rtp/239.33.4.89:20890
+http://192.168.1.200:8000/rtp/239.33.3.89:23450
 #EXTINF:-1 tvg-id="90" tvg-name="TV90" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV90.png" group-title="tv",TV-90
-http://192.168.1.200:8000/rtp/239.33.4.90:20900
+http://192.168.1.200:8000/rtp/239.33.3.90:23460
 #EXTINF:-1 tvg-id="91" tvg-name="TV91" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV91.png" group-title="tv",TV-91
-http://192.168.1.200:8000/rtp/239.33.4.91:20910
+http://192.168.1.200:8000/rtp/239.33.3.91:23470
 #EXTINF:-1 tvg-id="92" tvg-name="TV92" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV92.png" group-title="tv",TV-92
-http://192.168.1.200:8000/rtp/239.33.4.92:20920
+http://192.168.1.200:8000/rtp/239.33.3.92:23480
 #EXTINF:-1 tvg-id="93" tvg-name="TV93" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV93.png" group-title="tv",TV-93
-http://192.168.1.200:8000/rtp/239.33.4.93:20930
+http://192.168.1.200:8000/rtp/239.33.3.93:23490
 #EXTINF:-1 tvg-id="94" tvg-name="TV94" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV94.png" group-title="tv",TV-94
-http://192.168.1.200:8000/rtp/239.33.4.94:20940
+http://192.168.1.200:8000/rtp/239.33.3.94:23500
 #EXTINF:-1 tvg-id="95" tvg-name="TV95" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV95.png" group-title="tv",TV-95
-http://192.168.1.200:8000/rtp/239.33.4.95:20950
+http://192.168.1.200:8000/rtp/239.33.3.95:23510
 #EXTINF:-1 tvg-id="96" tvg-name="TV96" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV96.png" group-title="tv",TV-96
-http://192.168.1.200:8000/rtp/239.33.4.96:20960
+http://192.168.1.200:8000/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="97" tvg-name="TV97" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV97.png" group-title="tv",TV-97
-http://192.168.1.200:8000/rtp/239.33.4.97:20970
+http://192.168.1.200:8000/rtp/239.33.3.97:23530
 #EXTINF:-1 tvg-id="98" tvg-name="TV98" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV98.png" group-title="tv",TV-98
-http://192.168.1.200:8000/rtp/239.33.4.98:20980
+http://192.168.1.200:8000/rtp/239.33.3.98:23540
 #EXTINF:-1 tvg-id="99" tvg-name="TV99" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV99.png" group-title="tv",TV-99
-http://192.168.1.200:8000/rtp/239.33.4.99:20990
+http://192.168.1.200:8000/rtp/239.33.3.99:23550
 #EXTINF:-1 tvg-id="100" tvg-name="TV100" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV100.png" group-title="tv",TV-100
-http://192.168.1.200:8000/rtp/239.33.4.100:21000
+http://192.168.1.200:8000/rtp/239.33.3.100:23560
 #EXTINF:-1 tvg-id="101" tvg-name="TV101" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV101.png" group-title="tv",TV-101
-http://192.168.1.200:8000/rtp/239.33.4.101:21010
+http://192.168.1.200:8000/rtp/239.33.3.101:23570
 #EXTINF:-1 tvg-id="102" tvg-name="TV102" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV102.png" group-title="tv",TV-102
-http://192.168.1.200:8000/rtp/239.33.4.102:21020
+http://192.168.1.200:8000/rtp/239.33.3.102:23580
 #EXTINF:-1 tvg-id="103" tvg-name="TV103" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV103.png" group-title="tv",TV-103
-http://192.168.1.200:8000/rtp/239.33.4.103:21030
+http://192.168.1.200:8000/rtp/239.33.3.103:23590
 #EXTINF:-1 tvg-id="104" tvg-name="TV104" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV104.png" group-title="tv",TV-104
-http://192.168.1.200:8000/rtp/239.33.4.104:21040
+http://192.168.1.200:8000/rtp/239.33.3.104:23600
 #EXTINF:-1 tvg-id="105" tvg-name="TV105" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV105.png" group-title="tv",TV-105
-http://192.168.1.200:8000/rtp/239.33.4.105:21050
+http://192.168.1.200:8000/rtp/239.33.3.105:23610
 #EXTINF:-1 tvg-id="106" tvg-name="TV106" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV106.png" group-title="tv",TV-106
-http://192.168.1.200:8000/rtp/239.33.4.106:21060
+http://192.168.1.200:8000/rtp/239.33.3.106:23620
 #EXTINF:-1 tvg-id="107" tvg-name="TV107" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV107.png" group-title="tv",TV-107
-http://192.168.1.200:8000/rtp/239.33.4.107:21070
+http://192.168.1.200:8000/rtp/239.33.3.107:23630
 #EXTINF:-1 tvg-id="108" tvg-name="TV108" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV108.png" group-title="tv",TV-108
-http://192.168.1.200:8000/rtp/239.33.4.108:21080
+http://192.168.1.200:8000/rtp/239.33.3.108:23640
 #EXTINF:-1 tvg-id="109" tvg-name="TV109" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV109.png" group-title="tv",TV-109
-http://192.168.1.200:8000/rtp/239.33.4.109:21090
+http://192.168.1.200:8000/rtp/239.33.3.109:23650
 #EXTINF:-1 tvg-id="110" tvg-name="TV110" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV110.png" group-title="tv",TV-110
-http://192.168.1.200:8000/rtp/239.33.4.110:21100
+http://192.168.1.200:8000/rtp/239.33.3.110:23660
 #EXTINF:-1 tvg-id="111" tvg-name="TV111" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV111.png" group-title="tv",TV-111
-http://192.168.1.200:8000/rtp/239.33.4.111:21110
+http://192.168.1.200:8000/rtp/239.33.3.111:23670
 #EXTINF:-1 tvg-id="112" tvg-name="TV112" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV112.png" group-title="tv",TV-112
-http://192.168.1.200:8000/rtp/239.33.4.112:21120
+http://192.168.1.200:8000/rtp/239.33.3.112:23680
 #EXTINF:-1 tvg-id="113" tvg-name="TV113" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV113.png" group-title="tv",TV-113
-http://192.168.1.200:8000/rtp/239.33.4.113:21130
+http://192.168.1.200:8000/rtp/239.33.3.113:23690
 #EXTINF:-1 tvg-id="114" tvg-name="TV114" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV114.png" group-title="tv",TV-114
-http://192.168.1.200:8000/rtp/239.33.4.114:21140
+http://192.168.1.200:8000/rtp/239.33.3.114:23700
 #EXTINF:-1 tvg-id="115" tvg-name="TV115" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV115.png" group-title="tv",TV-115
-http://192.168.1.200:8000/rtp/239.33.4.115:21150
+http://192.168.1.200:8000/rtp/239.33.3.115:23710
 #EXTINF:-1 tvg-id="116" tvg-name="TV116" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV116.png" group-title="tv",TV-116
-http://192.168.1.200:8000/rtp/239.33.4.116:21160
+http://192.168.1.200:8000/rtp/239.33.3.116:23720
 #EXTINF:-1 tvg-id="117" tvg-name="TV117" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV117.png" group-title="tv",TV-117
-http://192.168.1.200:8000/rtp/239.33.4.117:21170
+http://192.168.1.200:8000/rtp/239.33.3.117:23730
 #EXTINF:-1 tvg-id="118" tvg-name="TV118" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV118.png" group-title="tv",TV-118
-http://192.168.1.200:8000/rtp/239.33.4.118:21180
+http://192.168.1.200:8000/rtp/239.33.3.118:23740
 #EXTINF:-1 tvg-id="119" tvg-name="TV119" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV119.png" group-title="tv",TV-119
-http://192.168.1.200:8000/rtp/239.33.4.119:21190
+http://192.168.1.200:8000/rtp/239.33.3.119:23750
 #EXTINF:-1 tvg-id="120" tvg-name="TV120" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV120.png" group-title="tv",TV-120
-http://192.168.1.200:8000/rtp/239.33.4.120:21200
+http://192.168.1.200:8000/rtp/239.33.3.120:23760
 #EXTINF:-1 tvg-id="121" tvg-name="TV121" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV121.png" group-title="tv",TV-121
-http://192.168.1.200:8000/rtp/239.33.4.121:21210
+http://192.168.1.200:8000/rtp/239.33.3.121:23770
 #EXTINF:-1 tvg-id="122" tvg-name="TV122" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV122.png" group-title="tv",TV-122
-http://192.168.1.200:8000/rtp/239.33.4.122:21220
+http://192.168.1.200:8000/rtp/239.33.3.122:23780
 #EXTINF:-1 tvg-id="123" tvg-name="TV123" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV123.png" group-title="tv",TV-123
-http://192.168.1.200:8000/rtp/239.33.4.123:21230
+http://192.168.1.200:8000/rtp/239.33.3.123:23790
 #EXTINF:-1 tvg-id="124" tvg-name="TV124" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV124.png" group-title="tv",TV-124
-http://192.168.1.200:8000/rtp/239.33.4.124:21240
+http://192.168.1.200:8000/rtp/239.33.3.124:23800
 #EXTINF:-1 tvg-id="125" tvg-name="TV125" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV125.png" group-title="tv",TV-125
-http://192.168.1.200:8000/rtp/239.33.4.125:21250
+http://192.168.1.200:8000/rtp/239.33.3.125:23810
 #EXTINF:-1 tvg-id="126" tvg-name="TV126" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV126.png" group-title="tv",TV-126
-http://192.168.1.200:8000/rtp/239.33.4.126:21260
+http://192.168.1.200:8000/rtp/239.33.3.126:23820
 #EXTINF:-1 tvg-id="127" tvg-name="TV127" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV127.png" group-title="tv",TV-127
-http://192.168.1.200:8000/rtp/239.33.4.127:21270
+http://192.168.1.200:8000/rtp/239.33.3.127:23830
 #EXTINF:-1 tvg-id="128" tvg-name="TV128" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV128.png" group-title="tv",TV-128
-http://192.168.1.200:8000/rtp/239.33.4.128:21280
+http://192.168.1.200:8000/rtp/239.33.3.128:23840
 #EXTINF:-1 tvg-id="129" tvg-name="TV129" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV129.png" group-title="tv",TV-129
-http://192.168.1.200:8000/rtp/239.33.4.129:21290
+http://192.168.1.200:8000/rtp/239.33.3.129:23850
 #EXTINF:-1 tvg-id="130" tvg-name="TV130" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV130.png" group-title="tv",TV-130
-http://192.168.1.200:8000/rtp/239.33.4.130:21300
+http://192.168.1.200:8000/rtp/239.33.3.130:23860
 #EXTINF:-1 tvg-id="131" tvg-name="TV131" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV131.png" group-title="tv",TV-131
-http://192.168.1.200:8000/rtp/239.33.4.131:21310
+http://192.168.1.200:8000/rtp/239.33.3.131:23870
 #EXTINF:-1 tvg-id="132" tvg-name="TV132" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV132.png" group-title="tv",TV-132
-http://192.168.1.200:8000/rtp/239.33.4.132:21320
+http://192.168.1.200:8000/rtp/239.33.3.132:23880
 #EXTINF:-1 tvg-id="133" tvg-name="TV133" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV133.png" group-title="tv",TV-133
-http://192.168.1.200:8000/rtp/239.33.4.133:21330
+http://192.168.1.200:8000/rtp/239.33.3.133:23890
 #EXTINF:-1 tvg-id="134" tvg-name="TV134" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV134.png" group-title="tv",TV-134
-http://192.168.1.200:8000/rtp/239.33.4.134:21340
+http://192.168.1.200:8000/rtp/239.33.3.134:23900
 #EXTINF:-1 tvg-id="135" tvg-name="TV135" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV135.png" group-title="tv",TV-135
-http://192.168.1.200:8000/rtp/239.33.4.135:21350
+http://192.168.1.200:8000/rtp/239.33.3.135:23910
 #EXTINF:-1 tvg-id="136" tvg-name="TV136" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV136.png" group-title="tv",TV-136
-http://192.168.1.200:8000/rtp/239.33.4.136:21360
+http://192.168.1.200:8000/rtp/239.33.3.136:23920
 #EXTINF:-1 tvg-id="137" tvg-name="TV137" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV137.png" group-title="tv",TV-137
-http://192.168.1.200:8000/rtp/239.33.4.137:21370
+http://192.168.1.200:8000/rtp/239.33.3.137:23930
 #EXTINF:-1 tvg-id="138" tvg-name="TV138" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV138.png" group-title="tv",TV-138
-http://192.168.1.200:8000/rtp/239.33.4.138:21380
+http://192.168.1.200:8000/rtp/239.33.3.138:23940
 #EXTINF:-1 tvg-id="139" tvg-name="TV139" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV139.png" group-title="tv",TV-139
-http://192.168.1.200:8000/rtp/239.33.4.139:21390
+http://192.168.1.200:8000/rtp/239.33.3.139:23950
 #EXTINF:-1 tvg-id="140" tvg-name="TV140" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV140.png" group-title="tv",TV-140
-http://192.168.1.200:8000/rtp/239.33.4.140:21400
+http://192.168.1.200:8000/rtp/239.33.3.140:23960
 #EXTINF:-1 tvg-id="141" tvg-name="TV141" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV141.png" group-title="tv",TV-141
-http://192.168.1.200:8000/rtp/239.33.4.141:21410
+http://192.168.1.200:8000/rtp/239.33.3.141:23970
 #EXTINF:-1 tvg-id="142" tvg-name="TV142" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV142.png" group-title="tv",TV-142
-http://192.168.1.200:8000/rtp/239.33.4.142:21420
+http://192.168.1.200:8000/rtp/239.33.3.142:23980
 #EXTINF:-1 tvg-id="143" tvg-name="TV143" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV143.png" group-title="tv",TV-143
-http://192.168.1.200:8000/rtp/239.33.4.143:21430
+http://192.168.1.200:8000/rtp/239.33.3.143:23990
 #EXTINF:-1 tvg-id="144" tvg-name="TV144" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV144.png" group-title="tv",TV-144
-http://192.168.1.200:8000/rtp/239.33.4.144:21440
+http://192.168.1.200:8000/rtp/239.33.3.144:24000
 #EXTINF:-1 tvg-id="145" tvg-name="TV145" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV145.png" group-title="tv",TV-145
-http://192.168.1.200:8000/rtp/239.33.4.145:21450
+http://192.168.1.200:8000/rtp/239.33.3.145:24010
 #EXTINF:-1 tvg-id="146" tvg-name="TV146" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV146.png" group-title="tv",TV-146
-http://192.168.1.200:8000/rtp/239.33.4.146:21460
+http://192.168.1.200:8000/rtp/239.33.3.146:24020
 #EXTINF:-1 tvg-id="147" tvg-name="TV147" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV147.png" group-title="tv",TV-147
-http://192.168.1.200:8000/rtp/239.33.4.147:21470
+http://192.168.1.200:8000/rtp/239.33.3.147:24030
 #EXTINF:-1 tvg-id="148" tvg-name="TV148" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV148.png" group-title="tv",TV-148
-http://192.168.1.200:8000/rtp/239.33.4.148:21480
+http://192.168.1.200:8000/rtp/239.33.3.148:24040
 #EXTINF:-1 tvg-id="149" tvg-name="TV149" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV149.png" group-title="tv",TV-149
-http://192.168.1.200:8000/rtp/239.33.4.149:21490
+http://192.168.1.200:8000/rtp/239.33.3.149:24050
 #EXTINF:-1 tvg-id="150" tvg-name="TV150" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV150.png" group-title="tv",TV-150
-http://192.168.1.200:8000/rtp/239.33.4.150:21500
+http://192.168.1.200:8000/rtp/239.33.3.150:24060
 #EXTINF:-1 tvg-id="151" tvg-name="TV151" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV151.png" group-title="tv",TV-151
-http://192.168.1.200:8000/rtp/239.33.4.151:21510
+http://192.168.1.200:8000/rtp/239.33.3.151:24070
 #EXTINF:-1 tvg-id="152" tvg-name="TV152" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV152.png" group-title="tv",TV-152
-http://192.168.1.200:8000/rtp/239.33.4.152:21520
+http://192.168.1.200:8000/rtp/239.33.3.152:24080
 #EXTINF:-1 tvg-id="153" tvg-name="TV153" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV153.png" group-title="tv",TV-153
-http://192.168.1.200:8000/rtp/239.33.4.153:21530
+http://192.168.1.200:8000/rtp/239.33.3.153:24090
 #EXTINF:-1 tvg-id="154" tvg-name="TV154" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV154.png" group-title="tv",TV-154
-http://192.168.1.200:8000/rtp/239.33.4.154:21540
+http://192.168.1.200:8000/rtp/239.33.3.154:24100
 #EXTINF:-1 tvg-id="155" tvg-name="TV155" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV155.png" group-title="tv",TV-155
-http://192.168.1.200:8000/rtp/239.33.4.155:21550
+http://192.168.1.200:8000/rtp/239.33.3.155:24110
 #EXTINF:-1 tvg-id="156" tvg-name="TV156" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV156.png" group-title="tv",TV-156
-http://192.168.1.200:8000/rtp/239.33.4.156:21560
+http://192.168.1.200:8000/rtp/239.33.3.156:24120
 #EXTINF:-1 tvg-id="157" tvg-name="TV157" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV157.png" group-title="tv",TV-157
-http://192.168.1.200:8000/rtp/239.33.4.157:21570
+http://192.168.1.200:8000/rtp/239.33.3.157:24130
 #EXTINF:-1 tvg-id="158" tvg-name="TV158" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV158.png" group-title="tv",TV-158
-http://192.168.1.200:8000/rtp/239.33.4.158:21580
+http://192.168.1.200:8000/rtp/239.33.3.158:24140
 #EXTINF:-1 tvg-id="159" tvg-name="TV159" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV159.png" group-title="tv",TV-159
-http://192.168.1.200:8000/rtp/239.33.4.159:21590
+http://192.168.1.200:8000/rtp/239.33.3.159:24150
 #EXTINF:-1 tvg-id="160" tvg-name="TV160" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV160.png" group-title="tv",TV-160
-http://192.168.1.200:8000/rtp/239.33.4.160:21600
+http://192.168.1.200:8000/rtp/239.33.3.160:24160
 #EXTINF:-1 tvg-id="161" tvg-name="TV161" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV161.png" group-title="tv",TV-161
-http://192.168.1.200:8000/rtp/239.33.4.161:21610
+http://192.168.1.200:8000/rtp/239.33.3.161:24170
 #EXTINF:-1 tvg-id="162" tvg-name="TV162" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV162.png" group-title="tv",TV-162
-http://192.168.1.200:8000/rtp/239.33.4.162:21620
+http://192.168.1.200:8000/rtp/239.33.3.162:24180
 #EXTINF:-1 tvg-id="163" tvg-name="TV163" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV163.png" group-title="tv",TV-163
-http://192.168.1.200:8000/rtp/239.33.4.163:21630
+http://192.168.1.200:8000/rtp/239.33.3.163:24190
 #EXTINF:-1 tvg-id="164" tvg-name="TV164" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV164.png" group-title="tv",TV-164
-http://192.168.1.200:8000/rtp/239.33.4.164:21640
+http://192.168.1.200:8000/rtp/239.33.3.164:24200
 #EXTINF:-1 tvg-id="165" tvg-name="TV165" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV165.png" group-title="tv",TV-165
-http://192.168.1.200:8000/rtp/239.33.4.165:21650
+http://192.168.1.200:8000/rtp/239.33.3.165:24210
 #EXTINF:-1 tvg-id="166" tvg-name="TV166" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV166.png" group-title="tv",TV-166
-http://192.168.1.200:8000/rtp/239.33.4.166:21660
+http://192.168.1.200:8000/rtp/239.33.3.166:24220
 #EXTINF:-1 tvg-id="167" tvg-name="TV167" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV167.png" group-title="tv",TV-167
-http://192.168.1.200:8000/rtp/239.33.4.167:21670
+http://192.168.1.200:8000/rtp/239.33.3.167:24230
 #EXTINF:-1 tvg-id="168" tvg-name="TV168" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV168.png" group-title="tv",TV-168
-http://192.168.1.200:8000/rtp/239.33.4.168:21680
+http://192.168.1.200:8000/rtp/239.33.3.168:24240
 #EXTINF:-1 tvg-id="169" tvg-name="TV169" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV169.png" group-title="tv",TV-169
-http://192.168.1.200:8000/rtp/239.33.4.169:21690
+http://192.168.1.200:8000/rtp/239.33.3.169:24250
 #EXTINF:-1 tvg-id="170" tvg-name="TV170" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV170.png" group-title="tv",TV-170
-http://192.168.1.200:8000/rtp/239.33.4.170:21700
+http://192.168.1.200:8000/rtp/239.33.3.170:24260
 #EXTINF:-1 tvg-id="171" tvg-name="TV171" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV171.png" group-title="tv",TV-171
-http://192.168.1.200:8000/rtp/239.33.4.171:21710
+http://192.168.1.200:8000/rtp/239.33.3.171:24270
 #EXTINF:-1 tvg-id="172" tvg-name="TV172" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV172.png" group-title="tv",TV-172
-http://192.168.1.200:8000/rtp/239.33.4.172:21720
+http://192.168.1.200:8000/rtp/239.33.3.172:24280
 #EXTINF:-1 tvg-id="173" tvg-name="TV173" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV173.png" group-title="tv",TV-173
-http://192.168.1.200:8000/rtp/239.33.4.173:21730
+http://192.168.1.200:8000/rtp/239.33.3.173:24290
 #EXTINF:-1 tvg-id="174" tvg-name="TV174" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV174.png" group-title="tv",TV-174
-http://192.168.1.200:8000/rtp/239.33.4.174:21740
+http://192.168.1.200:8000/rtp/239.33.3.174:24300
 #EXTINF:-1 tvg-id="175" tvg-name="TV175" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV175.png" group-title="tv",TV-175
-http://192.168.1.200:8000/rtp/239.33.4.175:21750
+http://192.168.1.200:8000/rtp/239.33.3.175:24310
 #EXTINF:-1 tvg-id="176" tvg-name="TV176" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV176.png" group-title="tv",TV-176
-http://192.168.1.200:8000/rtp/239.33.4.176:21760
+http://192.168.1.200:8000/rtp/239.33.3.176:24320
 #EXTINF:-1 tvg-id="177" tvg-name="TV177" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV177.png" group-title="tv",TV-177
-http://192.168.1.200:8000/rtp/239.33.4.177:21770
+http://192.168.1.200:8000/rtp/239.33.3.177:24330
 #EXTINF:-1 tvg-id="178" tvg-name="TV178" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV178.png" group-title="tv",TV-178
-http://192.168.1.200:8000/rtp/239.33.4.178:21780
+http://192.168.1.200:8000/rtp/239.33.3.178:24340
 #EXTINF:-1 tvg-id="179" tvg-name="TV179" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV179.png" group-title="tv",TV-179
-http://192.168.1.200:8000/rtp/239.33.4.179:21790
+http://192.168.1.200:8000/rtp/239.33.3.179:24350
 #EXTINF:-1 tvg-id="180" tvg-name="TV180" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV180.png" group-title="tv",TV-180
-http://192.168.1.200:8000/rtp/239.33.4.180:21800
+http://192.168.1.200:8000/rtp/239.33.3.180:24360
 #EXTINF:-1 tvg-id="181" tvg-name="TV181" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV181.png" group-title="tv",TV-181
-http://192.168.1.200:8000/rtp/239.33.4.181:21810
+http://192.168.1.200:8000/rtp/239.33.3.181:24370
 #EXTINF:-1 tvg-id="182" tvg-name="TV182" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV182.png" group-title="tv",TV-182
-http://192.168.1.200:8000/rtp/239.33.4.182:21820
+http://192.168.1.200:8000/rtp/239.33.3.182:24380
 #EXTINF:-1 tvg-id="183" tvg-name="TV183" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV183.png" group-title="tv",TV-183
-http://192.168.1.200:8000/rtp/239.33.4.183:21830
+http://192.168.1.200:8000/rtp/239.33.3.183:24390
 #EXTINF:-1 tvg-id="184" tvg-name="TV184" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV184.png" group-title="tv",TV-184
-http://192.168.1.200:8000/rtp/239.33.4.184:21840
+http://192.168.1.200:8000/rtp/239.33.3.184:24400
 #EXTINF:-1 tvg-id="185" tvg-name="TV185" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV185.png" group-title="tv",TV-185
-http://192.168.1.200:8000/rtp/239.33.4.185:21850
+http://192.168.1.200:8000/rtp/239.33.3.185:24410
 #EXTINF:-1 tvg-id="186" tvg-name="TV186" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV186.png" group-title="tv",TV-186
-http://192.168.1.200:8000/rtp/239.33.4.186:21860
+http://192.168.1.200:8000/rtp/239.33.3.186:24420
 #EXTINF:-1 tvg-id="187" tvg-name="TV187" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV187.png" group-title="tv",TV-187
-http://192.168.1.200:8000/rtp/239.33.4.187:21870
+http://192.168.1.200:8000/rtp/239.33.3.187:24430
 #EXTINF:-1 tvg-id="188" tvg-name="TV188" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV188.png" group-title="tv",TV-188
-http://192.168.1.200:8000/rtp/239.33.4.188:21880
+http://192.168.1.200:8000/rtp/239.33.3.188:24440
 #EXTINF:-1 tvg-id="189" tvg-name="TV189" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV189.png" group-title="tv",TV-189
-http://192.168.1.200:8000/rtp/239.33.4.189:21890
+http://192.168.1.200:8000/rtp/239.33.3.189:24450
 #EXTINF:-1 tvg-id="190" tvg-name="TV190" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV190.png" group-title="tv",TV-190
-http://192.168.1.200:8000/rtp/239.33.4.190:21900
+http://192.168.1.200:8000/rtp/239.33.3.190:24460
 #EXTINF:-1 tvg-id="191" tvg-name="TV191" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV191.png" group-title="tv",TV-191
-http://192.168.1.200:8000/rtp/239.33.4.191:21910
+http://192.168.1.200:8000/rtp/239.33.3.191:24470
 #EXTINF:-1 tvg-id="192" tvg-name="TV192" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV192.png" group-title="tv",TV-192
-http://192.168.1.200:8000/rtp/239.33.4.192:21920
+http://192.168.1.200:8000/rtp/239.33.3.192:24480
 #EXTINF:-1 tvg-id="193" tvg-name="TV193" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV193.png" group-title="tv",TV-193
-http://192.168.1.200:8000/rtp/239.33.4.193:21930
+http://192.168.1.200:8000/rtp/239.33.3.193:24490
 #EXTINF:-1 tvg-id="194" tvg-name="TV194" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV194.png" group-title="tv",TV-194
-http://192.168.1.200:8000/rtp/239.33.4.194:21940
+http://192.168.1.200:8000/rtp/239.33.3.194:24500
 #EXTINF:-1 tvg-id="195" tvg-name="TV195" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV195.png" group-title="tv",TV-195
-http://192.168.1.200:8000/rtp/239.33.4.195:21950
+http://192.168.1.200:8000/rtp/239.33.3.195:24510
 #EXTINF:-1 tvg-id="196" tvg-name="TV196" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV196.png" group-title="tv",TV-196
-http://192.168.1.200:8000/rtp/239.33.4.196:21960
+http://192.168.1.200:8000/rtp/239.33.3.196:24520
 #EXTINF:-1 tvg-id="197" tvg-name="TV197" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV197.png" group-title="tv",TV-197
-http://192.168.1.200:8000/rtp/239.33.4.197:21970
+http://192.168.1.200:8000/rtp/239.33.3.197:24530
 #EXTINF:-1 tvg-id="198" tvg-name="TV198" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV198.png" group-title="tv",TV-198
-http://192.168.1.200:8000/rtp/239.33.4.198:21980
+http://192.168.1.200:8000/rtp/239.33.3.198:24540
 #EXTINF:-1 tvg-id="199" tvg-name="TV199" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV199.png" group-title="tv",TV-199
-http://192.168.1.200:8000/rtp/239.33.4.199:21990
+http://192.168.1.200:8000/rtp/239.33.3.199:24550
 #EXTINF:-1 tvg-id="200" tvg-name="TV200" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV200.png" group-title="tv",TV-200
-http://192.168.1.200:8000/rtp/239.33.4.200:22000
+http://192.168.1.200:8000/rtp/239.33.3.200:24560
 #EXTINF:-1 tvg-id="201" tvg-name="TV201" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV201.png" group-title="tv",TV-201
-http://192.168.1.200:8000/rtp/239.33.4.201:22010
+http://192.168.1.200:8000/rtp/239.33.3.201:24570
 #EXTINF:-1 tvg-id="202" tvg-name="TV202" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV202.png" group-title="tv",TV-202
-http://192.168.1.200:8000/rtp/239.33.4.202:22020
+http://192.168.1.200:8000/rtp/239.33.3.202:24580
 #EXTINF:-1 tvg-id="203" tvg-name="TV203" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV203.png" group-title="tv",TV-203
-http://192.168.1.200:8000/rtp/239.33.4.203:22030
+http://192.168.1.200:8000/rtp/239.33.3.203:24590
 #EXTINF:-1 tvg-id="204" tvg-name="TV204" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV204.png" group-title="tv",TV-204
-http://192.168.1.200:8000/rtp/239.33.4.204:22040
+http://192.168.1.200:8000/rtp/239.33.3.204:24600
 #EXTINF:-1 tvg-id="205" tvg-name="TV205" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV205.png" group-title="tv",TV-205
-http://192.168.1.200:8000/rtp/239.33.4.205:22050
+http://192.168.1.200:8000/rtp/239.33.3.205:24610
 #EXTINF:-1 tvg-id="206" tvg-name="TV206" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV206.png" group-title="tv",TV-206
-http://192.168.1.200:8000/rtp/239.33.4.206:22060
+http://192.168.1.200:8000/rtp/239.33.3.206:24620
 #EXTINF:-1 tvg-id="207" tvg-name="TV207" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV207.png" group-title="tv",TV-207
-http://192.168.1.200:8000/rtp/239.33.4.207:22070
+http://192.168.1.200:8000/rtp/239.33.3.207:24630
 #EXTINF:-1 tvg-id="208" tvg-name="TV208" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV208.png" group-title="tv",TV-208
-http://192.168.1.200:8000/rtp/239.33.4.208:22080
+http://192.168.1.200:8000/rtp/239.33.3.208:24640
 #EXTINF:-1 tvg-id="209" tvg-name="TV209" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV209.png" group-title="tv",TV-209
-http://192.168.1.200:8000/rtp/239.33.4.209:22090
+http://192.168.1.200:8000/rtp/239.33.3.209:24650
 #EXTINF:-1 tvg-id="210" tvg-name="TV210" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV210.png" group-title="tv",TV-210
-http://192.168.1.200:8000/rtp/239.33.4.210:22100
+http://192.168.1.200:8000/rtp/239.33.3.210:24660
 #EXTINF:-1 tvg-id="211" tvg-name="TV211" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV211.png" group-title="tv",TV-211
-http://192.168.1.200:8000/rtp/239.33.4.211:22110
+http://192.168.1.200:8000/rtp/239.33.3.211:24670
 #EXTINF:-1 tvg-id="212" tvg-name="TV212" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV212.png" group-title="tv",TV-212
-http://192.168.1.200:8000/rtp/239.33.4.212:22120
+http://192.168.1.200:8000/rtp/239.33.3.212:24680
 #EXTINF:-1 tvg-id="213" tvg-name="TV213" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV213.png" group-title="tv",TV-213
-http://192.168.1.200:8000/rtp/239.33.4.213:22130
+http://192.168.1.200:8000/rtp/239.33.3.213:24690
 #EXTINF:-1 tvg-id="214" tvg-name="TV214" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV214.png" group-title="tv",TV-214
-http://192.168.1.200:8000/rtp/239.33.4.214:22140
+http://192.168.1.200:8000/rtp/239.33.3.214:24700
 #EXTINF:-1 tvg-id="215" tvg-name="TV215" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV215.png" group-title="tv",TV-215
-http://192.168.1.200:8000/rtp/239.33.4.215:22150
+http://192.168.1.200:8000/rtp/239.33.3.215:24710
 #EXTINF:-1 tvg-id="216" tvg-name="TV216" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV216.png" group-title="tv",TV-216
-http://192.168.1.200:8000/rtp/239.33.4.216:22160
+http://192.168.1.200:8000/rtp/239.33.3.216:24720
 #EXTINF:-1 tvg-id="217" tvg-name="TV217" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV217.png" group-title="tv",TV-217
-http://192.168.1.200:8000/rtp/239.33.4.217:22170
+http://192.168.1.200:8000/rtp/239.33.3.217:24730
 #EXTINF:-1 tvg-id="218" tvg-name="TV218" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV218.png" group-title="tv",TV-218
-http://192.168.1.200:8000/rtp/239.33.4.218:22180
+http://192.168.1.200:8000/rtp/239.33.3.218:24740
 #EXTINF:-1 tvg-id="219" tvg-name="TV219" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV219.png" group-title="tv",TV-219
-http://192.168.1.200:8000/rtp/239.33.4.219:22190
+http://192.168.1.200:8000/rtp/239.33.3.219:24750
 #EXTINF:-1 tvg-id="220" tvg-name="TV220" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV220.png" group-title="tv",TV-220
-http://192.168.1.200:8000/rtp/239.33.4.220:22200
+http://192.168.1.200:8000/rtp/239.33.3.220:24760
 #EXTINF:-1 tvg-id="221" tvg-name="TV221" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV221.png" group-title="tv",TV-221
-http://192.168.1.200:8000/rtp/239.33.4.221:22210
+http://192.168.1.200:8000/rtp/239.33.3.221:24770
 #EXTINF:-1 tvg-id="222" tvg-name="TV222" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV222.png" group-title="tv",TV-222
-http://192.168.1.200:8000/rtp/239.33.4.222:22220
+http://192.168.1.200:8000/rtp/239.33.3.222:24780
 #EXTINF:-1 tvg-id="223" tvg-name="TV223" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV223.png" group-title="tv",TV-223
-http://192.168.1.200:8000/rtp/239.33.4.223:22230
+http://192.168.1.200:8000/rtp/239.33.3.223:24790
 #EXTINF:-1 tvg-id="224" tvg-name="TV224" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV224.png" group-title="tv",TV-224
-http://192.168.1.200:8000/rtp/239.33.4.224:22240
+http://192.168.1.200:8000/rtp/239.33.3.224:24800
 #EXTINF:-1 tvg-id="225" tvg-name="TV225" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV225.png" group-title="tv",TV-225
-http://192.168.1.200:8000/rtp/239.33.4.225:22250
+http://192.168.1.200:8000/rtp/239.33.3.225:24810
 #EXTINF:-1 tvg-id="226" tvg-name="TV226" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV226.png" group-title="tv",TV-226
-http://192.168.1.200:8000/rtp/239.33.4.226:22260
+http://192.168.1.200:8000/rtp/239.33.3.226:24820
 #EXTINF:-1 tvg-id="227" tvg-name="TV227" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV227.png" group-title="tv",TV-227
-http://192.168.1.200:8000/rtp/239.33.4.227:22270
+http://192.168.1.200:8000/rtp/239.33.3.227:24830
 #EXTINF:-1 tvg-id="228" tvg-name="TV228" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV228.png" group-title="tv",TV-228
-http://192.168.1.200:8000/rtp/239.33.4.228:22280
+http://192.168.1.200:8000/rtp/239.33.3.228:24840
 #EXTINF:-1 tvg-id="229" tvg-name="TV229" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV229.png" group-title="tv",TV-229
-http://192.168.1.200:8000/rtp/239.33.4.229:22290
+http://192.168.1.200:8000/rtp/239.33.3.229:24850
 #EXTINF:-1 tvg-id="230" tvg-name="TV230" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV230.png" group-title="tv",TV-230
-http://192.168.1.200:8000/rtp/239.33.4.230:22300
+http://192.168.1.200:8000/rtp/239.33.3.230:24860
 #EXTINF:-1 tvg-id="231" tvg-name="TV231" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV231.png" group-title="tv",TV-231
-http://192.168.1.200:8000/rtp/239.33.4.231:22310
+http://192.168.1.200:8000/rtp/239.33.3.231:24870
 #EXTINF:-1 tvg-id="232" tvg-name="TV232" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV232.png" group-title="tv",TV-232
-http://192.168.1.200:8000/rtp/239.33.4.232:22320
+http://192.168.1.200:8000/rtp/239.33.3.232:24880
 #EXTINF:-1 tvg-id="233" tvg-name="TV233" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV233.png" group-title="tv",TV-233
-http://192.168.1.200:8000/rtp/239.33.4.233:22330
+http://192.168.1.200:8000/rtp/239.33.3.233:24890
 #EXTINF:-1 tvg-id="234" tvg-name="TV234" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV234.png" group-title="tv",TV-234
-http://192.168.1.200:8000/rtp/239.33.4.234:22340
+http://192.168.1.200:8000/rtp/239.33.3.234:24900
 #EXTINF:-1 tvg-id="235" tvg-name="TV235" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV235.png" group-title="tv",TV-235
-http://192.168.1.200:8000/rtp/239.33.4.235:22350
+http://192.168.1.200:8000/rtp/239.33.3.235:24910
 #EXTINF:-1 tvg-id="236" tvg-name="TV236" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV236.png" group-title="tv",TV-236
-http://192.168.1.200:8000/rtp/239.33.4.236:22360
+http://192.168.1.200:8000/rtp/239.33.3.236:24920
 #EXTINF:-1 tvg-id="237" tvg-name="TV237" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV237.png" group-title="tv",TV-237
-http://192.168.1.200:8000/rtp/239.33.4.237:22370
+http://192.168.1.200:8000/rtp/239.33.3.237:24930
 #EXTINF:-1 tvg-id="238" tvg-name="TV238" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV238.png" group-title="tv",TV-238
-http://192.168.1.200:8000/rtp/239.33.4.238:22380
+http://192.168.1.200:8000/rtp/239.33.3.238:24940
 #EXTINF:-1 tvg-id="239" tvg-name="TV239" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV239.png" group-title="tv",TV-239
-http://192.168.1.200:8000/rtp/239.33.4.239:22390
+http://192.168.1.200:8000/rtp/239.33.3.239:24950
 #EXTINF:-1 tvg-id="240" tvg-name="TV240" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV240.png" group-title="tv",TV-240
-http://192.168.1.200:8000/rtp/239.33.4.240:22400
+http://192.168.1.200:8000/rtp/239.33.3.240:24960
 #EXTINF:-1 tvg-id="241" tvg-name="TV241" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV241.png" group-title="tv",TV-241
-http://192.168.1.200:8000/rtp/239.33.4.241:22410
+http://192.168.1.200:8000/rtp/239.33.3.241:24970
 #EXTINF:-1 tvg-id="242" tvg-name="TV242" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV242.png" group-title="tv",TV-242
-http://192.168.1.200:8000/rtp/239.33.4.242:22420
+http://192.168.1.200:8000/rtp/239.33.3.242:24980
 #EXTINF:-1 tvg-id="243" tvg-name="TV243" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV243.png" group-title="tv",TV-243
-http://192.168.1.200:8000/rtp/239.33.4.243:22430
+http://192.168.1.200:8000/rtp/239.33.3.243:24990
 #EXTINF:-1 tvg-id="244" tvg-name="TV244" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV244.png" group-title="tv",TV-244
-http://192.168.1.200:8000/rtp/239.33.4.244:22440
+http://192.168.1.200:8000/rtp/239.33.3.244:25000
 #EXTINF:-1 tvg-id="245" tvg-name="TV245" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV245.png" group-title="tv",TV-245
-http://192.168.1.200:8000/rtp/239.33.4.245:22450
+http://192.168.1.200:8000/rtp/239.33.3.245:25010
 #EXTINF:-1 tvg-id="246" tvg-name="TV246" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV246.png" group-title="tv",TV-246
-http://192.168.1.200:8000/rtp/239.33.4.246:22460
+http://192.168.1.200:8000/rtp/239.33.3.246:25020
 #EXTINF:-1 tvg-id="247" tvg-name="TV247" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV247.png" group-title="tv",TV-247
-http://192.168.1.200:8000/rtp/239.33.4.247:22470
+http://192.168.1.200:8000/rtp/239.33.3.247:25030
 #EXTINF:-1 tvg-id="248" tvg-name="TV248" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV248.png" group-title="tv",TV-248
-http://192.168.1.200:8000/rtp/239.33.4.248:22480
+http://192.168.1.200:8000/rtp/239.33.3.248:25040
 #EXTINF:-1 tvg-id="249" tvg-name="TV249" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV249.png" group-title="tv",TV-249
-http://192.168.1.200:8000/rtp/239.33.4.249:22490
+http://192.168.1.200:8000/rtp/239.33.3.249:25050
 #EXTINF:-1 tvg-id="250" tvg-name="TV250" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV250.png" group-title="tv",TV-250
-http://192.168.1.200:8000/rtp/239.33.4.250:22500
+http://192.168.1.200:8000/rtp/239.33.3.250:25060
 #EXTINF:-1 tvg-id="251" tvg-name="TV251" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV251.png" group-title="tv",TV-251
-http://192.168.1.200:8000/rtp/239.33.4.251:22510
+http://192.168.1.200:8000/rtp/239.33.3.251:25070
 #EXTINF:-1 tvg-id="252" tvg-name="TV252" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV252.png" group-title="tv",TV-252
-http://192.168.1.200:8000/rtp/239.33.4.252:22520
+http://192.168.1.200:8000/rtp/239.33.3.252:25080
 #EXTINF:-1 tvg-id="253" tvg-name="TV253" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV253.png" group-title="tv",TV-253
-http://192.168.1.200:8000/rtp/239.33.4.253:22530
+http://192.168.1.200:8000/rtp/239.33.3.253:25090
 #EXTINF:-1 tvg-id="254" tvg-name="TV254" tvg-logo="https://pic.erw.cc/epglogo/cctv/TV254.png" group-title="tv",TV-254
-http://192.168.1.200:8000/rtp/239.33.4.254:22540
+http://192.168.1.200:8000/rtp/239.33.3.254:25100
