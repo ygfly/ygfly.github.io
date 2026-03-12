@@ -160,7 +160,7 @@ http://192.168.1.200:8000/rtp/239.33.2.72:20720
 #EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangdong14.png" group-title="卫视",嘉佳卡通
 http://192.168.1.200:8000/rtp/239.33.2.73:20730
 #EXTINF:-1 tvg-id="135" tvg-name="卡酷少儿" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing8.png" group-title="卫视",卡酷少儿
-0http://192.168.1.200:8000/rtp/239.33.2.240:22400
+http://192.168.1.200:8000/rtp/239.33.2.240:22400
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="卫视",金鹰纪实
 http://192.168.1.200:8000/rtp/239.33.3.26:22820
 #EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing5.png" group-title="卫视",北京纪实科教
@@ -275,4 +275,5 @@ http://192.168.1.200:8000/rtp/239.33.3.214:24700
 http://192.168.1.200:8000/rtp/239.33.3.211:24670
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" group-title="4K高清",四川卫视4K
 http://192.168.1.200:8000/rtp/239.33.3.212:24680
+
 
