@@ -307,8 +307,3 @@ http://192.168.1.200:8000/rtp/239.33.2.70:20700
 http://192.168.1.200:8000/rtp/239.33.2.124:21240
 #EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-4.png" group-title="探索",中国教育4台
 http://192.168.1.200:8000/rtp/239.33.2.129:21290
-
-
-
-
-
