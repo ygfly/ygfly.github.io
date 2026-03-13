@@ -71,9 +71,9 @@ http://192.168.1.200:8000/rtp/239.33.2.245:22450
 http://192.168.1.200:8000/rtp/239.33.2.246:22460
 #EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xindm.png" group-title="本地",新动漫
 http://192.168.1.200:8000/rtp/239.33.2.34:20340
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu1.png" group-title="本地",阜新综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.png" group-title="本地",阜新综合
 http://192.168.1.200:8000/rtp/239.33.2.250:22500
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu7.png" group-title="本地",阜新教育
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/hainan/Sansha.png" group-title="本地",阜新教育
 http://192.168.1.200:8000/rtp/239.33.2.249:22490
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="卫视",北京卫视
 http://192.168.1.200:8000/rtp/239.33.3.21:22770
@@ -271,9 +271,9 @@ http://192.168.1.200:8000/rtp/239.33.3.96:23520
 http://192.168.1.200:8000/rtp/239.33.3.91:23470
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="探索",欢笑剧场
 http://192.168.1.200:8000/rtp/239.33.3.97:23530
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/chongqing/Chongqing2.png" group-title="探索",营口新闻综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.png" group-title="探索",营口新闻综合
 http://192.168.1.200:8000/rtp/239.33.2.146:21460
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/chongqing/Chongqing3.png" group-title="探索",辽河文化生活
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi_.png" group-title="探索",辽河文化生活
 http://192.168.1.200:8000/rtp/239.33.2.147:21470
 #EXTINF:-1 tvg-id="281" tvg-name="辽宁都市" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning1.png" group-title="探索",辽宁都市
 http://192.168.1.200:8000/rtp/239.33.2.17:20170
@@ -307,6 +307,7 @@ http://192.168.1.200:8000/rtp/239.33.2.70:20700
 http://192.168.1.200:8000/rtp/239.33.2.124:21240
 #EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-4.png" group-title="探索",中国教育4台
 http://192.168.1.200:8000/rtp/239.33.2.129:21290
+
 
 
 
