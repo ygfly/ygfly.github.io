@@ -237,6 +237,24 @@ http://192.168.1.200:8000/rtp/239.33.3.78:23340
 http://192.168.1.200:8000/rtp/239.33.3.76:23320
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Kangba.png" group-title="其它",康巴藏语综合
 http://192.168.1.200:8000/rtp/239.33.3.77:23330
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="4K高清",北京卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.207:24630
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangdong4k.png" group-title="4K高清",广东卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.210:24660
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shenzhen4k.png" group-title="4K高清",深圳卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.209:24650
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hunan4k.png" group-title="4K高清",湖南卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.215:24710
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangsu4k.png" group-title="4K高清",江苏卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.213:24690
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="4K高清",东方卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.216:24720
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Zhejiang4k.png" group-title="4K高清",浙江卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.214:24700
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shandong4k.png" group-title="4K高清",山东卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.211:24670
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" group-title="4K高清",四川卫视4K
+http://192.168.1.200:8000/rtp/239.33.3.212:24680
 #EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="探索",都市剧场
 http://192.168.1.200:8000/rtp/239.33.3.95:23510
 #EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png" group-title="探索",法治天地
@@ -257,23 +275,38 @@ http://192.168.1.200:8000/rtp/239.33.3.97:23530
 http://192.168.1.200:8000/rtp/239.33.2.146:21460
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/chongqing/Chongqing3.png" group-title="探索",辽河文化生活
 http://192.168.1.200:8000/rtp/239.33.2.147:21470
-#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" group-title="4K高清",北京卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.207:24630
-#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangdong4k.png" group-title="4K高清",广东卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.210:24660
-#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shenzhen4k.png" group-title="4K高清",深圳卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.209:24650
-#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hunan4k.png" group-title="4K高清",湖南卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.215:24710
-#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangsu4k.png" group-title="4K高清",江苏卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.213:24690
-#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" group-title="4K高清",东方卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.216:24720
-#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Zhejiang4k.png" group-title="4K高清",浙江卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.214:24700
-#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shandong4k.png" group-title="4K高清",山东卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.211:24670
-#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" group-title="4K高清",四川卫视4K
-http://192.168.1.200:8000/rtp/239.33.3.212:24680
+#EXTINF:-1 tvg-id="281" tvg-name="辽宁都市" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning1.png" group-title="探索",辽宁都市
+http://192.168.1.200:8000/rtp/239.33.2.17:20170
+#EXTINF:-1 tvg-id="277" tvg-name="辽宁影视剧" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning2.png" group-title="探索",辽宁影视剧
+http://192.168.1.200:8000/rtp/239.33.2.18:20180
+#EXTINF:-1 tvg-id="528" tvg-name="辽宁体育休闲" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning6.png" group-title="探索",辽宁体育休闲
+http://192.168.1.200:8000/rtp/239.33.2.19:20190
+#EXTINF:-1 tvg-id="279" tvg-name="辽宁生活" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning4.png" group-title="探索",辽宁生活
+http://192.168.1.200:8000/rtp/239.33.2.20:20200
+#EXTINF:-1 tvg-id="278" tvg-name="辽宁教育青少" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning3.png" group-title="探索",辽宁教育青少
+http://192.168.1.200:8000/rtp/239.33.2.21:20210
+#EXTINF:-1 tvg-id="276" tvg-name="辽宁北方" tvg-logo="https://pic.erw.cc/epglogo/liaoning/Liaoning8.png" group-title="探索",辽宁北方
+http://192.168.1.200:8000/rtp/239.33.2.22:20220
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/weishi/Liaoning.png" group-title="探索",辽宁移动电视
+http://192.168.1.200:8000/rtp/239.33.2.25:20250
+#EXTINF:-1 tvg-id="151" tvg-name="中国教育1台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-1.png" group-title="探索",中国教育1台
+http://192.168.1.200:8000/rtp/239.33.2.26:20260
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangxi.png" group-title="探索",广西卫视
+http://192.168.1.200:8000/rtp/239.33.2.48:20480
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangxi.png" group-title="探索",江西卫视
+http://192.168.1.200:8000/rtp/239.33.2.50:20500
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hebei.png" group-title="探索",河北卫视
+http://192.168.1.200:8000/rtp/239.33.2.51:20510
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Henan.png" group-title="探索",河南卫视
+http://192.168.1.200:8000/rtp/239.33.2.52:20520
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Yunnan.png" group-title="探索",云南卫视
+http://192.168.1.200:8000/rtp/239.33.2.57:20570
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="探索",金鹰卡通
+http://192.168.1.200:8000/rtp/239.33.2.70:20700
+#EXTINF:-1 tvg-id="135" tvg-name="卡酷少儿" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing8.png" group-title="探索",卡酷少儿
+http://192.168.1.200:8000/rtp/239.33.2.124:21240
+#EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-4.png" group-title="探索",中国教育4台
+http://192.168.1.200:8000/rtp/239.33.2.129:21290
+
 
 
