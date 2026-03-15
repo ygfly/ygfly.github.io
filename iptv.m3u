@@ -211,7 +211,7 @@ http://192.168.1.200:8000/rtp/239.33.3.94:23500
 http://192.168.1.200:8000/rtp/239.33.3.98:23540
 #EXTINF:-1 tvg-id="226" tvg-name="老故事" tvg-logo="https://pic.erw.cc/epglogo/cctv/cctvlgs.png" group-title="数字",老故事
 http://192.168.1.200:8000/rtp/239.33.3.99:23550
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="数字",家庭理财
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy76.png" group-title="数字",家庭理财
 http://192.168.1.200:8000/rtp/239.33.2.24:20240
 #EXTINF:-1 tvg-id="264" tvg-name="中华特产" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhtc.png" group-title="数字",中华特产
 http://192.168.1.200:8000/rtp/239.33.2.145:21450
