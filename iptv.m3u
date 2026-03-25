@@ -307,4 +307,8 @@ http://192.168.1.200:8000/rtp/239.33.2.70:20700
 http://192.168.1.200:8000/rtp/239.33.2.124:21240
 #EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-4.png" group-title="探索",中国教育4台
 http://192.168.1.200:8000/rtp/239.33.2.129:21290
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/guangxi/Liuzhou1.png" group-title="探索",新闻综合
+http://192.168.1.200:8000/rtp/239.33.2.143:21430
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Hangzhou3.png" group-title="探索",生活
+http://192.168.1.200:8000/rtp/239.33.2.144:21440
 
