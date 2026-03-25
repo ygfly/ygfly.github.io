@@ -289,7 +289,7 @@ http://192.168.1.200:8000/rtp/239.33.2.21:20210
 http://192.168.1.200:8000/rtp/239.33.2.22:20220
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/weishi/Liaoning.png" group-title="探索",辽宁移动电视
 http://192.168.1.200:8000/rtp/239.33.2.25:20250
-#EXTINF:-1 tvg-id="151" tvg-name="中国教育1台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-1.png" group-title="探索",中国教育1台
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.1.200:8000/rtp/239.33.2.26:20260
 #EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangxi.png" group-title="探索",广西卫视
 http://192.168.1.200:8000/rtp/239.33.2.48:20480
