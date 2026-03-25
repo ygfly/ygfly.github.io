@@ -290,7 +290,7 @@ http://192.168.1.200:8000/rtp/239.33.2.22:20220
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/weishi/Liaoning.png" group-title="探索",辽宁移动电视
 http://192.168.1.200:8000/rtp/239.33.2.25:20250
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1综合
-http://192.168.1.200:8000/rtp/239.33.2.251:22510
+http://192.168.1.200:8000/rtp/239.33.2.230:22300
 #EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangxi.png" group-title="探索",广西卫视
 http://192.168.1.200:8000/rtp/239.33.2.48:20480
 #EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangxi.png" group-title="探索",江西卫视
@@ -307,8 +307,7 @@ http://192.168.1.200:8000/rtp/239.33.2.70:20700
 http://192.168.1.200:8000/rtp/239.33.2.124:21240
 #EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-4.png" group-title="探索",中国教育4台
 http://192.168.1.200:8000/rtp/239.33.2.129:21290
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/guangxi/Liuzhou1.png" group-title="探索",新闻综合
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/guangxi/Liuzhou1.png" group-title="探索",丹东新闻综合
 http://192.168.1.200:8000/rtp/239.33.2.143:21430
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Hangzhou3.png" group-title="探索",生活
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Hangzhou3.png" group-title="探索",丹东生活
 http://192.168.1.200:8000/rtp/239.33.2.144:21440
-
