@@ -11,7 +11,7 @@ http://192.168.1.200:5140/rtp/239.33.3.40:22960
 http://192.168.1.200:5140/rtp/239.33.3.5:22610
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV6.png" group-title="央视",CCTV-6电影
 http://192.168.1.200:5140/rtp/239.33.3.7:22630
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV7.png" group-title="央视",CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://192.168.1.200:5140/rtp/239.33.3.73:23290
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://192.168.1.200:5140/rtp/239.33.3.9:22650
@@ -31,7 +31,7 @@ http://192.168.1.200:5140/rtp/239.33.3.13:22690
 http://192.168.1.200:5140/rtp/239.33.2.15:20150
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://192.168.1.200:5140/rtp/239.33.2.211:22110
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV17.png" group-title="央视",CCTV-17农村农业
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://192.168.1.200:5140/rtp/239.33.3.8:22640
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5+.png" group-title="央视",CCTV5+体育赛事
 http://192.168.1.200:5140/rtp/239.33.3.6:22620
@@ -209,9 +209,9 @@ http://192.168.1.200:5140/rtp/239.33.2.88:20880
 http://192.168.1.200:5140/rtp/239.33.3.94:23500
 #EXTINF:-1 tvg-id="236" tvg-name="国学" tvg-logo="https://pic.erw.cc/epglogo/shuzi/gxpd.png" group-title="数字",国学频道
 http://192.168.1.200:5140/rtp/239.33.3.98:23540
-#EXTINF:-1 tvg-id="226" tvg-name="老故事" tvg-logo="https://pic.erw.cc/epglogo/cctv/cctvlgs.png" group-title="数字",老故事
+#EXTINF:-1 tvg-id="226" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="数字",老故事
 http://192.168.1.200:5140/rtp/239.33.3.99:23550
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="数字",家庭理财
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTVEFEL.png.png" group-title="数字",家庭理财
 http://192.168.1.200:5140/rtp/239.33.2.24:20240
 #EXTINF:-1 tvg-id="264" tvg-name="中华特产" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhtc.png" group-title="数字",中华特产
 http://192.168.1.200:5140/rtp/239.33.2.145:21450
