@@ -1,509 +1,509 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="TV1" group-title="tv",TV-1
-http://192.168.1.200:8000/rtp/239.33.3.1:22570
+http://192.168.1.200:5140/rtp/239.33.3.1:22570
 #EXTINF:-1 tvg-id="2" tvg-name="TV2" group-title="tv",TV-2
-http://192.168.1.200:8000/rtp/239.33.3.2:22580
+http://192.168.1.200:5140/rtp/239.33.3.2:22580
 #EXTINF:-1 tvg-id="3" tvg-name="TV3" group-title="tv",TV-3
-http://192.168.1.200:8000/rtp/239.33.3.3:22590
+http://192.168.1.200:5140/rtp/239.33.3.3:22590
 #EXTINF:-1 tvg-id="4" tvg-name="TV4" group-title="tv",TV-4
-http://192.168.1.200:8000/rtp/239.33.3.4:22600
+http://192.168.1.200:5140/rtp/239.33.3.4:22600
 #EXTINF:-1 tvg-id="5" tvg-name="TV5" group-title="tv",TV-5
-http://192.168.1.200:8000/rtp/239.33.3.5:22610
+http://192.168.1.200:5140/rtp/239.33.3.5:22610
 #EXTINF:-1 tvg-id="6" tvg-name="TV6" group-title="tv",TV-6
-http://192.168.1.200:8000/rtp/239.33.3.6:22620
+http://192.168.1.200:5140/rtp/239.33.3.6:22620
 #EXTINF:-1 tvg-id="7" tvg-name="TV7" group-title="tv",TV-7
-http://192.168.1.200:8000/rtp/239.33.3.7:22630
+http://192.168.1.200:5140/rtp/239.33.3.7:22630
 #EXTINF:-1 tvg-id="8" tvg-name="TV8" group-title="tv",TV-8
-http://192.168.1.200:8000/rtp/239.33.3.8:22640
+http://192.168.1.200:5140/rtp/239.33.3.8:22640
 #EXTINF:-1 tvg-id="9" tvg-name="TV9" group-title="tv",TV-9
-http://192.168.1.200:8000/rtp/239.33.3.9:22650
+http://192.168.1.200:5140/rtp/239.33.3.9:22650
 #EXTINF:-1 tvg-id="10" tvg-name="TV10" group-title="tv",TV-10
-http://192.168.1.200:8000/rtp/239.33.3.10:22660
+http://192.168.1.200:5140/rtp/239.33.3.10:22660
 #EXTINF:-1 tvg-id="11" tvg-name="TV11" group-title="tv",TV-11
-http://192.168.1.200:8000/rtp/239.33.3.11:22670
+http://192.168.1.200:5140/rtp/239.33.3.11:22670
 #EXTINF:-1 tvg-id="12" tvg-name="TV12" group-title="tv",TV-12
-http://192.168.1.200:8000/rtp/239.33.3.12:22680
+http://192.168.1.200:5140/rtp/239.33.3.12:22680
 #EXTINF:-1 tvg-id="13" tvg-name="TV13" group-title="tv",TV-13
-http://192.168.1.200:8000/rtp/239.33.3.13:22690
+http://192.168.1.200:5140/rtp/239.33.3.13:22690
 #EXTINF:-1 tvg-id="14" tvg-name="TV14" group-title="tv",TV-14
-http://192.168.1.200:8000/rtp/239.33.3.14:22700
+http://192.168.1.200:5140/rtp/239.33.3.14:22700
 #EXTINF:-1 tvg-id="15" tvg-name="TV15" group-title="tv",TV-15
-http://192.168.1.200:8000/rtp/239.33.3.15:22710
+http://192.168.1.200:5140/rtp/239.33.3.15:22710
 #EXTINF:-1 tvg-id="16" tvg-name="TV16" group-title="tv",TV-16
-http://192.168.1.200:8000/rtp/239.33.3.16:22720
+http://192.168.1.200:5140/rtp/239.33.3.16:22720
 #EXTINF:-1 tvg-id="17" tvg-name="TV17" group-title="tv",TV-17
-http://192.168.1.200:8000/rtp/239.33.3.17:22730
+http://192.168.1.200:5140/rtp/239.33.3.17:22730
 #EXTINF:-1 tvg-id="18" tvg-name="TV18" group-title="tv",TV-18
-http://192.168.1.200:8000/rtp/239.33.3.18:22740
+http://192.168.1.200:5140/rtp/239.33.3.18:22740
 #EXTINF:-1 tvg-id="19" tvg-name="TV19" group-title="tv",TV-19
-http://192.168.1.200:8000/rtp/239.33.3.19:22750
+http://192.168.1.200:5140/rtp/239.33.3.19:22750
 #EXTINF:-1 tvg-id="20" tvg-name="TV20" group-title="tv",TV-20
-http://192.168.1.200:8000/rtp/239.33.3.20:22760
+http://192.168.1.200:5140/rtp/239.33.3.20:22760
 #EXTINF:-1 tvg-id="21" tvg-name="TV21" group-title="tv",TV-21
-http://192.168.1.200:8000/rtp/239.33.3.21:22770
+http://192.168.1.200:5140/rtp/239.33.3.21:22770
 #EXTINF:-1 tvg-id="22" tvg-name="TV22" group-title="tv",TV-22
-http://192.168.1.200:8000/rtp/239.33.3.22:22780
+http://192.168.1.200:5140/rtp/239.33.3.22:22780
 #EXTINF:-1 tvg-id="23" tvg-name="TV23" group-title="tv",TV-23
-http://192.168.1.200:8000/rtp/239.33.3.23:22790
+http://192.168.1.200:5140/rtp/239.33.3.23:22790
 #EXTINF:-1 tvg-id="24" tvg-name="TV24" group-title="tv",TV-24
-http://192.168.1.200:8000/rtp/239.33.3.24:22800
+http://192.168.1.200:5140/rtp/239.33.3.24:22800
 #EXTINF:-1 tvg-id="25" tvg-name="TV25" group-title="tv",TV-25
-http://192.168.1.200:8000/rtp/239.33.3.25:22810
+http://192.168.1.200:5140/rtp/239.33.3.25:22810
 #EXTINF:-1 tvg-id="26" tvg-name="TV26" group-title="tv",TV-26
-http://192.168.1.200:8000/rtp/239.33.3.26:22820
+http://192.168.1.200:5140/rtp/239.33.3.26:22820
 #EXTINF:-1 tvg-id="27" tvg-name="TV27" group-title="tv",TV-27
-http://192.168.1.200:8000/rtp/239.33.3.27:22830
+http://192.168.1.200:5140/rtp/239.33.3.27:22830
 #EXTINF:-1 tvg-id="28" tvg-name="TV28" group-title="tv",TV-28
-http://192.168.1.200:8000/rtp/239.33.3.28:22840
+http://192.168.1.200:5140/rtp/239.33.3.28:22840
 #EXTINF:-1 tvg-id="29" tvg-name="TV29" group-title="tv",TV-29
-http://192.168.1.200:8000/rtp/239.33.3.29:22850
+http://192.168.1.200:5140/rtp/239.33.3.29:22850
 #EXTINF:-1 tvg-id="30" tvg-name="TV30" group-title="tv",TV-30
-http://192.168.1.200:8000/rtp/239.33.3.30:22860
+http://192.168.1.200:5140/rtp/239.33.3.30:22860
 #EXTINF:-1 tvg-id="31" tvg-name="TV31" group-title="tv",TV-31
-http://192.168.1.200:8000/rtp/239.33.3.31:22870
+http://192.168.1.200:5140/rtp/239.33.3.31:22870
 #EXTINF:-1 tvg-id="32" tvg-name="TV32" group-title="tv",TV-32
-http://192.168.1.200:8000/rtp/239.33.3.32:22880
+http://192.168.1.200:5140/rtp/239.33.3.32:22880
 #EXTINF:-1 tvg-id="33" tvg-name="TV33" group-title="tv",TV-33
-http://192.168.1.200:8000/rtp/239.33.3.33:22890
+http://192.168.1.200:5140/rtp/239.33.3.33:22890
 #EXTINF:-1 tvg-id="34" tvg-name="TV34" group-title="tv",TV-34
-http://192.168.1.200:8000/rtp/239.33.3.34:22900
+http://192.168.1.200:5140/rtp/239.33.3.34:22900
 #EXTINF:-1 tvg-id="35" tvg-name="TV35" group-title="tv",TV-35
-http://192.168.1.200:8000/rtp/239.33.3.35:22910
+http://192.168.1.200:5140/rtp/239.33.3.35:22910
 #EXTINF:-1 tvg-id="36" tvg-name="TV36" group-title="tv",TV-36
-http://192.168.1.200:8000/rtp/239.33.3.36:22920
+http://192.168.1.200:5140/rtp/239.33.3.36:22920
 #EXTINF:-1 tvg-id="37" tvg-name="TV37" group-title="tv",TV-37
-http://192.168.1.200:8000/rtp/239.33.3.37:22930
+http://192.168.1.200:5140/rtp/239.33.3.37:22930
 #EXTINF:-1 tvg-id="38" tvg-name="TV38" group-title="tv",TV-38
-http://192.168.1.200:8000/rtp/239.33.3.38:22940
+http://192.168.1.200:5140/rtp/239.33.3.38:22940
 #EXTINF:-1 tvg-id="39" tvg-name="TV39" group-title="tv",TV-39
-http://192.168.1.200:8000/rtp/239.33.3.39:22950
+http://192.168.1.200:5140/rtp/239.33.3.39:22950
 #EXTINF:-1 tvg-id="40" tvg-name="TV40" group-title="tv",TV-40
-http://192.168.1.200:8000/rtp/239.33.3.40:22960
+http://192.168.1.200:5140/rtp/239.33.3.40:22960
 #EXTINF:-1 tvg-id="41" tvg-name="TV41" group-title="tv",TV-41
-http://192.168.1.200:8000/rtp/239.33.3.41:22970
+http://192.168.1.200:5140/rtp/239.33.3.41:22970
 #EXTINF:-1 tvg-id="42" tvg-name="TV42" group-title="tv",TV-42
-http://192.168.1.200:8000/rtp/239.33.3.42:22980
+http://192.168.1.200:5140/rtp/239.33.3.42:22980
 #EXTINF:-1 tvg-id="43" tvg-name="TV43" group-title="tv",TV-43
-http://192.168.1.200:8000/rtp/239.33.3.43:22990
+http://192.168.1.200:5140/rtp/239.33.3.43:22990
 #EXTINF:-1 tvg-id="44" tvg-name="TV44" group-title="tv",TV-44
-http://192.168.1.200:8000/rtp/239.33.3.44:23000
+http://192.168.1.200:5140/rtp/239.33.3.44:23000
 #EXTINF:-1 tvg-id="45" tvg-name="TV45" group-title="tv",TV-45
-http://192.168.1.200:8000/rtp/239.33.3.45:23010
+http://192.168.1.200:5140/rtp/239.33.3.45:23010
 #EXTINF:-1 tvg-id="46" tvg-name="TV46" group-title="tv",TV-46
-http://192.168.1.200:8000/rtp/239.33.3.46:23020
+http://192.168.1.200:5140/rtp/239.33.3.46:23020
 #EXTINF:-1 tvg-id="47" tvg-name="TV47" group-title="tv",TV-47
-http://192.168.1.200:8000/rtp/239.33.3.47:23030
+http://192.168.1.200:5140/rtp/239.33.3.47:23030
 #EXTINF:-1 tvg-id="48" tvg-name="TV48" group-title="tv",TV-48
-http://192.168.1.200:8000/rtp/239.33.3.48:23040
+http://192.168.1.200:5140/rtp/239.33.3.48:23040
 #EXTINF:-1 tvg-id="49" tvg-name="TV49" group-title="tv",TV-49
-http://192.168.1.200:8000/rtp/239.33.3.49:23050
+http://192.168.1.200:5140/rtp/239.33.3.49:23050
 #EXTINF:-1 tvg-id="50" tvg-name="TV50" group-title="tv",TV-50
-http://192.168.1.200:8000/rtp/239.33.3.50:23060
+http://192.168.1.200:5140/rtp/239.33.3.50:23060
 #EXTINF:-1 tvg-id="51" tvg-name="TV51" group-title="tv",TV-51
-http://192.168.1.200:8000/rtp/239.33.3.51:23070
+http://192.168.1.200:5140/rtp/239.33.3.51:23070
 #EXTINF:-1 tvg-id="52" tvg-name="TV52" group-title="tv",TV-52
-http://192.168.1.200:8000/rtp/239.33.3.52:23080
+http://192.168.1.200:5140/rtp/239.33.3.52:23080
 #EXTINF:-1 tvg-id="53" tvg-name="TV53" group-title="tv",TV-53
-http://192.168.1.200:8000/rtp/239.33.3.53:23090
+http://192.168.1.200:5140/rtp/239.33.3.53:23090
 #EXTINF:-1 tvg-id="54" tvg-name="TV54" group-title="tv",TV-54
-http://192.168.1.200:8000/rtp/239.33.3.54:23100
+http://192.168.1.200:5140/rtp/239.33.3.54:23100
 #EXTINF:-1 tvg-id="55" tvg-name="TV55" group-title="tv",TV-55
-http://192.168.1.200:8000/rtp/239.33.3.55:23110
+http://192.168.1.200:5140/rtp/239.33.3.55:23110
 #EXTINF:-1 tvg-id="56" tvg-name="TV56" group-title="tv",TV-56
-http://192.168.1.200:8000/rtp/239.33.3.56:23120
+http://192.168.1.200:5140/rtp/239.33.3.56:23120
 #EXTINF:-1 tvg-id="57" tvg-name="TV57" group-title="tv",TV-57
-http://192.168.1.200:8000/rtp/239.33.3.57:23130
+http://192.168.1.200:5140/rtp/239.33.3.57:23130
 #EXTINF:-1 tvg-id="58" tvg-name="TV58" group-title="tv",TV-58
-http://192.168.1.200:8000/rtp/239.33.3.58:23140
+http://192.168.1.200:5140/rtp/239.33.3.58:23140
 #EXTINF:-1 tvg-id="59" tvg-name="TV59" group-title="tv",TV-59
-http://192.168.1.200:8000/rtp/239.33.3.59:23150
+http://192.168.1.200:5140/rtp/239.33.3.59:23150
 #EXTINF:-1 tvg-id="60" tvg-name="TV60" group-title="tv",TV-60
-http://192.168.1.200:8000/rtp/239.33.3.60:23160
+http://192.168.1.200:5140/rtp/239.33.3.60:23160
 #EXTINF:-1 tvg-id="61" tvg-name="TV61" group-title="tv",TV-61
-http://192.168.1.200:8000/rtp/239.33.3.61:23170
+http://192.168.1.200:5140/rtp/239.33.3.61:23170
 #EXTINF:-1 tvg-id="62" tvg-name="TV62" group-title="tv",TV-62
-http://192.168.1.200:8000/rtp/239.33.3.62:23180
+http://192.168.1.200:5140/rtp/239.33.3.62:23180
 #EXTINF:-1 tvg-id="63" tvg-name="TV63" group-title="tv",TV-63
-http://192.168.1.200:8000/rtp/239.33.3.63:23190
+http://192.168.1.200:5140/rtp/239.33.3.63:23190
 #EXTINF:-1 tvg-id="64" tvg-name="TV64" group-title="tv",TV-64
-http://192.168.1.200:8000/rtp/239.33.3.64:23200
+http://192.168.1.200:5140/rtp/239.33.3.64:23200
 #EXTINF:-1 tvg-id="65" tvg-name="TV65" group-title="tv",TV-65
-http://192.168.1.200:8000/rtp/239.33.3.65:23210
+http://192.168.1.200:5140/rtp/239.33.3.65:23210
 #EXTINF:-1 tvg-id="66" tvg-name="TV66" group-title="tv",TV-66
-http://192.168.1.200:8000/rtp/239.33.3.66:23220
+http://192.168.1.200:5140/rtp/239.33.3.66:23220
 #EXTINF:-1 tvg-id="67" tvg-name="TV67" group-title="tv",TV-67
-http://192.168.1.200:8000/rtp/239.33.3.67:23230
+http://192.168.1.200:5140/rtp/239.33.3.67:23230
 #EXTINF:-1 tvg-id="68" tvg-name="TV68" group-title="tv",TV-68
-http://192.168.1.200:8000/rtp/239.33.3.68:23240
+http://192.168.1.200:5140/rtp/239.33.3.68:23240
 #EXTINF:-1 tvg-id="69" tvg-name="TV69" group-title="tv",TV-69
-http://192.168.1.200:8000/rtp/239.33.3.69:23250
+http://192.168.1.200:5140/rtp/239.33.3.69:23250
 #EXTINF:-1 tvg-id="70" tvg-name="TV70" group-title="tv",TV-70
-http://192.168.1.200:8000/rtp/239.33.3.70:23260
+http://192.168.1.200:5140/rtp/239.33.3.70:23260
 #EXTINF:-1 tvg-id="71" tvg-name="TV71" group-title="tv",TV-71
-http://192.168.1.200:8000/rtp/239.33.3.71:23270
+http://192.168.1.200:5140/rtp/239.33.3.71:23270
 #EXTINF:-1 tvg-id="72" tvg-name="TV72" group-title="tv",TV-72
-http://192.168.1.200:8000/rtp/239.33.3.72:23280
+http://192.168.1.200:5140/rtp/239.33.3.72:23280
 #EXTINF:-1 tvg-id="73" tvg-name="TV73" group-title="tv",TV-73
-http://192.168.1.200:8000/rtp/239.33.3.73:23290
+http://192.168.1.200:5140/rtp/239.33.3.73:23290
 #EXTINF:-1 tvg-id="74" tvg-name="TV74" group-title="tv",TV-74
-http://192.168.1.200:8000/rtp/239.33.3.74:23300
+http://192.168.1.200:5140/rtp/239.33.3.74:23300
 #EXTINF:-1 tvg-id="75" tvg-name="TV75" group-title="tv",TV-75
-http://192.168.1.200:8000/rtp/239.33.3.75:23310
+http://192.168.1.200:5140/rtp/239.33.3.75:23310
 #EXTINF:-1 tvg-id="76" tvg-name="TV76" group-title="tv",TV-76
-http://192.168.1.200:8000/rtp/239.33.3.76:23320
+http://192.168.1.200:5140/rtp/239.33.3.76:23320
 #EXTINF:-1 tvg-id="77" tvg-name="TV77" group-title="tv",TV-77
-http://192.168.1.200:8000/rtp/239.33.3.77:23330
+http://192.168.1.200:5140/rtp/239.33.3.77:23330
 #EXTINF:-1 tvg-id="78" tvg-name="TV78" group-title="tv",TV-78
-http://192.168.1.200:8000/rtp/239.33.3.78:23340
+http://192.168.1.200:5140/rtp/239.33.3.78:23340
 #EXTINF:-1 tvg-id="79" tvg-name="TV79" group-title="tv",TV-79
-http://192.168.1.200:8000/rtp/239.33.3.79:23350
+http://192.168.1.200:5140/rtp/239.33.3.79:23350
 #EXTINF:-1 tvg-id="80" tvg-name="TV80" group-title="tv",TV-80
-http://192.168.1.200:8000/rtp/239.33.3.80:23360
+http://192.168.1.200:5140/rtp/239.33.3.80:23360
 #EXTINF:-1 tvg-id="81" tvg-name="TV81" group-title="tv",TV-81
-http://192.168.1.200:8000/rtp/239.33.3.81:23370
+http://192.168.1.200:5140/rtp/239.33.3.81:23370
 #EXTINF:-1 tvg-id="82" tvg-name="TV82" group-title="tv",TV-82
-http://192.168.1.200:8000/rtp/239.33.3.82:23380
+http://192.168.1.200:5140/rtp/239.33.3.82:23380
 #EXTINF:-1 tvg-id="83" tvg-name="TV83" group-title="tv",TV-83
-http://192.168.1.200:8000/rtp/239.33.3.83:23390
+http://192.168.1.200:5140/rtp/239.33.3.83:23390
 #EXTINF:-1 tvg-id="84" tvg-name="TV84" group-title="tv",TV-84
-http://192.168.1.200:8000/rtp/239.33.3.84:23400
+http://192.168.1.200:5140/rtp/239.33.3.84:23400
 #EXTINF:-1 tvg-id="85" tvg-name="TV85" group-title="tv",TV-85
-http://192.168.1.200:8000/rtp/239.33.3.85:23410
+http://192.168.1.200:5140/rtp/239.33.3.85:23410
 #EXTINF:-1 tvg-id="86" tvg-name="TV86" group-title="tv",TV-86
-http://192.168.1.200:8000/rtp/239.33.3.86:23420
+http://192.168.1.200:5140/rtp/239.33.3.86:23420
 #EXTINF:-1 tvg-id="87" tvg-name="TV87" group-title="tv",TV-87
-http://192.168.1.200:8000/rtp/239.33.3.87:23430
+http://192.168.1.200:5140/rtp/239.33.3.87:23430
 #EXTINF:-1 tvg-id="88" tvg-name="TV88" group-title="tv",TV-88
-http://192.168.1.200:8000/rtp/239.33.3.88:23440
+http://192.168.1.200:5140/rtp/239.33.3.88:23440
 #EXTINF:-1 tvg-id="89" tvg-name="TV89" group-title="tv",TV-89
-http://192.168.1.200:8000/rtp/239.33.3.89:23450
+http://192.168.1.200:5140/rtp/239.33.3.89:23450
 #EXTINF:-1 tvg-id="90" tvg-name="TV90" group-title="tv",TV-90
-http://192.168.1.200:8000/rtp/239.33.3.90:23460
+http://192.168.1.200:5140/rtp/239.33.3.90:23460
 #EXTINF:-1 tvg-id="91" tvg-name="TV91" group-title="tv",TV-91
-http://192.168.1.200:8000/rtp/239.33.3.91:23470
+http://192.168.1.200:5140/rtp/239.33.3.91:23470
 #EXTINF:-1 tvg-id="92" tvg-name="TV92" group-title="tv",TV-92
-http://192.168.1.200:8000/rtp/239.33.3.92:23480
+http://192.168.1.200:5140/rtp/239.33.3.92:23480
 #EXTINF:-1 tvg-id="93" tvg-name="TV93" group-title="tv",TV-93
-http://192.168.1.200:8000/rtp/239.33.3.93:23490
+http://192.168.1.200:5140/rtp/239.33.3.93:23490
 #EXTINF:-1 tvg-id="94" tvg-name="TV94" group-title="tv",TV-94
-http://192.168.1.200:8000/rtp/239.33.3.94:23500
+http://192.168.1.200:5140/rtp/239.33.3.94:23500
 #EXTINF:-1 tvg-id="95" tvg-name="TV95" group-title="tv",TV-95
-http://192.168.1.200:8000/rtp/239.33.3.95:23510
+http://192.168.1.200:5140/rtp/239.33.3.95:23510
 #EXTINF:-1 tvg-id="96" tvg-name="TV96" group-title="tv",TV-96
-http://192.168.1.200:8000/rtp/239.33.3.96:23520
+http://192.168.1.200:5140/rtp/239.33.3.96:23520
 #EXTINF:-1 tvg-id="97" tvg-name="TV97" group-title="tv",TV-97
-http://192.168.1.200:8000/rtp/239.33.3.97:23530
+http://192.168.1.200:5140/rtp/239.33.3.97:23530
 #EXTINF:-1 tvg-id="98" tvg-name="TV98" group-title="tv",TV-98
-http://192.168.1.200:8000/rtp/239.33.3.98:23540
+http://192.168.1.200:5140/rtp/239.33.3.98:23540
 #EXTINF:-1 tvg-id="99" tvg-name="TV99" group-title="tv",TV-99
-http://192.168.1.200:8000/rtp/239.33.3.99:23550
+http://192.168.1.200:5140/rtp/239.33.3.99:23550
 #EXTINF:-1 tvg-id="100" tvg-name="TV100" group-title="tv",TV-100
-http://192.168.1.200:8000/rtp/239.33.3.100:23560
+http://192.168.1.200:5140/rtp/239.33.3.100:23560
 #EXTINF:-1 tvg-id="101" tvg-name="TV101" group-title="tv",TV-101
-http://192.168.1.200:8000/rtp/239.33.3.101:23570
+http://192.168.1.200:5140/rtp/239.33.3.101:23570
 #EXTINF:-1 tvg-id="102" tvg-name="TV102" group-title="tv",TV-102
-http://192.168.1.200:8000/rtp/239.33.3.102:23580
+http://192.168.1.200:5140/rtp/239.33.3.102:23580
 #EXTINF:-1 tvg-id="103" tvg-name="TV103" group-title="tv",TV-103
-http://192.168.1.200:8000/rtp/239.33.3.103:23590
+http://192.168.1.200:5140/rtp/239.33.3.103:23590
 #EXTINF:-1 tvg-id="104" tvg-name="TV104" group-title="tv",TV-104
-http://192.168.1.200:8000/rtp/239.33.3.104:23600
+http://192.168.1.200:5140/rtp/239.33.3.104:23600
 #EXTINF:-1 tvg-id="105" tvg-name="TV105" group-title="tv",TV-105
-http://192.168.1.200:8000/rtp/239.33.3.105:23610
+http://192.168.1.200:5140/rtp/239.33.3.105:23610
 #EXTINF:-1 tvg-id="106" tvg-name="TV106" group-title="tv",TV-106
-http://192.168.1.200:8000/rtp/239.33.3.106:23620
+http://192.168.1.200:5140/rtp/239.33.3.106:23620
 #EXTINF:-1 tvg-id="107" tvg-name="TV107" group-title="tv",TV-107
-http://192.168.1.200:8000/rtp/239.33.3.107:23630
+http://192.168.1.200:5140/rtp/239.33.3.107:23630
 #EXTINF:-1 tvg-id="108" tvg-name="TV108" group-title="tv",TV-108
-http://192.168.1.200:8000/rtp/239.33.3.108:23640
+http://192.168.1.200:5140/rtp/239.33.3.108:23640
 #EXTINF:-1 tvg-id="109" tvg-name="TV109" group-title="tv",TV-109
-http://192.168.1.200:8000/rtp/239.33.3.109:23650
+http://192.168.1.200:5140/rtp/239.33.3.109:23650
 #EXTINF:-1 tvg-id="110" tvg-name="TV110" group-title="tv",TV-110
-http://192.168.1.200:8000/rtp/239.33.3.110:23660
+http://192.168.1.200:5140/rtp/239.33.3.110:23660
 #EXTINF:-1 tvg-id="111" tvg-name="TV111" group-title="tv",TV-111
-http://192.168.1.200:8000/rtp/239.33.3.111:23670
+http://192.168.1.200:5140/rtp/239.33.3.111:23670
 #EXTINF:-1 tvg-id="112" tvg-name="TV112" group-title="tv",TV-112
-http://192.168.1.200:8000/rtp/239.33.3.112:23680
+http://192.168.1.200:5140/rtp/239.33.3.112:23680
 #EXTINF:-1 tvg-id="113" tvg-name="TV113" group-title="tv",TV-113
-http://192.168.1.200:8000/rtp/239.33.3.113:23690
+http://192.168.1.200:5140/rtp/239.33.3.113:23690
 #EXTINF:-1 tvg-id="114" tvg-name="TV114" group-title="tv",TV-114
-http://192.168.1.200:8000/rtp/239.33.3.114:23700
+http://192.168.1.200:5140/rtp/239.33.3.114:23700
 #EXTINF:-1 tvg-id="115" tvg-name="TV115" group-title="tv",TV-115
-http://192.168.1.200:8000/rtp/239.33.3.115:23710
+http://192.168.1.200:5140/rtp/239.33.3.115:23710
 #EXTINF:-1 tvg-id="116" tvg-name="TV116" group-title="tv",TV-116
-http://192.168.1.200:8000/rtp/239.33.3.116:23720
+http://192.168.1.200:5140/rtp/239.33.3.116:23720
 #EXTINF:-1 tvg-id="117" tvg-name="TV117" group-title="tv",TV-117
-http://192.168.1.200:8000/rtp/239.33.3.117:23730
+http://192.168.1.200:5140/rtp/239.33.3.117:23730
 #EXTINF:-1 tvg-id="118" tvg-name="TV118" group-title="tv",TV-118
-http://192.168.1.200:8000/rtp/239.33.3.118:23740
+http://192.168.1.200:5140/rtp/239.33.3.118:23740
 #EXTINF:-1 tvg-id="119" tvg-name="TV119" group-title="tv",TV-119
-http://192.168.1.200:8000/rtp/239.33.3.119:23750
+http://192.168.1.200:5140/rtp/239.33.3.119:23750
 #EXTINF:-1 tvg-id="120" tvg-name="TV120" group-title="tv",TV-120
-http://192.168.1.200:8000/rtp/239.33.3.120:23760
+http://192.168.1.200:5140/rtp/239.33.3.120:23760
 #EXTINF:-1 tvg-id="121" tvg-name="TV121" group-title="tv",TV-121
-http://192.168.1.200:8000/rtp/239.33.3.121:23770
+http://192.168.1.200:5140/rtp/239.33.3.121:23770
 #EXTINF:-1 tvg-id="122" tvg-name="TV122" group-title="tv",TV-122
-http://192.168.1.200:8000/rtp/239.33.3.122:23780
+http://192.168.1.200:5140/rtp/239.33.3.122:23780
 #EXTINF:-1 tvg-id="123" tvg-name="TV123" group-title="tv",TV-123
-http://192.168.1.200:8000/rtp/239.33.3.123:23790
+http://192.168.1.200:5140/rtp/239.33.3.123:23790
 #EXTINF:-1 tvg-id="124" tvg-name="TV124" group-title="tv",TV-124
-http://192.168.1.200:8000/rtp/239.33.3.124:23800
+http://192.168.1.200:5140/rtp/239.33.3.124:23800
 #EXTINF:-1 tvg-id="125" tvg-name="TV125" group-title="tv",TV-125
-http://192.168.1.200:8000/rtp/239.33.3.125:23810
+http://192.168.1.200:5140/rtp/239.33.3.125:23810
 #EXTINF:-1 tvg-id="126" tvg-name="TV126" group-title="tv",TV-126
-http://192.168.1.200:8000/rtp/239.33.3.126:23820
+http://192.168.1.200:5140/rtp/239.33.3.126:23820
 #EXTINF:-1 tvg-id="127" tvg-name="TV127" group-title="tv",TV-127
-http://192.168.1.200:8000/rtp/239.33.3.127:23830
+http://192.168.1.200:5140/rtp/239.33.3.127:23830
 #EXTINF:-1 tvg-id="128" tvg-name="TV128" group-title="tv",TV-128
-http://192.168.1.200:8000/rtp/239.33.3.128:23840
+http://192.168.1.200:5140/rtp/239.33.3.128:23840
 #EXTINF:-1 tvg-id="129" tvg-name="TV129" group-title="tv",TV-129
-http://192.168.1.200:8000/rtp/239.33.3.129:23850
+http://192.168.1.200:5140/rtp/239.33.3.129:23850
 #EXTINF:-1 tvg-id="130" tvg-name="TV130" group-title="tv",TV-130
-http://192.168.1.200:8000/rtp/239.33.3.130:23860
+http://192.168.1.200:5140/rtp/239.33.3.130:23860
 #EXTINF:-1 tvg-id="131" tvg-name="TV131" group-title="tv",TV-131
-http://192.168.1.200:8000/rtp/239.33.3.131:23870
+http://192.168.1.200:5140/rtp/239.33.3.131:23870
 #EXTINF:-1 tvg-id="132" tvg-name="TV132" group-title="tv",TV-132
-http://192.168.1.200:8000/rtp/239.33.3.132:23880
+http://192.168.1.200:5140/rtp/239.33.3.132:23880
 #EXTINF:-1 tvg-id="133" tvg-name="TV133" group-title="tv",TV-133
-http://192.168.1.200:8000/rtp/239.33.3.133:23890
+http://192.168.1.200:5140/rtp/239.33.3.133:23890
 #EXTINF:-1 tvg-id="134" tvg-name="TV134" group-title="tv",TV-134
-http://192.168.1.200:8000/rtp/239.33.3.134:23900
+http://192.168.1.200:5140/rtp/239.33.3.134:23900
 #EXTINF:-1 tvg-id="135" tvg-name="TV135" group-title="tv",TV-135
-http://192.168.1.200:8000/rtp/239.33.3.135:23910
+http://192.168.1.200:5140/rtp/239.33.3.135:23910
 #EXTINF:-1 tvg-id="136" tvg-name="TV136" group-title="tv",TV-136
-http://192.168.1.200:8000/rtp/239.33.3.136:23920
+http://192.168.1.200:5140/rtp/239.33.3.136:23920
 #EXTINF:-1 tvg-id="137" tvg-name="TV137" group-title="tv",TV-137
-http://192.168.1.200:8000/rtp/239.33.3.137:23930
+http://192.168.1.200:5140/rtp/239.33.3.137:23930
 #EXTINF:-1 tvg-id="138" tvg-name="TV138" group-title="tv",TV-138
-http://192.168.1.200:8000/rtp/239.33.3.138:23940
+http://192.168.1.200:5140/rtp/239.33.3.138:23940
 #EXTINF:-1 tvg-id="139" tvg-name="TV139" group-title="tv",TV-139
-http://192.168.1.200:8000/rtp/239.33.3.139:23950
+http://192.168.1.200:5140/rtp/239.33.3.139:23950
 #EXTINF:-1 tvg-id="140" tvg-name="TV140" group-title="tv",TV-140
-http://192.168.1.200:8000/rtp/239.33.3.140:23960
+http://192.168.1.200:5140/rtp/239.33.3.140:23960
 #EXTINF:-1 tvg-id="141" tvg-name="TV141" group-title="tv",TV-141
-http://192.168.1.200:8000/rtp/239.33.3.141:23970
+http://192.168.1.200:5140/rtp/239.33.3.141:23970
 #EXTINF:-1 tvg-id="142" tvg-name="TV142" group-title="tv",TV-142
-http://192.168.1.200:8000/rtp/239.33.3.142:23980
+http://192.168.1.200:5140/rtp/239.33.3.142:23980
 #EXTINF:-1 tvg-id="143" tvg-name="TV143" group-title="tv",TV-143
-http://192.168.1.200:8000/rtp/239.33.3.143:23990
+http://192.168.1.200:5140/rtp/239.33.3.143:23990
 #EXTINF:-1 tvg-id="144" tvg-name="TV144" group-title="tv",TV-144
-http://192.168.1.200:8000/rtp/239.33.3.144:24000
+http://192.168.1.200:5140/rtp/239.33.3.144:24000
 #EXTINF:-1 tvg-id="145" tvg-name="TV145" group-title="tv",TV-145
-http://192.168.1.200:8000/rtp/239.33.3.145:24010
+http://192.168.1.200:5140/rtp/239.33.3.145:24010
 #EXTINF:-1 tvg-id="146" tvg-name="TV146" group-title="tv",TV-146
-http://192.168.1.200:8000/rtp/239.33.3.146:24020
+http://192.168.1.200:5140/rtp/239.33.3.146:24020
 #EXTINF:-1 tvg-id="147" tvg-name="TV147" group-title="tv",TV-147
-http://192.168.1.200:8000/rtp/239.33.3.147:24030
+http://192.168.1.200:5140/rtp/239.33.3.147:24030
 #EXTINF:-1 tvg-id="148" tvg-name="TV148" group-title="tv",TV-148
-http://192.168.1.200:8000/rtp/239.33.3.148:24040
+http://192.168.1.200:5140/rtp/239.33.3.148:24040
 #EXTINF:-1 tvg-id="149" tvg-name="TV149" group-title="tv",TV-149
-http://192.168.1.200:8000/rtp/239.33.3.149:24050
+http://192.168.1.200:5140/rtp/239.33.3.149:24050
 #EXTINF:-1 tvg-id="150" tvg-name="TV150" group-title="tv",TV-150
-http://192.168.1.200:8000/rtp/239.33.3.150:24060
+http://192.168.1.200:5140/rtp/239.33.3.150:24060
 #EXTINF:-1 tvg-id="151" tvg-name="TV151" group-title="tv",TV-151
-http://192.168.1.200:8000/rtp/239.33.3.151:24070
+http://192.168.1.200:5140/rtp/239.33.3.151:24070
 #EXTINF:-1 tvg-id="152" tvg-name="TV152" group-title="tv",TV-152
-http://192.168.1.200:8000/rtp/239.33.3.152:24080
+http://192.168.1.200:5140/rtp/239.33.3.152:24080
 #EXTINF:-1 tvg-id="153" tvg-name="TV153" group-title="tv",TV-153
-http://192.168.1.200:8000/rtp/239.33.3.153:24090
+http://192.168.1.200:5140/rtp/239.33.3.153:24090
 #EXTINF:-1 tvg-id="154" tvg-name="TV154" group-title="tv",TV-154
-http://192.168.1.200:8000/rtp/239.33.3.154:24100
+http://192.168.1.200:5140/rtp/239.33.3.154:24100
 #EXTINF:-1 tvg-id="155" tvg-name="TV155" group-title="tv",TV-155
-http://192.168.1.200:8000/rtp/239.33.3.155:24110
+http://192.168.1.200:5140/rtp/239.33.3.155:24110
 #EXTINF:-1 tvg-id="156" tvg-name="TV156" group-title="tv",TV-156
-http://192.168.1.200:8000/rtp/239.33.3.156:24120
+http://192.168.1.200:5140/rtp/239.33.3.156:24120
 #EXTINF:-1 tvg-id="157" tvg-name="TV157" group-title="tv",TV-157
-http://192.168.1.200:8000/rtp/239.33.3.157:24130
+http://192.168.1.200:5140/rtp/239.33.3.157:24130
 #EXTINF:-1 tvg-id="158" tvg-name="TV158" group-title="tv",TV-158
-http://192.168.1.200:8000/rtp/239.33.3.158:24140
+http://192.168.1.200:5140/rtp/239.33.3.158:24140
 #EXTINF:-1 tvg-id="159" tvg-name="TV159" group-title="tv",TV-159
-http://192.168.1.200:8000/rtp/239.33.3.159:24150
+http://192.168.1.200:5140/rtp/239.33.3.159:24150
 #EXTINF:-1 tvg-id="160" tvg-name="TV160" group-title="tv",TV-160
-http://192.168.1.200:8000/rtp/239.33.3.160:24160
+http://192.168.1.200:5140/rtp/239.33.3.160:24160
 #EXTINF:-1 tvg-id="161" tvg-name="TV161" group-title="tv",TV-161
-http://192.168.1.200:8000/rtp/239.33.3.161:24170
+http://192.168.1.200:5140/rtp/239.33.3.161:24170
 #EXTINF:-1 tvg-id="162" tvg-name="TV162" group-title="tv",TV-162
-http://192.168.1.200:8000/rtp/239.33.3.162:24180
+http://192.168.1.200:5140/rtp/239.33.3.162:24180
 #EXTINF:-1 tvg-id="163" tvg-name="TV163" group-title="tv",TV-163
-http://192.168.1.200:8000/rtp/239.33.3.163:24190
+http://192.168.1.200:5140/rtp/239.33.3.163:24190
 #EXTINF:-1 tvg-id="164" tvg-name="TV164" group-title="tv",TV-164
-http://192.168.1.200:8000/rtp/239.33.3.164:24200
+http://192.168.1.200:5140/rtp/239.33.3.164:24200
 #EXTINF:-1 tvg-id="165" tvg-name="TV165" group-title="tv",TV-165
-http://192.168.1.200:8000/rtp/239.33.3.165:24210
+http://192.168.1.200:5140/rtp/239.33.3.165:24210
 #EXTINF:-1 tvg-id="166" tvg-name="TV166" group-title="tv",TV-166
-http://192.168.1.200:8000/rtp/239.33.3.166:24220
+http://192.168.1.200:5140/rtp/239.33.3.166:24220
 #EXTINF:-1 tvg-id="167" tvg-name="TV167" group-title="tv",TV-167
-http://192.168.1.200:8000/rtp/239.33.3.167:24230
+http://192.168.1.200:5140/rtp/239.33.3.167:24230
 #EXTINF:-1 tvg-id="168" tvg-name="TV168" group-title="tv",TV-168
-http://192.168.1.200:8000/rtp/239.33.3.168:24240
+http://192.168.1.200:5140/rtp/239.33.3.168:24240
 #EXTINF:-1 tvg-id="169" tvg-name="TV169" group-title="tv",TV-169
-http://192.168.1.200:8000/rtp/239.33.3.169:24250
+http://192.168.1.200:5140/rtp/239.33.3.169:24250
 #EXTINF:-1 tvg-id="170" tvg-name="TV170" group-title="tv",TV-170
-http://192.168.1.200:8000/rtp/239.33.3.170:24260
+http://192.168.1.200:5140/rtp/239.33.3.170:24260
 #EXTINF:-1 tvg-id="171" tvg-name="TV171" group-title="tv",TV-171
-http://192.168.1.200:8000/rtp/239.33.3.171:24270
+http://192.168.1.200:5140/rtp/239.33.3.171:24270
 #EXTINF:-1 tvg-id="172" tvg-name="TV172" group-title="tv",TV-172
-http://192.168.1.200:8000/rtp/239.33.3.172:24280
+http://192.168.1.200:5140/rtp/239.33.3.172:24280
 #EXTINF:-1 tvg-id="173" tvg-name="TV173" group-title="tv",TV-173
-http://192.168.1.200:8000/rtp/239.33.3.173:24290
+http://192.168.1.200:5140/rtp/239.33.3.173:24290
 #EXTINF:-1 tvg-id="174" tvg-name="TV174" group-title="tv",TV-174
-http://192.168.1.200:8000/rtp/239.33.3.174:24300
+http://192.168.1.200:5140/rtp/239.33.3.174:24300
 #EXTINF:-1 tvg-id="175" tvg-name="TV175" group-title="tv",TV-175
-http://192.168.1.200:8000/rtp/239.33.3.175:24310
+http://192.168.1.200:5140/rtp/239.33.3.175:24310
 #EXTINF:-1 tvg-id="176" tvg-name="TV176" group-title="tv",TV-176
-http://192.168.1.200:8000/rtp/239.33.3.176:24320
+http://192.168.1.200:5140/rtp/239.33.3.176:24320
 #EXTINF:-1 tvg-id="177" tvg-name="TV177" group-title="tv",TV-177
-http://192.168.1.200:8000/rtp/239.33.3.177:24330
+http://192.168.1.200:5140/rtp/239.33.3.177:24330
 #EXTINF:-1 tvg-id="178" tvg-name="TV178" group-title="tv",TV-178
-http://192.168.1.200:8000/rtp/239.33.3.178:24340
+http://192.168.1.200:5140/rtp/239.33.3.178:24340
 #EXTINF:-1 tvg-id="179" tvg-name="TV179" group-title="tv",TV-179
-http://192.168.1.200:8000/rtp/239.33.3.179:24350
+http://192.168.1.200:5140/rtp/239.33.3.179:24350
 #EXTINF:-1 tvg-id="180" tvg-name="TV180" group-title="tv",TV-180
-http://192.168.1.200:8000/rtp/239.33.3.180:24360
+http://192.168.1.200:5140/rtp/239.33.3.180:24360
 #EXTINF:-1 tvg-id="181" tvg-name="TV181" group-title="tv",TV-181
-http://192.168.1.200:8000/rtp/239.33.3.181:24370
+http://192.168.1.200:5140/rtp/239.33.3.181:24370
 #EXTINF:-1 tvg-id="182" tvg-name="TV182" group-title="tv",TV-182
-http://192.168.1.200:8000/rtp/239.33.3.182:24380
+http://192.168.1.200:5140/rtp/239.33.3.182:24380
 #EXTINF:-1 tvg-id="183" tvg-name="TV183" group-title="tv",TV-183
-http://192.168.1.200:8000/rtp/239.33.3.183:24390
+http://192.168.1.200:5140/rtp/239.33.3.183:24390
 #EXTINF:-1 tvg-id="184" tvg-name="TV184" group-title="tv",TV-184
-http://192.168.1.200:8000/rtp/239.33.3.184:24400
+http://192.168.1.200:5140/rtp/239.33.3.184:24400
 #EXTINF:-1 tvg-id="185" tvg-name="TV185" group-title="tv",TV-185
-http://192.168.1.200:8000/rtp/239.33.3.185:24410
+http://192.168.1.200:5140/rtp/239.33.3.185:24410
 #EXTINF:-1 tvg-id="186" tvg-name="TV186" group-title="tv",TV-186
-http://192.168.1.200:8000/rtp/239.33.3.186:24420
+http://192.168.1.200:5140/rtp/239.33.3.186:24420
 #EXTINF:-1 tvg-id="187" tvg-name="TV187" group-title="tv",TV-187
-http://192.168.1.200:8000/rtp/239.33.3.187:24430
+http://192.168.1.200:5140/rtp/239.33.3.187:24430
 #EXTINF:-1 tvg-id="188" tvg-name="TV188" group-title="tv",TV-188
-http://192.168.1.200:8000/rtp/239.33.3.188:24440
+http://192.168.1.200:5140/rtp/239.33.3.188:24440
 #EXTINF:-1 tvg-id="189" tvg-name="TV189" group-title="tv",TV-189
-http://192.168.1.200:8000/rtp/239.33.3.189:24450
+http://192.168.1.200:5140/rtp/239.33.3.189:24450
 #EXTINF:-1 tvg-id="190" tvg-name="TV190" group-title="tv",TV-190
-http://192.168.1.200:8000/rtp/239.33.3.190:24460
+http://192.168.1.200:5140/rtp/239.33.3.190:24460
 #EXTINF:-1 tvg-id="191" tvg-name="TV191" group-title="tv",TV-191
-http://192.168.1.200:8000/rtp/239.33.3.191:24470
+http://192.168.1.200:5140/rtp/239.33.3.191:24470
 #EXTINF:-1 tvg-id="192" tvg-name="TV192" group-title="tv",TV-192
-http://192.168.1.200:8000/rtp/239.33.3.192:24480
+http://192.168.1.200:5140/rtp/239.33.3.192:24480
 #EXTINF:-1 tvg-id="193" tvg-name="TV193" group-title="tv",TV-193
-http://192.168.1.200:8000/rtp/239.33.3.193:24490
+http://192.168.1.200:5140/rtp/239.33.3.193:24490
 #EXTINF:-1 tvg-id="194" tvg-name="TV194" group-title="tv",TV-194
-http://192.168.1.200:8000/rtp/239.33.3.194:24500
+http://192.168.1.200:5140/rtp/239.33.3.194:24500
 #EXTINF:-1 tvg-id="195" tvg-name="TV195" group-title="tv",TV-195
-http://192.168.1.200:8000/rtp/239.33.3.195:24510
+http://192.168.1.200:5140/rtp/239.33.3.195:24510
 #EXTINF:-1 tvg-id="196" tvg-name="TV196" group-title="tv",TV-196
-http://192.168.1.200:8000/rtp/239.33.3.196:24520
+http://192.168.1.200:5140/rtp/239.33.3.196:24520
 #EXTINF:-1 tvg-id="197" tvg-name="TV197" group-title="tv",TV-197
-http://192.168.1.200:8000/rtp/239.33.3.197:24530
+http://192.168.1.200:5140/rtp/239.33.3.197:24530
 #EXTINF:-1 tvg-id="198" tvg-name="TV198" group-title="tv",TV-198
-http://192.168.1.200:8000/rtp/239.33.3.198:24540
+http://192.168.1.200:5140/rtp/239.33.3.198:24540
 #EXTINF:-1 tvg-id="199" tvg-name="TV199" group-title="tv",TV-199
-http://192.168.1.200:8000/rtp/239.33.3.199:24550
+http://192.168.1.200:5140/rtp/239.33.3.199:24550
 #EXTINF:-1 tvg-id="200" tvg-name="TV200" group-title="tv",TV-200
-http://192.168.1.200:8000/rtp/239.33.3.200:24560
+http://192.168.1.200:5140/rtp/239.33.3.200:24560
 #EXTINF:-1 tvg-id="201" tvg-name="TV201" group-title="tv",TV-201
-http://192.168.1.200:8000/rtp/239.33.3.201:24570
+http://192.168.1.200:5140/rtp/239.33.3.201:24570
 #EXTINF:-1 tvg-id="202" tvg-name="TV202" group-title="tv",TV-202
-http://192.168.1.200:8000/rtp/239.33.3.202:24580
+http://192.168.1.200:5140/rtp/239.33.3.202:24580
 #EXTINF:-1 tvg-id="203" tvg-name="TV203" group-title="tv",TV-203
-http://192.168.1.200:8000/rtp/239.33.3.203:24590
+http://192.168.1.200:5140/rtp/239.33.3.203:24590
 #EXTINF:-1 tvg-id="204" tvg-name="TV204" group-title="tv",TV-204
-http://192.168.1.200:8000/rtp/239.33.3.204:24600
+http://192.168.1.200:5140/rtp/239.33.3.204:24600
 #EXTINF:-1 tvg-id="205" tvg-name="TV205" group-title="tv",TV-205
-http://192.168.1.200:8000/rtp/239.33.3.205:24610
+http://192.168.1.200:5140/rtp/239.33.3.205:24610
 #EXTINF:-1 tvg-id="206" tvg-name="TV206" group-title="tv",TV-206
-http://192.168.1.200:8000/rtp/239.33.3.206:24620
+http://192.168.1.200:5140/rtp/239.33.3.206:24620
 #EXTINF:-1 tvg-id="207" tvg-name="TV207" group-title="tv",TV-207
-http://192.168.1.200:8000/rtp/239.33.3.207:24630
+http://192.168.1.200:5140/rtp/239.33.3.207:24630
 #EXTINF:-1 tvg-id="208" tvg-name="TV208" group-title="tv",TV-208
-http://192.168.1.200:8000/rtp/239.33.3.208:24640
+http://192.168.1.200:5140/rtp/239.33.3.208:24640
 #EXTINF:-1 tvg-id="209" tvg-name="TV209" group-title="tv",TV-209
-http://192.168.1.200:8000/rtp/239.33.3.209:24650
+http://192.168.1.200:5140/rtp/239.33.3.209:24650
 #EXTINF:-1 tvg-id="210" tvg-name="TV210" group-title="tv",TV-210
-http://192.168.1.200:8000/rtp/239.33.3.210:24660
+http://192.168.1.200:5140/rtp/239.33.3.210:24660
 #EXTINF:-1 tvg-id="211" tvg-name="TV211" group-title="tv",TV-211
-http://192.168.1.200:8000/rtp/239.33.3.211:24670
+http://192.168.1.200:5140/rtp/239.33.3.211:24670
 #EXTINF:-1 tvg-id="212" tvg-name="TV212" group-title="tv",TV-212
-http://192.168.1.200:8000/rtp/239.33.3.212:24680
+http://192.168.1.200:5140/rtp/239.33.3.212:24680
 #EXTINF:-1 tvg-id="213" tvg-name="TV213" group-title="tv",TV-213
-http://192.168.1.200:8000/rtp/239.33.3.213:24690
+http://192.168.1.200:5140/rtp/239.33.3.213:24690
 #EXTINF:-1 tvg-id="214" tvg-name="TV214" group-title="tv",TV-214
-http://192.168.1.200:8000/rtp/239.33.3.214:24700
+http://192.168.1.200:5140/rtp/239.33.3.214:24700
 #EXTINF:-1 tvg-id="215" tvg-name="TV215" group-title="tv",TV-215
-http://192.168.1.200:8000/rtp/239.33.3.215:24710
+http://192.168.1.200:5140/rtp/239.33.3.215:24710
 #EXTINF:-1 tvg-id="216" tvg-name="TV216" group-title="tv",TV-216
-http://192.168.1.200:8000/rtp/239.33.3.216:24720
+http://192.168.1.200:5140/rtp/239.33.3.216:24720
 #EXTINF:-1 tvg-id="217" tvg-name="TV217" group-title="tv",TV-217
-http://192.168.1.200:8000/rtp/239.33.3.217:24730
+http://192.168.1.200:5140/rtp/239.33.3.217:24730
 #EXTINF:-1 tvg-id="218" tvg-name="TV218" group-title="tv",TV-218
-http://192.168.1.200:8000/rtp/239.33.3.218:24740
+http://192.168.1.200:5140/rtp/239.33.3.218:24740
 #EXTINF:-1 tvg-id="219" tvg-name="TV219" group-title="tv",TV-219
-http://192.168.1.200:8000/rtp/239.33.3.219:24750
+http://192.168.1.200:5140/rtp/239.33.3.219:24750
 #EXTINF:-1 tvg-id="220" tvg-name="TV220" group-title="tv",TV-220
-http://192.168.1.200:8000/rtp/239.33.3.220:24760
+http://192.168.1.200:5140/rtp/239.33.3.220:24760
 #EXTINF:-1 tvg-id="221" tvg-name="TV221" group-title="tv",TV-221
-http://192.168.1.200:8000/rtp/239.33.3.221:24770
+http://192.168.1.200:5140/rtp/239.33.3.221:24770
 #EXTINF:-1 tvg-id="222" tvg-name="TV222" group-title="tv",TV-222
-http://192.168.1.200:8000/rtp/239.33.3.222:24780
+http://192.168.1.200:5140/rtp/239.33.3.222:24780
 #EXTINF:-1 tvg-id="223" tvg-name="TV223" group-title="tv",TV-223
-http://192.168.1.200:8000/rtp/239.33.3.223:24790
+http://192.168.1.200:5140/rtp/239.33.3.223:24790
 #EXTINF:-1 tvg-id="224" tvg-name="TV224" group-title="tv",TV-224
-http://192.168.1.200:8000/rtp/239.33.3.224:24800
+http://192.168.1.200:5140/rtp/239.33.3.224:24800
 #EXTINF:-1 tvg-id="225" tvg-name="TV225" group-title="tv",TV-225
-http://192.168.1.200:8000/rtp/239.33.3.225:24810
+http://192.168.1.200:5140/rtp/239.33.3.225:24810
 #EXTINF:-1 tvg-id="226" tvg-name="TV226" group-title="tv",TV-226
-http://192.168.1.200:8000/rtp/239.33.3.226:24820
+http://192.168.1.200:5140/rtp/239.33.3.226:24820
 #EXTINF:-1 tvg-id="227" tvg-name="TV227" group-title="tv",TV-227
-http://192.168.1.200:8000/rtp/239.33.3.227:24830
+http://192.168.1.200:5140/rtp/239.33.3.227:24830
 #EXTINF:-1 tvg-id="228" tvg-name="TV228" group-title="tv",TV-228
-http://192.168.1.200:8000/rtp/239.33.3.228:24840
+http://192.168.1.200:5140/rtp/239.33.3.228:24840
 #EXTINF:-1 tvg-id="229" tvg-name="TV229" group-title="tv",TV-229
-http://192.168.1.200:8000/rtp/239.33.3.229:24850
+http://192.168.1.200:5140/rtp/239.33.3.229:24850
 #EXTINF:-1 tvg-id="230" tvg-name="TV230" group-title="tv",TV-230
-http://192.168.1.200:8000/rtp/239.33.3.230:24860
+http://192.168.1.200:5140/rtp/239.33.3.230:24860
 #EXTINF:-1 tvg-id="231" tvg-name="TV231" group-title="tv",TV-231
-http://192.168.1.200:8000/rtp/239.33.3.231:24870
+http://192.168.1.200:5140/rtp/239.33.3.231:24870
 #EXTINF:-1 tvg-id="232" tvg-name="TV232" group-title="tv",TV-232
-http://192.168.1.200:8000/rtp/239.33.3.232:24880
+http://192.168.1.200:5140/rtp/239.33.3.232:24880
 #EXTINF:-1 tvg-id="233" tvg-name="TV233" group-title="tv",TV-233
-http://192.168.1.200:8000/rtp/239.33.3.233:24890
+http://192.168.1.200:5140/rtp/239.33.3.233:24890
 #EXTINF:-1 tvg-id="234" tvg-name="TV234" group-title="tv",TV-234
-http://192.168.1.200:8000/rtp/239.33.3.234:24900
+http://192.168.1.200:5140/rtp/239.33.3.234:24900
 #EXTINF:-1 tvg-id="235" tvg-name="TV235" group-title="tv",TV-235
-http://192.168.1.200:8000/rtp/239.33.3.235:24910
+http://192.168.1.200:5140/rtp/239.33.3.235:24910
 #EXTINF:-1 tvg-id="236" tvg-name="TV236" group-title="tv",TV-236
-http://192.168.1.200:8000/rtp/239.33.3.236:24920
+http://192.168.1.200:5140/rtp/239.33.3.236:24920
 #EXTINF:-1 tvg-id="237" tvg-name="TV237" group-title="tv",TV-237
-http://192.168.1.200:8000/rtp/239.33.3.237:24930
+http://192.168.1.200:5140/rtp/239.33.3.237:24930
 #EXTINF:-1 tvg-id="238" tvg-name="TV238" group-title="tv",TV-238
-http://192.168.1.200:8000/rtp/239.33.3.238:24940
+http://192.168.1.200:5140/rtp/239.33.3.238:24940
 #EXTINF:-1 tvg-id="239" tvg-name="TV239" group-title="tv",TV-239
-http://192.168.1.200:8000/rtp/239.33.3.239:24950
+http://192.168.1.200:5140/rtp/239.33.3.239:24950
 #EXTINF:-1 tvg-id="240" tvg-name="TV240" group-title="tv",TV-240
-http://192.168.1.200:8000/rtp/239.33.3.240:24960
+http://192.168.1.200:5140/rtp/239.33.3.240:24960
 #EXTINF:-1 tvg-id="241" tvg-name="TV241" group-title="tv",TV-241
-http://192.168.1.200:8000/rtp/239.33.3.241:24970
+http://192.168.1.200:5140/rtp/239.33.3.241:24970
 #EXTINF:-1 tvg-id="242" tvg-name="TV242" group-title="tv",TV-242
-http://192.168.1.200:8000/rtp/239.33.3.242:24980
+http://192.168.1.200:5140/rtp/239.33.3.242:24980
 #EXTINF:-1 tvg-id="243" tvg-name="TV243" group-title="tv",TV-243
-http://192.168.1.200:8000/rtp/239.33.3.243:24990
+http://192.168.1.200:5140/rtp/239.33.3.243:24990
 #EXTINF:-1 tvg-id="244" tvg-name="TV244" group-title="tv",TV-244
-http://192.168.1.200:8000/rtp/239.33.3.244:25000
+http://192.168.1.200:5140/rtp/239.33.3.244:25000
 #EXTINF:-1 tvg-id="245" tvg-name="TV245" group-title="tv",TV-245
-http://192.168.1.200:8000/rtp/239.33.3.245:25010
+http://192.168.1.200:5140/rtp/239.33.3.245:25010
 #EXTINF:-1 tvg-id="246" tvg-name="TV246" group-title="tv",TV-246
-http://192.168.1.200:8000/rtp/239.33.3.246:25020
+http://192.168.1.200:5140/rtp/239.33.3.246:25020
 #EXTINF:-1 tvg-id="247" tvg-name="TV247" group-title="tv",TV-247
-http://192.168.1.200:8000/rtp/239.33.3.247:25030
+http://192.168.1.200:5140/rtp/239.33.3.247:25030
 #EXTINF:-1 tvg-id="248" tvg-name="TV248" group-title="tv",TV-248
-http://192.168.1.200:8000/rtp/239.33.3.248:25040
+http://192.168.1.200:5140/rtp/239.33.3.248:25040
 #EXTINF:-1 tvg-id="249" tvg-name="TV249" group-title="tv",TV-249
-http://192.168.1.200:8000/rtp/239.33.3.249:25050
+http://192.168.1.200:5140/rtp/239.33.3.249:25050
 #EXTINF:-1 tvg-id="250" tvg-name="TV250" group-title="tv",TV-250
-http://192.168.1.200:8000/rtp/239.33.3.250:25060
+http://192.168.1.200:5140/rtp/239.33.3.250:25060
 #EXTINF:-1 tvg-id="251" tvg-name="TV251" group-title="tv",TV-251
-http://192.168.1.200:8000/rtp/239.33.3.251:25070
+http://192.168.1.200:5140/rtp/239.33.3.251:25070
 #EXTINF:-1 tvg-id="252" tvg-name="TV252" group-title="tv",TV-252
-http://192.168.1.200:8000/rtp/239.33.3.252:25080
+http://192.168.1.200:5140/rtp/239.33.3.252:25080
 #EXTINF:-1 tvg-id="253" tvg-name="TV253" group-title="tv",TV-253
-http://192.168.1.200:8000/rtp/239.33.3.253:25090
+http://192.168.1.200:5140/rtp/239.33.3.253:25090
 #EXTINF:-1 tvg-id="254" tvg-name="TV254" group-title="tv",TV-254
-http://192.168.1.200:8000/rtp/239.33.3.254:25100
+http://192.168.1.200:5140/rtp/239.33.3.254:25100
